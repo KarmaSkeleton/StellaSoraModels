@@ -1,0 +1,829 @@
+{
+ "id": "10301",
+ "clips": [
+  {
+   "name": "Aim",
+   "file": "Amber/Amber_anims/Aim.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 57256
+  },
+  {
+   "name": "Aim1",
+   "file": "Amber/Amber_anims/Aim1.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 54624
+  },
+  {
+   "name": "Aim_Start",
+   "file": "Amber/Amber_anims/Aim_Start.glb",
+   "face": false,
+   "duration": 0.2,
+   "loop": true,
+   "bytes": 38044
+  },
+  {
+   "name": "Aim_Start1",
+   "file": "Amber/Amber_anims/Aim_Start1.glb",
+   "face": false,
+   "duration": 0.2,
+   "loop": true,
+   "bytes": 35992
+  },
+  {
+   "name": "Attack_P02",
+   "file": "Amber/Amber_anims/Attack_P02.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": false,
+   "bytes": 207548
+  },
+  {
+   "name": "Attack_P02_ForTowerDefence",
+   "file": "Amber/Amber_anims/Attack_P02_ForTowerDefence.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 207564
+  },
+  {
+   "name": "B1_Skill_Strafing",
+   "file": "Amber/Amber_anims/B1_Skill_Strafing.glb",
+   "face": false,
+   "duration": 2.8667,
+   "loop": false,
+   "bytes": 133780
+  },
+  {
+   "name": "B1_Skill_Strafing002",
+   "file": "Amber/Amber_anims/B1_Skill_Strafing002.glb",
+   "face": false,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 119128
+  },
+  {
+   "name": "B1_Skill_Strafing003",
+   "file": "Amber/Amber_anims/B1_Skill_Strafing003.glb",
+   "face": false,
+   "duration": 1.9333,
+   "loop": false,
+   "bytes": 101228
+  },
+  {
+   "name": "B1_Skill_Strafing_Strengthen",
+   "file": "Amber/Amber_anims/B1_Skill_Strafing_Strengthen.glb",
+   "face": false,
+   "duration": 2.8333,
+   "loop": false,
+   "bytes": 138428
+  },
+  {
+   "name": "B1_Skill_Strafing_Strengthen002",
+   "file": "Amber/Amber_anims/B1_Skill_Strafing_Strengthen002.glb",
+   "face": false,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 122692
+  },
+  {
+   "name": "B1_Skill_Strafing_Strengthen003",
+   "file": "Amber/Amber_anims/B1_Skill_Strafing_Strengthen003.glb",
+   "face": false,
+   "duration": 1.8333,
+   "loop": false,
+   "bytes": 99752
+  },
+  {
+   "name": "B2_Skill_RotaryFiring_1_Start",
+   "file": "Amber/Amber_anims/B2_Skill_RotaryFiring_1_Start.glb",
+   "face": false,
+   "duration": 0.2333,
+   "loop": false,
+   "bytes": 73104
+  },
+  {
+   "name": "B2_Skill_RotaryFiring_2_Loop",
+   "file": "Amber/Amber_anims/B2_Skill_RotaryFiring_2_Loop.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 114564
+  },
+  {
+   "name": "B2_Skill_RotaryFiring_3_End",
+   "file": "Amber/Amber_anims/B2_Skill_RotaryFiring_3_End.glb",
+   "face": false,
+   "duration": 1.1333,
+   "loop": false,
+   "bytes": 97748
+  },
+  {
+   "name": "B2_Skill_SprintShoot",
+   "file": "Amber/Amber_anims/B2_Skill_SprintShoot.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": false,
+   "bytes": 293524
+  },
+  {
+   "name": "Dazed",
+   "file": "Amber/Amber_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 61916
+  },
+  {
+   "name": "Die",
+   "file": "Amber/Amber_anims/Die.glb",
+   "face": false,
+   "duration": 2.7,
+   "loop": false,
+   "bytes": 127352
+  },
+  {
+   "name": "Dodge",
+   "file": "Amber/Amber_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 82316
+  },
+  {
+   "name": "Dodge_1",
+   "file": "Amber/Amber_anims/Dodge_1.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 72756
+  },
+  {
+   "name": "Fire",
+   "file": "Amber/Amber_anims/Fire.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": true,
+   "bytes": 62300
+  },
+  {
+   "name": "Hurt",
+   "file": "Amber/Amber_anims/Hurt.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": false,
+   "bytes": 103240
+  },
+  {
+   "name": "Hurt1",
+   "file": "Amber/Amber_anims/Hurt1.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 85556
+  },
+  {
+   "name": "Hurt2",
+   "file": "Amber/Amber_anims/Hurt2.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 78776
+  },
+  {
+   "name": "Idle",
+   "file": "Amber/Amber_anims/Idle.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 59612
+  },
+  {
+   "name": "MainStoryAct_nod",
+   "file": "Amber/Amber_anims/MainStoryAct_nod.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 63560
+  },
+  {
+   "name": "MainStoryAct_ready",
+   "file": "Amber/Amber_anims/MainStoryAct_ready.glb",
+   "face": false,
+   "duration": 2.2,
+   "loop": false,
+   "bytes": 118200
+  },
+  {
+   "name": "MainStoryAct_typing",
+   "file": "Amber/Amber_anims/MainStoryAct_typing.glb",
+   "face": false,
+   "duration": 6.1333,
+   "loop": false,
+   "bytes": 152756
+  },
+  {
+   "name": "Out01",
+   "file": "Amber/Amber_anims/Out01.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 87604
+  },
+  {
+   "name": "Ready",
+   "file": "Amber/Amber_anims/Ready.glb",
+   "face": true,
+   "duration": 3.8667,
+   "loop": false,
+   "bytes": 167548
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Amber/Amber_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 58712
+  },
+  {
+   "name": "Reload",
+   "file": "Amber/Amber_anims/Reload.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 80016
+  },
+  {
+   "name": "Run",
+   "file": "Amber/Amber_anims/Run.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 86868
+  },
+  {
+   "name": "Run1",
+   "file": "Amber/Amber_anims/Run1.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 80064
+  },
+  {
+   "name": "Rush",
+   "file": "Amber/Amber_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 77048
+  },
+  {
+   "name": "RushStop",
+   "file": "Amber/Amber_anims/RushStop.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 93376
+  },
+  {
+   "name": "Skill0_2",
+   "file": "Amber/Amber_anims/Skill0_2.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 86756
+  },
+  {
+   "name": "Support_Skill_P24_StandShoot",
+   "file": "Amber/Amber_anims/Support_Skill_P24_StandShoot.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 124852
+  },
+  {
+   "name": "Timeline",
+   "file": "Amber/Amber_anims/Timeline.glb",
+   "face": true,
+   "duration": 3.0667,
+   "loop": false,
+   "bytes": 158600
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Amber/Amber_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 2.1333,
+   "loop": false,
+   "bytes": 172324
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Amber/Amber_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 110336
+  },
+  {
+   "name": "Victory",
+   "file": "Amber/Amber_anims/Victory.glb",
+   "face": true,
+   "duration": 5.6667,
+   "loop": false,
+   "bytes": 195468
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Amber/Amber_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.6667,
+   "loop": true,
+   "bytes": 84592
+  },
+  {
+   "name": "Walk",
+   "file": "Amber/Amber_anims/Walk.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": true,
+   "bytes": 73384
+  },
+  {
+   "name": "Walk1",
+   "file": "Amber/Amber_anims/Walk1.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": true,
+   "bytes": 72928
+  },
+  {
+   "name": "Walk_Backward",
+   "file": "Amber/Amber_anims/Walk_Backward.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 66780
+  },
+  {
+   "name": "Walk_Backward1",
+   "file": "Amber/Amber_anims/Walk_Backward1.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 63024
+  },
+  {
+   "name": "Walk_Forward",
+   "file": "Amber/Amber_anims/Walk_Forward.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 67080
+  },
+  {
+   "name": "Walk_Forward1",
+   "file": "Amber/Amber_anims/Walk_Forward1.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 63340
+  },
+  {
+   "name": "Walk_Left",
+   "file": "Amber/Amber_anims/Walk_Left.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 66436
+  },
+  {
+   "name": "Walk_Left1",
+   "file": "Amber/Amber_anims/Walk_Left1.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 63252
+  },
+  {
+   "name": "Walk_Right",
+   "file": "Amber/Amber_anims/Walk_Right.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 67756
+  },
+  {
+   "name": "Walk_Right1",
+   "file": "Amber/Amber_anims/Walk_Right1.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 64472
+  },
+  {
+   "name": "Episode0Act_Back2-1-3",
+   "file": "Amber/Amber_anims/Episode0Act_Back2-1-3.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 115312
+  },
+  {
+   "name": "Episode0Act_Back2-2-3",
+   "file": "Amber/Amber_anims/Episode0Act_Back2-2-3.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 115312
+  },
+  {
+   "name": "Episode0Act_Back2-2-4_End",
+   "file": "Amber/Amber_anims/Episode0Act_Back2-2-4_End.glb",
+   "face": false,
+   "duration": 1.4333,
+   "loop": false,
+   "bytes": 106520
+  },
+  {
+   "name": "Episode0Act_Back2-2-4_Loop",
+   "file": "Amber/Amber_anims/Episode0Act_Back2-2-4_Loop.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 65804
+  },
+  {
+   "name": "Episode0Act_Back2-2-4_Start",
+   "file": "Amber/Amber_anims/Episode0Act_Back2-2-4_Start.glb",
+   "face": false,
+   "duration": 0.2667,
+   "loop": false,
+   "bytes": 54532
+  },
+  {
+   "name": "Episode0Act_Idle3-1",
+   "file": "Amber/Amber_anims/Episode0Act_Idle3-1.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 92116
+  },
+  {
+   "name": "Episode0Act_Run2-1-2",
+   "file": "Amber/Amber_anims/Episode0Act_Run2-1-2.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": true,
+   "bytes": 102776
+  },
+  {
+   "name": "Episode0Act_Run2-2-1",
+   "file": "Amber/Amber_anims/Episode0Act_Run2-2-1.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": true,
+   "bytes": 90264
+  },
+  {
+   "name": "Episode0Act_Run3-1",
+   "file": "Amber/Amber_anims/Episode0Act_Run3-1.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 103428
+  },
+  {
+   "name": "Episode0Act_Run4-2",
+   "file": "Amber/Amber_anims/Episode0Act_Run4-2.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 95764
+  },
+  {
+   "name": "Episode0Act_Run4-2-B",
+   "file": "Amber/Amber_anims/Episode0Act_Run4-2-B.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 95224
+  },
+  {
+   "name": "Episode0Act_Run4-2-F",
+   "file": "Amber/Amber_anims/Episode0Act_Run4-2-F.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 95304
+  },
+  {
+   "name": "Episode0Act_Run4-2-L",
+   "file": "Amber/Amber_anims/Episode0Act_Run4-2-L.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 95564
+  },
+  {
+   "name": "Episode0Act_Run4-2-L-Sky",
+   "file": "Amber/Amber_anims/Episode0Act_Run4-2-L-Sky.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 95360
+  },
+  {
+   "name": "Episode0Act_Run4-2-Land-L",
+   "file": "Amber/Amber_anims/Episode0Act_Run4-2-Land-L.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 76596
+  },
+  {
+   "name": "Episode0Act_Run4-2-Land-M",
+   "file": "Amber/Amber_anims/Episode0Act_Run4-2-Land-M.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": false,
+   "bytes": 74360
+  },
+  {
+   "name": "Episode0Act_Run4-2-R",
+   "file": "Amber/Amber_anims/Episode0Act_Run4-2-R.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 96132
+  },
+  {
+   "name": "Episode0Act_Run4-2-R-Sky",
+   "file": "Amber/Amber_anims/Episode0Act_Run4-2-R-Sky.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 95096
+  },
+  {
+   "name": "Episode0Act_Run4-2-Sky",
+   "file": "Amber/Amber_anims/Episode0Act_Run4-2-Sky.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 96144
+  },
+  {
+   "name": "Episode0Act_Sp3",
+   "file": "Amber/Amber_anims/Episode0Act_Sp3.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 146308
+  },
+  {
+   "name": "Episode0Act_Sp4",
+   "file": "Amber/Amber_anims/Episode0Act_Sp4.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": false,
+   "bytes": 99392
+  },
+  {
+   "name": "Episode0Act_SpRun4-1-End",
+   "file": "Amber/Amber_anims/Episode0Act_SpRun4-1-End.glb",
+   "face": false,
+   "duration": 3.5667,
+   "loop": false,
+   "bytes": 164820
+  },
+  {
+   "name": "Episode0Act_SpRun4-1-Loop",
+   "file": "Amber/Amber_anims/Episode0Act_SpRun4-1-Loop.glb",
+   "face": false,
+   "duration": 2.6333,
+   "loop": true,
+   "bytes": 126916
+  },
+  {
+   "name": "Episode0Act_SpRun4-1-Start",
+   "file": "Amber/Amber_anims/Episode0Act_SpRun4-1-Start.glb",
+   "face": false,
+   "duration": 2.1,
+   "loop": false,
+   "bytes": 112440
+  },
+  {
+   "name": "Episode0Act_SpRun4-2",
+   "file": "Amber/Amber_anims/Episode0Act_SpRun4-2.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": false,
+   "bytes": 120552
+  },
+  {
+   "name": "Episode0Act_SpRun4-3-End",
+   "file": "Amber/Amber_anims/Episode0Act_SpRun4-3-End.glb",
+   "face": false,
+   "duration": 5.1667,
+   "loop": false,
+   "bytes": 138636
+  },
+  {
+   "name": "Episode0Act_SpRun4-3-Loop",
+   "file": "Amber/Amber_anims/Episode0Act_SpRun4-3-Loop.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 89064
+  },
+  {
+   "name": "Episode0Act_SpRun4-3-Start",
+   "file": "Amber/Amber_anims/Episode0Act_SpRun4-3-Start.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 86536
+  },
+  {
+   "name": "PrologueAct_Status1_End",
+   "file": "Amber/Amber_anims/PrologueAct_Status1_End.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 93364
+  },
+  {
+   "name": "PrologueAct_Status1_Enter",
+   "file": "Amber/Amber_anims/PrologueAct_Status1_Enter.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 103016
+  },
+  {
+   "name": "PrologueAct_Status1_Idle",
+   "file": "Amber/Amber_anims/PrologueAct_Status1_Idle.glb",
+   "face": false,
+   "duration": 6.6667,
+   "loop": true,
+   "bytes": 172120
+  },
+  {
+   "name": "PrologueAct_Status1_LookBack",
+   "file": "Amber/Amber_anims/PrologueAct_Status1_LookBack.glb",
+   "face": false,
+   "duration": 3.1667,
+   "loop": false,
+   "bytes": 118480
+  },
+  {
+   "name": "PrologueAct_Status1_LookDown",
+   "file": "Amber/Amber_anims/PrologueAct_Status1_LookDown.glb",
+   "face": false,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 160436
+  },
+  {
+   "name": "PrologueAct_Status1_Move",
+   "file": "Amber/Amber_anims/PrologueAct_Status1_Move.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 88856
+  },
+  {
+   "name": "PrologueAct_Status1_Move1",
+   "file": "Amber/Amber_anims/PrologueAct_Status1_Move1.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 88860
+  },
+  {
+   "name": "PrologueAct_Status2_End",
+   "file": "Amber/Amber_anims/PrologueAct_Status2_End.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 82416
+  },
+  {
+   "name": "PrologueAct_Status2_Enter",
+   "file": "Amber/Amber_anims/PrologueAct_Status2_Enter.glb",
+   "face": false,
+   "duration": 9.4333,
+   "loop": false,
+   "bytes": 327332
+  },
+  {
+   "name": "PrologueAct_Status2_Idle",
+   "file": "Amber/Amber_anims/PrologueAct_Status2_Idle.glb",
+   "face": false,
+   "duration": 3.3333,
+   "loop": true,
+   "bytes": 108192
+  },
+  {
+   "name": "PrologueAct_Status2_LookBack",
+   "file": "Amber/Amber_anims/PrologueAct_Status2_LookBack.glb",
+   "face": false,
+   "duration": 3.1667,
+   "loop": false,
+   "bytes": 117280
+  },
+  {
+   "name": "PrologueAct_Status2_LookDown",
+   "file": "Amber/Amber_anims/PrologueAct_Status2_LookDown.glb",
+   "face": false,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 158680
+  },
+  {
+   "name": "PrologueAct_Status2_Move",
+   "file": "Amber/Amber_anims/PrologueAct_Status2_Move.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 88176
+  },
+  {
+   "name": "PrologueAct_Status2_Walk",
+   "file": "Amber/Amber_anims/PrologueAct_Status2_Walk.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 92264
+  },
+  {
+   "name": "PrologueAct_Status3_BattleEnd",
+   "file": "Amber/Amber_anims/PrologueAct_Status3_BattleEnd.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 77368
+  },
+  {
+   "name": "PrologueAct_Status3_End",
+   "file": "Amber/Amber_anims/PrologueAct_Status3_End.glb",
+   "face": false,
+   "duration": 3.5,
+   "loop": false,
+   "bytes": 128780
+  },
+  {
+   "name": "PrologueAct_Status4_Idle",
+   "file": "Amber/Amber_anims/PrologueAct_Status4_Idle.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 92956
+  },
+  {
+   "name": "PrologueAct_Status4_Move",
+   "file": "Amber/Amber_anims/PrologueAct_Status4_Move.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": true,
+   "bytes": 113424
+  },
+  {
+   "name": "PrologueAct_Status5_End",
+   "file": "Amber/Amber_anims/PrologueAct_Status5_End.glb",
+   "face": false,
+   "duration": 5.7667,
+   "loop": false,
+   "bytes": 198984
+  },
+  {
+   "name": "PrologueAct_Status5_Idle",
+   "file": "Amber/Amber_anims/PrologueAct_Status5_Idle.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 102588
+  },
+  {
+   "name": "PrologueAct_Status5_Move",
+   "file": "Amber/Amber_anims/PrologueAct_Status5_Move.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 111824
+  },
+  {
+   "name": "PrologueAct_Status5_SP",
+   "file": "Amber/Amber_anims/PrologueAct_Status5_SP.glb",
+   "face": false,
+   "duration": 2.0667,
+   "loop": false,
+   "bytes": 119364
+  }
+ ]
+}

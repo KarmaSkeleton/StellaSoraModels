@@ -1,0 +1,221 @@
+{
+ "id": "13301",
+ "clips": [
+  {
+   "name": "Attack_1",
+   "file": "Nazuka/Nazuka_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": false,
+   "bytes": 141376
+  },
+  {
+   "name": "Attack_2",
+   "file": "Nazuka/Nazuka_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 164224
+  },
+  {
+   "name": "Attack_3",
+   "file": "Nazuka/Nazuka_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 194980
+  },
+  {
+   "name": "B1_Skill_End",
+   "file": "Nazuka/Nazuka_anims/B1_Skill_End.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 124580
+  },
+  {
+   "name": "B1_Skill_End_Perk03",
+   "file": "Nazuka/Nazuka_anims/B1_Skill_End_Perk03.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 195312
+  },
+  {
+   "name": "B1_Skill_Loop",
+   "file": "Nazuka/Nazuka_anims/B1_Skill_Loop.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": true,
+   "bytes": 120540
+  },
+  {
+   "name": "B1_Skill_Start",
+   "file": "Nazuka/Nazuka_anims/B1_Skill_Start.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 159464
+  },
+  {
+   "name": "B2_Skill",
+   "file": "Nazuka/Nazuka_anims/B2_Skill.glb",
+   "face": false,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 220520
+  },
+  {
+   "name": "Daze",
+   "file": "Nazuka/Nazuka_anims/Daze.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 98424
+  },
+  {
+   "name": "Die",
+   "file": "Nazuka/Nazuka_anims/Die.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 172420
+  },
+  {
+   "name": "Dodge",
+   "file": "Nazuka/Nazuka_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 135528
+  },
+  {
+   "name": "HurtA1",
+   "file": "Nazuka/Nazuka_anims/HurtA1.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 128524
+  },
+  {
+   "name": "HurtA2",
+   "file": "Nazuka/Nazuka_anims/HurtA2.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 125620
+  },
+  {
+   "name": "HurtB",
+   "file": "Nazuka/Nazuka_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 151180
+  },
+  {
+   "name": "Idle",
+   "file": "Nazuka/Nazuka_anims/Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 94232
+  },
+  {
+   "name": "Out01",
+   "file": "Nazuka/Nazuka_anims/Out01.glb",
+   "face": false,
+   "duration": 1.2667,
+   "loop": false,
+   "bytes": 141692
+  },
+  {
+   "name": "Ready",
+   "file": "Nazuka/Nazuka_anims/Ready.glb",
+   "face": true,
+   "duration": 5.7333,
+   "loop": false,
+   "bytes": 247700
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Nazuka/Nazuka_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.6,
+   "loop": true,
+   "bytes": 86180
+  },
+  {
+   "name": "Run",
+   "file": "Nazuka/Nazuka_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 120204
+  },
+  {
+   "name": "Rush",
+   "file": "Nazuka/Nazuka_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 111872
+  },
+  {
+   "name": "RushStop",
+   "file": "Nazuka/Nazuka_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 143956
+  },
+  {
+   "name": "Timeline",
+   "file": "Nazuka/Nazuka_anims/Timeline.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": false,
+   "bytes": 250676
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Nazuka/Nazuka_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 9.3333,
+   "loop": false,
+   "bytes": 259756
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Nazuka/Nazuka_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 8.3333,
+   "loop": false,
+   "bytes": 228592
+  },
+  {
+   "name": "Victory",
+   "file": "Nazuka/Nazuka_anims/Victory.glb",
+   "face": true,
+   "duration": 5.7333,
+   "loop": false,
+   "bytes": 207788
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Nazuka/Nazuka_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.65,
+   "loop": true,
+   "bytes": 86368
+  },
+  {
+   "name": "Walk",
+   "file": "Nazuka/Nazuka_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 109612
+  }
+ ]
+}

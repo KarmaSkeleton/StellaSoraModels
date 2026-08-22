@@ -1,0 +1,357 @@
+{
+ "id": "13001",
+ "clips": [
+  {
+   "name": "Aim_1",
+   "file": "Donna/Donna_anims/Aim_1.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 70476
+  },
+  {
+   "name": "Aim_2",
+   "file": "Donna/Donna_anims/Aim_2.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 65912
+  },
+  {
+   "name": "B1P11_Skill_Shoot_1_Start",
+   "file": "Donna/Donna_anims/B1P11_Skill_Shoot_1_Start.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 68916
+  },
+  {
+   "name": "B1_Skill_Publicize",
+   "file": "Donna/Donna_anims/B1_Skill_Publicize.glb",
+   "face": false,
+   "duration": 1.8667,
+   "loop": false,
+   "bytes": 149428
+  },
+  {
+   "name": "B1_Skill_Shoot_1_Start",
+   "file": "Donna/Donna_anims/B1_Skill_Shoot_1_Start.glb",
+   "face": false,
+   "duration": 0.3667,
+   "loop": false,
+   "bytes": 49852
+  },
+  {
+   "name": "B1_Skill_Shoot_2_Loop",
+   "file": "Donna/Donna_anims/B1_Skill_Shoot_2_Loop.glb",
+   "face": true,
+   "duration": 1.2333,
+   "loop": true,
+   "bytes": 75376
+  },
+  {
+   "name": "B1_Skill_Shoot_3_End",
+   "file": "Donna/Donna_anims/B1_Skill_Shoot_3_End.glb",
+   "face": false,
+   "duration": 0.5667,
+   "loop": false,
+   "bytes": 52072
+  },
+  {
+   "name": "B1_Skill_Summon_Boom",
+   "file": "Donna/Donna_anims/B1_Skill_Summon_Boom.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 9856
+  },
+  {
+   "name": "B1_Skill_Summon_Born",
+   "file": "Donna/Donna_anims/B1_Skill_Summon_Born.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 13200
+  },
+  {
+   "name": "B1_Skill_Summon_Dazed",
+   "file": "Donna/Donna_anims/B1_Skill_Summon_Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 7876
+  },
+  {
+   "name": "B1_Skill_Summon_End",
+   "file": "Donna/Donna_anims/B1_Skill_Summon_End.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 4296
+  },
+  {
+   "name": "B1_Skill_Summon_Hurt",
+   "file": "Donna/Donna_anims/B1_Skill_Summon_Hurt.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 9360
+  },
+  {
+   "name": "B1_Skill_Summon_Idle",
+   "file": "Donna/Donna_anims/B1_Skill_Summon_Idle.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 7580
+  },
+  {
+   "name": "B1_Skill_Summon_Perk03_Hurt",
+   "file": "Donna/Donna_anims/B1_Skill_Summon_Perk03_Hurt.glb",
+   "face": false,
+   "duration": 1.8667,
+   "loop": false,
+   "bytes": 11584
+  },
+  {
+   "name": "B1_Skill_Summon_Perk04_Boom",
+   "file": "Donna/Donna_anims/B1_Skill_Summon_Perk04_Boom.glb",
+   "face": false,
+   "duration": 1.2667,
+   "loop": false,
+   "bytes": 12260
+  },
+  {
+   "name": "B1_Skill_Summon_taunt",
+   "file": "Donna/Donna_anims/B1_Skill_Summon_taunt.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 9568
+  },
+  {
+   "name": "B2_Skill_ContinuousArchery",
+   "file": "Donna/Donna_anims/B2_Skill_ContinuousArchery.glb",
+   "face": false,
+   "duration": 7.3,
+   "loop": false,
+   "bytes": 491068
+  },
+  {
+   "name": "B2_Skill_Defend",
+   "file": "Donna/Donna_anims/B2_Skill_Defend.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": false,
+   "bytes": 129316
+  },
+  {
+   "name": "Dazed",
+   "file": "Donna/Donna_anims/Dazed.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 64944
+  },
+  {
+   "name": "Die",
+   "file": "Donna/Donna_anims/Die.glb",
+   "face": false,
+   "duration": 2.4333,
+   "loop": false,
+   "bytes": 157280
+  },
+  {
+   "name": "Dodge",
+   "file": "Donna/Donna_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 93608
+  },
+  {
+   "name": "HurtA1",
+   "file": "Donna/Donna_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 81472
+  },
+  {
+   "name": "HurtA2",
+   "file": "Donna/Donna_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 86236
+  },
+  {
+   "name": "HurtB",
+   "file": "Donna/Donna_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 69416
+  },
+  {
+   "name": "Idle",
+   "file": "Donna/Donna_anims/Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 67164
+  },
+  {
+   "name": "Out01",
+   "file": "Donna/Donna_anims/Out01.glb",
+   "face": true,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 150328
+  },
+  {
+   "name": "Ready",
+   "file": "Donna/Donna_anims/Ready.glb",
+   "face": true,
+   "duration": 4.5,
+   "loop": false,
+   "bytes": 246128
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Donna/Donna_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 76072
+  },
+  {
+   "name": "Run",
+   "file": "Donna/Donna_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 85616
+  },
+  {
+   "name": "Rush",
+   "file": "Donna/Donna_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 84788
+  },
+  {
+   "name": "Rush_Stop",
+   "file": "Donna/Donna_anims/Rush_Stop.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 96956
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Donna/Donna_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": false,
+   "bytes": 210716
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Donna/Donna_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 1.8333,
+   "loop": false,
+   "bytes": 146824
+  },
+  {
+   "name": "Victory",
+   "file": "Donna/Donna_anims/Victory.glb",
+   "face": true,
+   "duration": 2.1333,
+   "loop": false,
+   "bytes": 151852
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Donna/Donna_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 65540
+  },
+  {
+   "name": "Walk",
+   "file": "Donna/Donna_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 65916
+  },
+  {
+   "name": "WalkBackward",
+   "file": "Donna/Donna_anims/WalkBackward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 60216
+  },
+  {
+   "name": "WalkForward",
+   "file": "Donna/Donna_anims/WalkForward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 59292
+  },
+  {
+   "name": "WalkLeft",
+   "file": "Donna/Donna_anims/WalkLeft.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 53864
+  },
+  {
+   "name": "WalkRight",
+   "file": "Donna/Donna_anims/WalkRight.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 58376
+  },
+  {
+   "name": "attack_1_Start",
+   "file": "Donna/Donna_anims/attack_1_Start.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": false,
+   "bytes": 85752
+  },
+  {
+   "name": "attack_2_Loop",
+   "file": "Donna/Donna_anims/attack_2_Loop.glb",
+   "face": true,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 111384
+  },
+  {
+   "name": "attack_3_End",
+   "file": "Donna/Donna_anims/attack_3_End.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 83620
+  },
+  {
+   "name": "timeline",
+   "file": "Donna/Donna_anims/timeline.glb",
+   "face": true,
+   "duration": 4.5,
+   "loop": false,
+   "bytes": 321216
+  }
+ ]
+}

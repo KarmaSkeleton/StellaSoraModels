@@ -1,0 +1,61 @@
+{
+ "id": "10304",
+ "clips": [
+  {
+   "name": "Cat_Victory",
+   "file": "Amber/Amber_Ease_Into_an_Unhurried_Summer_anims/Cat_Victory.glb",
+   "face": false,
+   "duration": 5.6667,
+   "loop": false,
+   "bytes": 2700
+  },
+  {
+   "name": "Cat_VictoryLoop",
+   "file": "Amber/Amber_Ease_Into_an_Unhurried_Summer_anims/Cat_VictoryLoop.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": true,
+   "bytes": 1340
+  },
+  {
+   "name": "Ready",
+   "file": "Amber/Amber_Ease_Into_an_Unhurried_Summer_anims/Ready.glb",
+   "face": true,
+   "duration": 3.8667,
+   "loop": false,
+   "bytes": 252592
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Amber/Amber_Ease_Into_an_Unhurried_Summer_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 83524
+  },
+  {
+   "name": "Timeline",
+   "file": "Amber/Amber_Ease_Into_an_Unhurried_Summer_anims/Timeline.glb",
+   "face": true,
+   "duration": 3.0667,
+   "loop": false,
+   "bytes": 238948
+  },
+  {
+   "name": "Victory",
+   "file": "Amber/Amber_Ease_Into_an_Unhurried_Summer_anims/Victory.glb",
+   "face": true,
+   "duration": 5.6667,
+   "loop": false,
+   "bytes": 169184
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Amber/Amber_Ease_Into_an_Unhurried_Summer_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.6667,
+   "loop": true,
+   "bytes": 79800
+  }
+ ]
+}

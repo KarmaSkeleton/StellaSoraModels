@@ -1,0 +1,45 @@
+{
+ "id": "13303",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Nazuka/Nazuka_A_Dip_of_Fresh_Summer_anims/Ready.glb",
+   "face": true,
+   "duration": 5.7333,
+   "loop": false,
+   "bytes": 302028
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Nazuka/Nazuka_A_Dip_of_Fresh_Summer_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.6,
+   "loop": true,
+   "bytes": 135336
+  },
+  {
+   "name": "Timeline",
+   "file": "Nazuka/Nazuka_A_Dip_of_Fresh_Summer_anims/Timeline.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": false,
+   "bytes": 395936
+  },
+  {
+   "name": "Victory",
+   "file": "Nazuka/Nazuka_A_Dip_of_Fresh_Summer_anims/Victory.glb",
+   "face": true,
+   "duration": 5.7333,
+   "loop": false,
+   "bytes": 253252
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Nazuka/Nazuka_A_Dip_of_Fresh_Summer_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.65,
+   "loop": true,
+   "bytes": 106376
+  }
+ ]
+}
