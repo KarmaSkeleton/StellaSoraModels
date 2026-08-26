@@ -1,0 +1,229 @@
+{
+ "id": "12301",
+ "clips": [
+  {
+   "name": "timeline",
+   "file": "Ann/Ann_anims/timeline.glb",
+   "face": false,
+   "duration": 2.8333,
+   "loop": false,
+   "bytes": 218568
+  },
+  {
+   "name": "Attack",
+   "file": "Ann/Ann_anims/Attack.glb",
+   "face": false,
+   "duration": 4.6667,
+   "loop": false,
+   "bytes": 404732
+  },
+  {
+   "name": "Attack_1",
+   "file": "Ann/Ann_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 143120
+  },
+  {
+   "name": "Attack_2",
+   "file": "Ann/Ann_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 155216
+  },
+  {
+   "name": "Attack_3",
+   "file": "Ann/Ann_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 86116
+  },
+  {
+   "name": "Attack_3_B9",
+   "file": "Ann/Ann_anims/Attack_3_B9.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 189436
+  },
+  {
+   "name": "Attack_4",
+   "file": "Ann/Ann_anims/Attack_4.glb",
+   "face": false,
+   "duration": 1.7,
+   "loop": false,
+   "bytes": 231916
+  },
+  {
+   "name": "B1_Skill_WindWall",
+   "file": "Ann/Ann_anims/B1_Skill_WindWall.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 165684
+  },
+  {
+   "name": "B2_Skill_Balloonfish",
+   "file": "Ann/Ann_anims/B2_Skill_Balloonfish.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 144784
+  },
+  {
+   "name": "Dazed",
+   "file": "Ann/Ann_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 76096
+  },
+  {
+   "name": "Dead",
+   "file": "Ann/Ann_anims/Dead.glb",
+   "face": false,
+   "duration": 3.3333,
+   "loop": false,
+   "bytes": 187096
+  },
+  {
+   "name": "Dodge",
+   "file": "Ann/Ann_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 137240
+  },
+  {
+   "name": "DodgeUlti",
+   "file": "Ann/Ann_anims/DodgeUlti.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 127860
+  },
+  {
+   "name": "HurtA1",
+   "file": "Ann/Ann_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 94412
+  },
+  {
+   "name": "HurtA2",
+   "file": "Ann/Ann_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 93884
+  },
+  {
+   "name": "HurtB",
+   "file": "Ann/Ann_anims/HurtB.glb",
+   "face": false,
+   "duration": 0.7,
+   "loop": false,
+   "bytes": 119836
+  },
+  {
+   "name": "Idle",
+   "file": "Ann/Ann_anims/Idle.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 70972
+  },
+  {
+   "name": "Out01",
+   "file": "Ann/Ann_anims/Out01.glb",
+   "face": false,
+   "duration": 1.1333,
+   "loop": false,
+   "bytes": 117288
+  },
+  {
+   "name": "Ready",
+   "file": "Ann/Ann_anims/Ready.glb",
+   "face": true,
+   "duration": 5.1333,
+   "loop": false,
+   "bytes": 230480
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Ann/Ann_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.8667,
+   "loop": true,
+   "bytes": 46116
+  },
+  {
+   "name": "Run",
+   "file": "Ann/Ann_anims/Run.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": true,
+   "bytes": 88732
+  },
+  {
+   "name": "Rush",
+   "file": "Ann/Ann_anims/Rush.glb",
+   "face": false,
+   "duration": 0.4667,
+   "loop": true,
+   "bytes": 97036
+  },
+  {
+   "name": "RushStop",
+   "file": "Ann/Ann_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.2667,
+   "loop": false,
+   "bytes": 133008
+  },
+  {
+   "name": "Standby",
+   "file": "Ann/Ann_anims/Standby.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": true,
+   "bytes": 61560
+  },
+  {
+   "name": "Ultra",
+   "file": "Ann/Ann_anims/Ultra.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 155844
+  },
+  {
+   "name": "Victory",
+   "file": "Ann/Ann_anims/Victory.glb",
+   "face": true,
+   "duration": 4.3333,
+   "loop": false,
+   "bytes": 180836
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Ann/Ann_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 49368
+  },
+  {
+   "name": "Walk",
+   "file": "Ann/Ann_anims/Walk.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": true,
+   "bytes": 95348
+  }
+ ]
+}

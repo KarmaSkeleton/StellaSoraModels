@@ -1,0 +1,45 @@
+{
+ "id": "13504",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Mistique/Mistique_Carefree_in_the_Golden_Glow_anims/Ready.glb",
+   "face": true,
+   "duration": 6.2333,
+   "loop": false,
+   "bytes": 309876
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Mistique/Mistique_Carefree_in_the_Golden_Glow_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.2,
+   "loop": true,
+   "bytes": 86028
+  },
+  {
+   "name": "Timeline",
+   "file": "Mistique/Mistique_Carefree_in_the_Golden_Glow_anims/Timeline.glb",
+   "face": true,
+   "duration": 3.3667,
+   "loop": false,
+   "bytes": 338916
+  },
+  {
+   "name": "Victory",
+   "file": "Mistique/Mistique_Carefree_in_the_Golden_Glow_anims/Victory.glb",
+   "face": true,
+   "duration": 4.1833,
+   "loop": false,
+   "bytes": 151000
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Mistique/Mistique_Carefree_in_the_Golden_Glow_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.5333,
+   "loop": true,
+   "bytes": 89284
+  }
+ ]
+}

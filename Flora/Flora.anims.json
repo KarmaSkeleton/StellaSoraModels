@@ -1,0 +1,333 @@
+{
+ "id": "12601",
+ "clips": [
+  {
+   "name": "Aim_Idle",
+   "file": "Flora/Flora_anims/Aim_Idle.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 74544
+  },
+  {
+   "name": "Attack_1",
+   "file": "Flora/Flora_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 112568
+  },
+  {
+   "name": "Attack_2",
+   "file": "Flora/Flora_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": false,
+   "bytes": 123444
+  },
+  {
+   "name": "Attack_3",
+   "file": "Flora/Flora_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 128532
+  },
+  {
+   "name": "Attack_A",
+   "file": "Flora/Flora_anims/Attack_A.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 125836
+  },
+  {
+   "name": "Attack_B",
+   "file": "Flora/Flora_anims/Attack_B.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 123172
+  },
+  {
+   "name": "Attack_C",
+   "file": "Flora/Flora_anims/Attack_C.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 142484
+  },
+  {
+   "name": "B1_Skill",
+   "file": "Flora/Flora_anims/B1_Skill.glb",
+   "face": false,
+   "duration": 2.7667,
+   "loop": false,
+   "bytes": 151464
+  },
+  {
+   "name": "B1_Skill_P02",
+   "file": "Flora/Flora_anims/B1_Skill_P02.glb",
+   "face": false,
+   "duration": 2.0333,
+   "loop": false,
+   "bytes": 116276
+  },
+  {
+   "name": "B1_Skill_P04",
+   "file": "Flora/Flora_anims/B1_Skill_P04.glb",
+   "face": false,
+   "duration": 2.7667,
+   "loop": false,
+   "bytes": 162748
+  },
+  {
+   "name": "B1_Skill_P04_Born",
+   "file": "Flora/Flora_anims/B1_Skill_P04_Born.glb",
+   "face": false,
+   "duration": 2.2,
+   "loop": false,
+   "bytes": 113844
+  },
+  {
+   "name": "B2_Skill",
+   "file": "Flora/Flora_anims/B2_Skill.glb",
+   "face": false,
+   "duration": 2.2333,
+   "loop": false,
+   "bytes": 148100
+  },
+  {
+   "name": "Dazed",
+   "file": "Flora/Flora_anims/Dazed.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 106644
+  },
+  {
+   "name": "Die",
+   "file": "Flora/Flora_anims/Die.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 139760
+  },
+  {
+   "name": "Dodge",
+   "file": "Flora/Flora_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": false,
+   "bytes": 136600
+  },
+  {
+   "name": "HurtA1",
+   "file": "Flora/Flora_anims/HurtA1.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 87960
+  },
+  {
+   "name": "HurtA2",
+   "file": "Flora/Flora_anims/HurtA2.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 100792
+  },
+  {
+   "name": "HurtB",
+   "file": "Flora/Flora_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": false,
+   "bytes": 111372
+  },
+  {
+   "name": "Idle",
+   "file": "Flora/Flora_anims/Idle.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 76952
+  },
+  {
+   "name": "Out01",
+   "file": "Flora/Flora_anims/Out01.glb",
+   "face": false,
+   "duration": 1.8,
+   "loop": false,
+   "bytes": 112096
+  },
+  {
+   "name": "Passive_Box_Born",
+   "file": "Flora/Flora_anims/Passive_Box_Born.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 760
+  },
+  {
+   "name": "Passive_Box_Idle",
+   "file": "Flora/Flora_anims/Passive_Box_Idle.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 760
+  },
+  {
+   "name": "Phoenix_Ultra",
+   "file": "Flora/Flora_anims/Phoenix_Ultra.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 3116
+  },
+  {
+   "name": "Phoenix_Ultra_Down",
+   "file": "Flora/Flora_anims/Phoenix_Ultra_Down.glb",
+   "face": false,
+   "duration": 0.4,
+   "loop": false,
+   "bytes": 2700
+  },
+  {
+   "name": "Phoenix_Ultra_End",
+   "file": "Flora/Flora_anims/Phoenix_Ultra_End.glb",
+   "face": false,
+   "duration": 0.3667,
+   "loop": false,
+   "bytes": 1392
+  },
+  {
+   "name": "Ready",
+   "file": "Flora/Flora_anims/Ready.glb",
+   "face": true,
+   "duration": 7.6333,
+   "loop": false,
+   "bytes": 283028
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Flora/Flora_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.2,
+   "loop": true,
+   "bytes": 69372
+  },
+  {
+   "name": "Run",
+   "file": "Flora/Flora_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 88020
+  },
+  {
+   "name": "Rush",
+   "file": "Flora/Flora_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 79376
+  },
+  {
+   "name": "RushStop",
+   "file": "Flora/Flora_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 107744
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Flora/Flora_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 3.7667,
+   "loop": false,
+   "bytes": 223920
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Flora/Flora_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 2.2667,
+   "loop": false,
+   "bytes": 134124
+  },
+  {
+   "name": "Victory",
+   "file": "Flora/Flora_anims/Victory.glb",
+   "face": true,
+   "duration": 5.7667,
+   "loop": false,
+   "bytes": 140288
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Flora/Flora_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.2667,
+   "loop": true,
+   "bytes": 61200
+  },
+  {
+   "name": "Walk",
+   "file": "Flora/Flora_anims/Walk.glb",
+   "face": false,
+   "duration": 1.1333,
+   "loop": true,
+   "bytes": 77604
+  },
+  {
+   "name": "Walk_Backward",
+   "file": "Flora/Flora_anims/Walk_Backward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 77040
+  },
+  {
+   "name": "Walk_Forward",
+   "file": "Flora/Flora_anims/Walk_Forward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 80656
+  },
+  {
+   "name": "Walk_Left",
+   "file": "Flora/Flora_anims/Walk_Left.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 75780
+  },
+  {
+   "name": "Walk_Right",
+   "file": "Flora/Flora_anims/Walk_Right.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 75668
+  },
+  {
+   "name": "timeline",
+   "file": "Flora/Flora_anims/timeline.glb",
+   "face": true,
+   "duration": 3.9667,
+   "loop": false,
+   "bytes": 197228
+  },
+  {
+   "name": "timeline_phoenix",
+   "file": "Flora/Flora_anims/timeline_phoenix.glb",
+   "face": false,
+   "duration": 3.9667,
+   "loop": false,
+   "bytes": 12136
+  }
+ ]
+}

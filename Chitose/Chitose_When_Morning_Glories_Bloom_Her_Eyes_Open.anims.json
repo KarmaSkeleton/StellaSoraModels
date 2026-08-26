@@ -1,0 +1,45 @@
+{
+ "id": "14403",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Chitose/Chitose_When_Morning_Glories_Bloom_Her_Eyes_Open_anims/Ready.glb",
+   "face": true,
+   "duration": 3.6667,
+   "loop": false,
+   "bytes": 181988
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Chitose/Chitose_When_Morning_Glories_Bloom_Her_Eyes_Open_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 119700
+  },
+  {
+   "name": "Timeline",
+   "file": "Chitose/Chitose_When_Morning_Glories_Bloom_Her_Eyes_Open_anims/Timeline.glb",
+   "face": true,
+   "duration": 4.55,
+   "loop": false,
+   "bytes": 387464
+  },
+  {
+   "name": "Victory",
+   "file": "Chitose/Chitose_When_Morning_Glories_Bloom_Her_Eyes_Open_anims/Victory.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": false,
+   "bytes": 135820
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Chitose/Chitose_When_Morning_Glories_Bloom_Her_Eyes_Open_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 91220
+  }
+ ]
+}

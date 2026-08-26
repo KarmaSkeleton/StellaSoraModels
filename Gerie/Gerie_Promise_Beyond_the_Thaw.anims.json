@@ -1,0 +1,45 @@
+{
+ "id": "14903",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Gerie/Gerie_Promise_Beyond_the_Thaw_anims/Ready.glb",
+   "face": true,
+   "duration": 4.9,
+   "loop": false,
+   "bytes": 223180
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Gerie/Gerie_Promise_Beyond_the_Thaw_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 95884
+  },
+  {
+   "name": "Timeline",
+   "file": "Gerie/Gerie_Promise_Beyond_the_Thaw_anims/Timeline.glb",
+   "face": true,
+   "duration": 5.15,
+   "loop": false,
+   "bytes": 308620
+  },
+  {
+   "name": "Victory",
+   "file": "Gerie/Gerie_Promise_Beyond_the_Thaw_anims/Victory.glb",
+   "face": true,
+   "duration": 4.5,
+   "loop": false,
+   "bytes": 221176
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Gerie/Gerie_Promise_Beyond_the_Thaw_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 4.3333,
+   "loop": true,
+   "bytes": 147744
+  }
+ ]
+}

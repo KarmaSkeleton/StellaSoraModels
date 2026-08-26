@@ -1,0 +1,413 @@
+{
+ "id": "11401",
+ "clips": [
+  {
+   "name": "Aim",
+   "file": "Chaton/Chaton_anims/Aim.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 51420
+  },
+  {
+   "name": "Aim2",
+   "file": "Chaton/Chaton_anims/Aim2.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 52656
+  },
+  {
+   "name": "Aim_Start",
+   "file": "Chaton/Chaton_anims/Aim_Start.glb",
+   "face": false,
+   "duration": 0.1,
+   "loop": false,
+   "bytes": 34500
+  },
+  {
+   "name": "Attack",
+   "file": "Chaton/Chaton_anims/Attack.glb",
+   "face": true,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 54452
+  },
+  {
+   "name": "Attack_H2",
+   "file": "Chaton/Chaton_anims/Attack_H2.glb",
+   "face": true,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 57320
+  },
+  {
+   "name": "Daze",
+   "file": "Chaton/Chaton_anims/Daze.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 56780
+  },
+  {
+   "name": "Die",
+   "file": "Chaton/Chaton_anims/Die.glb",
+   "face": false,
+   "duration": 2.1333,
+   "loop": false,
+   "bytes": 126796
+  },
+  {
+   "name": "Dodge",
+   "file": "Chaton/Chaton_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.1333,
+   "loop": false,
+   "bytes": 96736
+  },
+  {
+   "name": "Fire2",
+   "file": "Chaton/Chaton_anims/Fire2.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": true,
+   "bytes": 76152
+  },
+  {
+   "name": "HurtA1",
+   "file": "Chaton/Chaton_anims/HurtA1.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 72452
+  },
+  {
+   "name": "HurtA2",
+   "file": "Chaton/Chaton_anims/HurtA2.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 74956
+  },
+  {
+   "name": "HurtB",
+   "file": "Chaton/Chaton_anims/HurtB.glb",
+   "face": false,
+   "duration": 2.5,
+   "loop": false,
+   "bytes": 130940
+  },
+  {
+   "name": "Idle",
+   "file": "Chaton/Chaton_anims/Idle.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 52096
+  },
+  {
+   "name": "Main_Skill_1_Start",
+   "file": "Chaton/Chaton_anims/Main_Skill_1_Start.glb",
+   "face": false,
+   "duration": 0.1667,
+   "loop": false,
+   "bytes": 50152
+  },
+  {
+   "name": "Main_Skill_2_Loop",
+   "file": "Chaton/Chaton_anims/Main_Skill_2_Loop.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 60200
+  },
+  {
+   "name": "Main_Skill_3_End_Shoot",
+   "file": "Chaton/Chaton_anims/Main_Skill_3_End_Shoot.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 91944
+  },
+  {
+   "name": "Main_Skill_3_End_Throw",
+   "file": "Chaton/Chaton_anims/Main_Skill_3_End_Throw.glb",
+   "face": false,
+   "duration": 1.4333,
+   "loop": false,
+   "bytes": 93056
+  },
+  {
+   "name": "Main_Skill_TD",
+   "file": "Chaton/Chaton_anims/Main_Skill_TD.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 106716
+  },
+  {
+   "name": "Main_Skill_TD_2",
+   "file": "Chaton/Chaton_anims/Main_Skill_TD_2.glb",
+   "face": false,
+   "duration": 1.6333,
+   "loop": false,
+   "bytes": 93324
+  },
+  {
+   "name": "Out01",
+   "file": "Chaton/Chaton_anims/Out01.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 83172
+  },
+  {
+   "name": "Ready",
+   "file": "Chaton/Chaton_anims/Ready.glb",
+   "face": true,
+   "duration": 3.0667,
+   "loop": false,
+   "bytes": 150696
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Chaton/Chaton_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 62116
+  },
+  {
+   "name": "Reload",
+   "file": "Chaton/Chaton_anims/Reload.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 86396
+  },
+  {
+   "name": "Run",
+   "file": "Chaton/Chaton_anims/Run.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": true,
+   "bytes": 74276
+  },
+  {
+   "name": "Rush",
+   "file": "Chaton/Chaton_anims/Rush.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 72820
+  },
+  {
+   "name": "RushStop",
+   "file": "Chaton/Chaton_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 80176
+  },
+  {
+   "name": "Skill_TD_Shoot",
+   "file": "Chaton/Chaton_anims/Skill_TD_Shoot.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 72744
+  },
+  {
+   "name": "Support_Skill_Shoot_Back",
+   "file": "Chaton/Chaton_anims/Support_Skill_Shoot_Back.glb",
+   "face": false,
+   "duration": 2.5333,
+   "loop": false,
+   "bytes": 175800
+  },
+  {
+   "name": "Support_Skill_Shoot_Forward",
+   "file": "Chaton/Chaton_anims/Support_Skill_Shoot_Forward.glb",
+   "face": false,
+   "duration": 2.2333,
+   "loop": false,
+   "bytes": 152476
+  },
+  {
+   "name": "Support_Skill_Shoot_Left",
+   "file": "Chaton/Chaton_anims/Support_Skill_Shoot_Left.glb",
+   "face": false,
+   "duration": 2.5333,
+   "loop": false,
+   "bytes": 164484
+  },
+  {
+   "name": "Support_Skill_Shoot_P21_1_End",
+   "file": "Chaton/Chaton_anims/Support_Skill_Shoot_P21_1_End.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 80348
+  },
+  {
+   "name": "Support_Skill_Shoot_P21_1_Loop",
+   "file": "Chaton/Chaton_anims/Support_Skill_Shoot_P21_1_Loop.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 67752
+  },
+  {
+   "name": "Support_Skill_Shoot_P21_1_Start",
+   "file": "Chaton/Chaton_anims/Support_Skill_Shoot_P21_1_Start.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 154596
+  },
+  {
+   "name": "Support_Skill_Shoot_Right",
+   "file": "Chaton/Chaton_anims/Support_Skill_Shoot_Right.glb",
+   "face": false,
+   "duration": 2.2667,
+   "loop": false,
+   "bytes": 177100
+  },
+  {
+   "name": "Ultra_01",
+   "file": "Chaton/Chaton_anims/Ultra_01.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 72952
+  },
+  {
+   "name": "Ultra_02",
+   "file": "Chaton/Chaton_anims/Ultra_02.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 69196
+  },
+  {
+   "name": "Ultra_03",
+   "file": "Chaton/Chaton_anims/Ultra_03.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 74224
+  },
+  {
+   "name": "Ultra_04",
+   "file": "Chaton/Chaton_anims/Ultra_04.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 82744
+  },
+  {
+   "name": "Ultra_05",
+   "file": "Chaton/Chaton_anims/Ultra_05.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 78320
+  },
+  {
+   "name": "Ultra_Attack",
+   "file": "Chaton/Chaton_anims/Ultra_Attack.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": true,
+   "bytes": 77808
+  },
+  {
+   "name": "Ultra_End",
+   "file": "Chaton/Chaton_anims/Ultra_End.glb",
+   "face": false,
+   "duration": 2.3667,
+   "loop": false,
+   "bytes": 141840
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Chaton/Chaton_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 5.3667,
+   "loop": false,
+   "bytes": 223676
+  },
+  {
+   "name": "Ultra_Start",
+   "file": "Chaton/Chaton_anims/Ultra_Start.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 120072
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Chaton/Chaton_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 3.8667,
+   "loop": false,
+   "bytes": 170304
+  },
+  {
+   "name": "Victory",
+   "file": "Chaton/Chaton_anims/Victory.glb",
+   "face": true,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 89724
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Chaton/Chaton_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 75540
+  },
+  {
+   "name": "Walk",
+   "file": "Chaton/Chaton_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 66200
+  },
+  {
+   "name": "Walk_Backward",
+   "file": "Chaton/Chaton_anims/Walk_Backward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 60268
+  },
+  {
+   "name": "Walk_Forward",
+   "file": "Chaton/Chaton_anims/Walk_Forward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 61660
+  },
+  {
+   "name": "Walk_Left",
+   "file": "Chaton/Chaton_anims/Walk_Left.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 61304
+  },
+  {
+   "name": "Walk_Right",
+   "file": "Chaton/Chaton_anims/Walk_Right.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 61276
+  }
+ ]
+}

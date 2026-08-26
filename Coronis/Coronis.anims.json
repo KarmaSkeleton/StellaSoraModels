@@ -1,0 +1,333 @@
+{
+ "id": "11801",
+ "clips": [
+  {
+   "name": "timeline",
+   "file": "Coronis/Coronis_anims/timeline.glb",
+   "face": true,
+   "duration": 1.9,
+   "loop": false,
+   "bytes": 164356
+  },
+  {
+   "name": "Attack",
+   "file": "Coronis/Coronis_anims/Attack.glb",
+   "face": false,
+   "duration": 3.9667,
+   "loop": false,
+   "bytes": 335072
+  },
+  {
+   "name": "Attack_1",
+   "file": "Coronis/Coronis_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 154008
+  },
+  {
+   "name": "Attack_2",
+   "file": "Coronis/Coronis_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 155396
+  },
+  {
+   "name": "Attack_3",
+   "file": "Coronis/Coronis_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 188668
+  },
+  {
+   "name": "Attack_4",
+   "file": "Coronis/Coronis_anims/Attack_4.glb",
+   "face": false,
+   "duration": 2.6333,
+   "loop": false,
+   "bytes": 191296
+  },
+  {
+   "name": "Dazed",
+   "file": "Coronis/Coronis_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 52844
+  },
+  {
+   "name": "Die",
+   "file": "Coronis/Coronis_anims/Die.glb",
+   "face": false,
+   "duration": 1.9667,
+   "loop": false,
+   "bytes": 120804
+  },
+  {
+   "name": "Dodge",
+   "file": "Coronis/Coronis_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 100852
+  },
+  {
+   "name": "Hurt",
+   "file": "Coronis/Coronis_anims/Hurt.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 87240
+  },
+  {
+   "name": "Hurt1",
+   "file": "Coronis/Coronis_anims/Hurt1.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 74080
+  },
+  {
+   "name": "Hurt2",
+   "file": "Coronis/Coronis_anims/Hurt2.glb",
+   "face": false,
+   "duration": 0.6333,
+   "loop": false,
+   "bytes": 74776
+  },
+  {
+   "name": "Idle",
+   "file": "Coronis/Coronis_anims/Idle.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 58512
+  },
+  {
+   "name": "Open",
+   "file": "Coronis/Coronis_anims/Open.glb",
+   "face": false,
+   "duration": 1.7667,
+   "loop": false,
+   "bytes": 124980
+  },
+  {
+   "name": "Open2",
+   "file": "Coronis/Coronis_anims/Open2.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 94124
+  },
+  {
+   "name": "Out01",
+   "file": "Coronis/Coronis_anims/Out01.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 100300
+  },
+  {
+   "name": "P3_Atk",
+   "file": "Coronis/Coronis_anims/P3_Atk.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": false,
+   "bytes": 119564
+  },
+  {
+   "name": "Ready",
+   "file": "Coronis/Coronis_anims/Ready.glb",
+   "face": true,
+   "duration": 5.5167,
+   "loop": false,
+   "bytes": 198876
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Coronis/Coronis_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.2,
+   "loop": true,
+   "bytes": 63720
+  },
+  {
+   "name": "Run",
+   "file": "Coronis/Coronis_anims/Run.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": true,
+   "bytes": 64640
+  },
+  {
+   "name": "Rush",
+   "file": "Coronis/Coronis_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 64488
+  },
+  {
+   "name": "RushStop",
+   "file": "Coronis/Coronis_anims/RushStop.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 76892
+  },
+  {
+   "name": "Skill_01",
+   "file": "Coronis/Coronis_anims/Skill_01.glb",
+   "face": false,
+   "duration": 2.8,
+   "loop": false,
+   "bytes": 175424
+  },
+  {
+   "name": "Skill_01_Noncharge",
+   "file": "Coronis/Coronis_anims/Skill_01_Noncharge.glb",
+   "face": false,
+   "duration": 2.4667,
+   "loop": false,
+   "bytes": 156124
+  },
+  {
+   "name": "Skill_01_Nonmove",
+   "file": "Coronis/Coronis_anims/Skill_01_Nonmove.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 137712
+  },
+  {
+   "name": "Skill_02",
+   "file": "Coronis/Coronis_anims/Skill_02.glb",
+   "face": false,
+   "duration": 1.6333,
+   "loop": false,
+   "bytes": 92672
+  },
+  {
+   "name": "Skill_Main_LuanZhan_01_Start",
+   "file": "Coronis/Coronis_anims/Skill_Main_LuanZhan_01_Start.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 97688
+  },
+  {
+   "name": "Skill_Main_LuanZhan_02_Loop",
+   "file": "Coronis/Coronis_anims/Skill_Main_LuanZhan_02_Loop.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 65384
+  },
+  {
+   "name": "Skill_Main_LuanZhan_03_End",
+   "file": "Coronis/Coronis_anims/Skill_Main_LuanZhan_03_End.glb",
+   "face": false,
+   "duration": 1.9667,
+   "loop": false,
+   "bytes": 151388
+  },
+  {
+   "name": "Skill_Support_P25_HuiKan",
+   "file": "Coronis/Coronis_anims/Skill_Support_P25_HuiKan.glb",
+   "face": false,
+   "duration": 2.6333,
+   "loop": false,
+   "bytes": 186268
+  },
+  {
+   "name": "Skill_Support_ZhanHun_1",
+   "file": "Coronis/Coronis_anims/Skill_Support_ZhanHun_1.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 137160
+  },
+  {
+   "name": "Skill_Support_ZhanHun_2",
+   "file": "Coronis/Coronis_anims/Skill_Support_ZhanHun_2.glb",
+   "face": false,
+   "duration": 1.1333,
+   "loop": false,
+   "bytes": 117592
+  },
+  {
+   "name": "Standby",
+   "file": "Coronis/Coronis_anims/Standby.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 100404
+  },
+  {
+   "name": "Ultra",
+   "file": "Coronis/Coronis_anims/Ultra.glb",
+   "face": false,
+   "duration": 5.2667,
+   "loop": false,
+   "bytes": 214708
+  },
+  {
+   "name": "Ultra_Common_End",
+   "file": "Coronis/Coronis_anims/Ultra_Common_End.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 138216
+  },
+  {
+   "name": "Ultra_Common_Loop",
+   "file": "Coronis/Coronis_anims/Ultra_Common_Loop.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 68648
+  },
+  {
+   "name": "Ultra_NoTL_Start",
+   "file": "Coronis/Coronis_anims/Ultra_NoTL_Start.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 100892
+  },
+  {
+   "name": "Ultra_TL_Start",
+   "file": "Coronis/Coronis_anims/Ultra_TL_Start.glb",
+   "face": false,
+   "duration": 0.0333,
+   "loop": false,
+   "bytes": 37432
+  },
+  {
+   "name": "Victory",
+   "file": "Coronis/Coronis_anims/Victory.glb",
+   "face": true,
+   "duration": 4.8333,
+   "loop": false,
+   "bytes": 161124
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Coronis/Coronis_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.1667,
+   "loop": true,
+   "bytes": 60012
+  },
+  {
+   "name": "Walk",
+   "file": "Coronis/Coronis_anims/Walk.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": true,
+   "bytes": 58440
+  }
+ ]
+}

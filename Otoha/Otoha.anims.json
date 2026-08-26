@@ -1,0 +1,253 @@
+{
+ "id": "14501",
+ "clips": [
+  {
+   "name": "ReadyLoopToSnipe",
+   "file": "Otoha/Otoha_anims/ReadyLoopToSnipe.glb",
+   "face": false,
+   "duration": 3.5333,
+   "loop": false,
+   "bytes": 211820
+  },
+  {
+   "name": "Snipe_Loop",
+   "file": "Otoha/Otoha_anims/Snipe_Loop.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 111288
+  },
+  {
+   "name": "Sniping",
+   "file": "Otoha/Otoha_anims/Sniping.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": true,
+   "bytes": 140624
+  },
+  {
+   "name": "Attack_1",
+   "file": "Otoha/Otoha_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": false,
+   "bytes": 192248
+  },
+  {
+   "name": "Attack_2",
+   "file": "Otoha/Otoha_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": false,
+   "bytes": 193628
+  },
+  {
+   "name": "Attack_3",
+   "file": "Otoha/Otoha_anims/Attack_3.glb",
+   "face": false,
+   "duration": 2.0667,
+   "loop": false,
+   "bytes": 382764
+  },
+  {
+   "name": "Daze",
+   "file": "Otoha/Otoha_anims/Daze.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 123316
+  },
+  {
+   "name": "Death",
+   "file": "Otoha/Otoha_anims/Death.glb",
+   "face": false,
+   "duration": 3.0333,
+   "loop": false,
+   "bytes": 296908
+  },
+  {
+   "name": "Dodge",
+   "file": "Otoha/Otoha_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 220768
+  },
+  {
+   "name": "HurtA1",
+   "file": "Otoha/Otoha_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 170428
+  },
+  {
+   "name": "HurtA2",
+   "file": "Otoha/Otoha_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 184604
+  },
+  {
+   "name": "HurtB",
+   "file": "Otoha/Otoha_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 212640
+  },
+  {
+   "name": "Idle",
+   "file": "Otoha/Otoha_anims/Idle.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 113104
+  },
+  {
+   "name": "Out",
+   "file": "Otoha/Otoha_anims/Out.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 159300
+  },
+  {
+   "name": "Ready",
+   "file": "Otoha/Otoha_anims/Ready.glb",
+   "face": true,
+   "duration": 6.5,
+   "loop": false,
+   "bytes": 221144
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Otoha/Otoha_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 112448
+  },
+  {
+   "name": "Run",
+   "file": "Otoha/Otoha_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 157220
+  },
+  {
+   "name": "Rush",
+   "file": "Otoha/Otoha_anims/Rush.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 145416
+  },
+  {
+   "name": "RushStop",
+   "file": "Otoha/Otoha_anims/RushStop.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 164108
+  },
+  {
+   "name": "Skill_Main_Move",
+   "file": "Otoha/Otoha_anims/Skill_Main_Move.glb",
+   "face": false,
+   "duration": 0.3667,
+   "loop": false,
+   "bytes": 117628
+  },
+  {
+   "name": "Skill_Main_Shot",
+   "file": "Otoha/Otoha_anims/Skill_Main_Shot.glb",
+   "face": false,
+   "duration": 1.4333,
+   "loop": false,
+   "bytes": 214588
+  },
+  {
+   "name": "Skill_Sup_SteelRain",
+   "file": "Otoha/Otoha_anims/Skill_Sup_SteelRain.glb",
+   "face": false,
+   "duration": 3.1,
+   "loop": false,
+   "bytes": 328304
+  },
+  {
+   "name": "Timeline",
+   "file": "Otoha/Otoha_anims/Timeline.glb",
+   "face": true,
+   "duration": 3.5333,
+   "loop": false,
+   "bytes": 246276
+  },
+  {
+   "name": "U1",
+   "file": "Otoha/Otoha_anims/U1.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 191568
+  },
+  {
+   "name": "U2",
+   "file": "Otoha/Otoha_anims/U2.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 293972
+  },
+  {
+   "name": "Ultra_Boom",
+   "file": "Otoha/Otoha_anims/Ultra_Boom.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 288176
+  },
+  {
+   "name": "Ultra_NoTL_Start",
+   "file": "Otoha/Otoha_anims/Ultra_NoTL_Start.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 247700
+  },
+  {
+   "name": "Ultra_TL_Start",
+   "file": "Otoha/Otoha_anims/Ultra_TL_Start.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 185268
+  },
+  {
+   "name": "Victory",
+   "file": "Otoha/Otoha_anims/Victory.glb",
+   "face": true,
+   "duration": 7.1667,
+   "loop": false,
+   "bytes": 228640
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Otoha/Otoha_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 104200
+  },
+  {
+   "name": "Walk",
+   "file": "Otoha/Otoha_anims/Walk.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": true,
+   "bytes": 133420
+  }
+ ]
+}

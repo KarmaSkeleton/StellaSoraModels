@@ -1,0 +1,413 @@
+{
+ "id": "16001",
+ "clips": [
+  {
+   "name": "AttackA_1",
+   "file": "Suntide_Willow/Suntide_Willow_anims/AttackA_1.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 253616
+  },
+  {
+   "name": "AttackA_2",
+   "file": "Suntide_Willow/Suntide_Willow_anims/AttackA_2.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 249336
+  },
+  {
+   "name": "AttackA_3",
+   "file": "Suntide_Willow/Suntide_Willow_anims/AttackA_3.glb",
+   "face": false,
+   "duration": 1.4333,
+   "loop": false,
+   "bytes": 241312
+  },
+  {
+   "name": "AttackA_4",
+   "file": "Suntide_Willow/Suntide_Willow_anims/AttackA_4.glb",
+   "face": false,
+   "duration": 1.6333,
+   "loop": false,
+   "bytes": 258864
+  },
+  {
+   "name": "AttackB_1",
+   "file": "Suntide_Willow/Suntide_Willow_anims/AttackB_1.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 184744
+  },
+  {
+   "name": "AttackB_2",
+   "file": "Suntide_Willow/Suntide_Willow_anims/AttackB_2.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 266124
+  },
+  {
+   "name": "AttackB_3",
+   "file": "Suntide_Willow/Suntide_Willow_anims/AttackB_3.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": false,
+   "bytes": 266752
+  },
+  {
+   "name": "AttackB_4",
+   "file": "Suntide_Willow/Suntide_Willow_anims/AttackB_4.glb",
+   "face": false,
+   "duration": 1.8333,
+   "loop": false,
+   "bytes": 249332
+  },
+  {
+   "name": "Dazed",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 132580
+  },
+  {
+   "name": "Die",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Die.glb",
+   "face": false,
+   "duration": 1.9,
+   "loop": false,
+   "bytes": 272464
+  },
+  {
+   "name": "Dodge",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 177288
+  },
+  {
+   "name": "HurtA1",
+   "file": "Suntide_Willow/Suntide_Willow_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 226176
+  },
+  {
+   "name": "HurtA2",
+   "file": "Suntide_Willow/Suntide_Willow_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 186704
+  },
+  {
+   "name": "HurtB",
+   "file": "Suntide_Willow/Suntide_Willow_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 232268
+  },
+  {
+   "name": "Idle",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 96728
+  },
+  {
+   "name": "Out01",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Out01.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 180120
+  },
+  {
+   "name": "Ready",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Ready.glb",
+   "face": true,
+   "duration": 7.5,
+   "loop": false,
+   "bytes": 388832
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Suntide_Willow/Suntide_Willow_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 121708
+  },
+  {
+   "name": "Ready_Popoball",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Ready_Popoball.glb",
+   "face": false,
+   "duration": 7.5,
+   "loop": false,
+   "bytes": 4060
+  },
+  {
+   "name": "Ready_Popoball_Loop",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Ready_Popoball_Loop.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 1864
+  },
+  {
+   "name": "Run",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 160408
+  },
+  {
+   "name": "Rush",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Rush.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 155700
+  },
+  {
+   "name": "RushStop",
+   "file": "Suntide_Willow/Suntide_Willow_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 238240
+  },
+  {
+   "name": "Skill_Main",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Main.glb",
+   "face": false,
+   "duration": 3.8333,
+   "loop": false,
+   "bytes": 415400
+  },
+  {
+   "name": "Skill_Main_BubbleDoll_Born",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Main_BubbleDoll_Born.glb",
+   "face": false,
+   "duration": 0.4333,
+   "loop": false,
+   "bytes": 876
+  },
+  {
+   "name": "Skill_Main_BubbleDoll_Born_Perk03",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Main_BubbleDoll_Born_Perk03.glb",
+   "face": false,
+   "duration": 0.3333,
+   "loop": false,
+   "bytes": 952
+  },
+  {
+   "name": "Skill_Sup",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Sup.glb",
+   "face": false,
+   "duration": 2.5333,
+   "loop": false,
+   "bytes": 311044
+  },
+  {
+   "name": "Skill_Sup_Aim",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Sup_Aim.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 126860
+  },
+  {
+   "name": "Skill_Sup_ConnectIdle",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Sup_ConnectIdle.glb",
+   "face": false,
+   "duration": 1.9,
+   "loop": false,
+   "bytes": 218392
+  },
+  {
+   "name": "Skill_Sup_ConnectOut",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Sup_ConnectOut.glb",
+   "face": false,
+   "duration": 2.2667,
+   "loop": false,
+   "bytes": 295092
+  },
+  {
+   "name": "Skill_Sup_Idle",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Sup_Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 114544
+  },
+  {
+   "name": "Skill_Sup_Perk21",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Sup_Perk21.glb",
+   "face": false,
+   "duration": 2.5333,
+   "loop": false,
+   "bytes": 277268
+  },
+  {
+   "name": "Skill_Sup_Perk22",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Sup_Perk22.glb",
+   "face": false,
+   "duration": 3.9333,
+   "loop": false,
+   "bytes": 423728
+  },
+  {
+   "name": "Skill_Sup_Perk23",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Sup_Perk23.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 155020
+  },
+  {
+   "name": "Skill_Sup_Shoot",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Sup_Shoot.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 147284
+  },
+  {
+   "name": "Skill_Sup_Transmit",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Sup_Transmit.glb",
+   "face": false,
+   "duration": 2.1333,
+   "loop": false,
+   "bytes": 339960
+  },
+  {
+   "name": "Skill_Sup_Transmit1",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Sup_Transmit1.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 204152
+  },
+  {
+   "name": "Skill_Sup_Transmit2",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Skill_Sup_Transmit2.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 225632
+  },
+  {
+   "name": "SwitchWeapon",
+   "file": "Suntide_Willow/Suntide_Willow_anims/SwitchWeapon.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 221944
+  },
+  {
+   "name": "Timeline",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Timeline.glb",
+   "face": true,
+   "duration": 5.5,
+   "loop": false,
+   "bytes": 422424
+  },
+  {
+   "name": "Timeline_NPC",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Timeline_NPC.glb",
+   "face": false,
+   "duration": 5.5,
+   "loop": false,
+   "bytes": 7156
+  },
+  {
+   "name": "Ultra_01",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Ultra_01.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 188428
+  },
+  {
+   "name": "Ultra_02",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Ultra_02.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 182836
+  },
+  {
+   "name": "Ultra_03",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Ultra_03.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 172632
+  },
+  {
+   "name": "Ultra_04",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Ultra_04.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 191644
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 5.5,
+   "loop": false,
+   "bytes": 668256
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 3.7,
+   "loop": false,
+   "bytes": 410672
+  },
+  {
+   "name": "Victory",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Victory.glb",
+   "face": true,
+   "duration": 5.5333,
+   "loop": false,
+   "bytes": 340400
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Suntide_Willow/Suntide_Willow_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.0333,
+   "loop": true,
+   "bytes": 111280
+  },
+  {
+   "name": "Walk",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 149032
+  },
+  {
+   "name": "Take 001",
+   "file": "Suntide_Willow/Suntide_Willow_anims/Take_001.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 1036
+  }
+ ]
+}

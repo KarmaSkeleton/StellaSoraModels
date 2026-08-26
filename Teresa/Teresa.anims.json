@@ -1,0 +1,261 @@
+{
+ "id": "12701",
+ "clips": [
+  {
+   "name": "Attack1",
+   "file": "Teresa/Teresa_anims/Attack1.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 153588
+  },
+  {
+   "name": "Attack2",
+   "file": "Teresa/Teresa_anims/Attack2.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 128708
+  },
+  {
+   "name": "Attack3",
+   "file": "Teresa/Teresa_anims/Attack3.glb",
+   "face": false,
+   "duration": 1.8667,
+   "loop": false,
+   "bytes": 175164
+  },
+  {
+   "name": "Attack4",
+   "file": "Teresa/Teresa_anims/Attack4.glb",
+   "face": false,
+   "duration": 1.8667,
+   "loop": false,
+   "bytes": 226744
+  },
+  {
+   "name": "B1_Skill_WhirlSlash1~2",
+   "file": "Teresa/Teresa_anims/B1_Skill_WhirlSlash1_2.glb",
+   "face": false,
+   "duration": 3.4667,
+   "loop": false,
+   "bytes": 273100
+  },
+  {
+   "name": "B2_Skill_WaterGuardian_End",
+   "file": "Teresa/Teresa_anims/B2_Skill_WaterGuardian_End.glb",
+   "face": false,
+   "duration": 2.9333,
+   "loop": false,
+   "bytes": 177484
+  },
+  {
+   "name": "B2_Skill_WaterGuardian_Loop",
+   "file": "Teresa/Teresa_anims/B2_Skill_WaterGuardian_Loop.glb",
+   "face": false,
+   "duration": 5.0,
+   "loop": true,
+   "bytes": 112264
+  },
+  {
+   "name": "B2_Skill_WaterGuardian_Start",
+   "file": "Teresa/Teresa_anims/B2_Skill_WaterGuardian_Start.glb",
+   "face": false,
+   "duration": 2.05,
+   "loop": false,
+   "bytes": 144428
+  },
+  {
+   "name": "Daze",
+   "file": "Teresa/Teresa_anims/Daze.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 74240
+  },
+  {
+   "name": "Die",
+   "file": "Teresa/Teresa_anims/Die.glb",
+   "face": false,
+   "duration": 2.4333,
+   "loop": false,
+   "bytes": 228572
+  },
+  {
+   "name": "Dodge",
+   "file": "Teresa/Teresa_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 141488
+  },
+  {
+   "name": "HurtA1",
+   "file": "Teresa/Teresa_anims/HurtA1.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 107224
+  },
+  {
+   "name": "HurtA2",
+   "file": "Teresa/Teresa_anims/HurtA2.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 112284
+  },
+  {
+   "name": "HurtB",
+   "file": "Teresa/Teresa_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 151116
+  },
+  {
+   "name": "Idle",
+   "file": "Teresa/Teresa_anims/Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 69156
+  },
+  {
+   "name": "Main_Skill_P02_Derive",
+   "file": "Teresa/Teresa_anims/Main_Skill_P02_Derive.glb",
+   "face": false,
+   "duration": 4.4,
+   "loop": false,
+   "bytes": 288360
+  },
+  {
+   "name": "Out01",
+   "file": "Teresa/Teresa_anims/Out01.glb",
+   "face": false,
+   "duration": 1.8,
+   "loop": false,
+   "bytes": 132576
+  },
+  {
+   "name": "Ready",
+   "file": "Teresa/Teresa_anims/Ready.glb",
+   "face": true,
+   "duration": 8.0,
+   "loop": false,
+   "bytes": 232376
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Teresa/Teresa_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 2.1667,
+   "loop": true,
+   "bytes": 66508
+  },
+  {
+   "name": "Run",
+   "file": "Teresa/Teresa_anims/Run.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": true,
+   "bytes": 85324
+  },
+  {
+   "name": "Rush",
+   "file": "Teresa/Teresa_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 101336
+  },
+  {
+   "name": "RushStop",
+   "file": "Teresa/Teresa_anims/RushStop.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 93656
+  },
+  {
+   "name": "Skill_TowerDefense_End",
+   "file": "Teresa/Teresa_anims/Skill_TowerDefense_End.glb",
+   "face": false,
+   "duration": 3.2667,
+   "loop": false,
+   "bytes": 188136
+  },
+  {
+   "name": "Skill_TowerDefense_Loop",
+   "file": "Teresa/Teresa_anims/Skill_TowerDefense_Loop.glb",
+   "face": false,
+   "duration": 5.0,
+   "loop": true,
+   "bytes": 113320
+  },
+  {
+   "name": "Skill_TowerDefense_Start",
+   "file": "Teresa/Teresa_anims/Skill_TowerDefense_Start.glb",
+   "face": false,
+   "duration": 1.6833,
+   "loop": false,
+   "bytes": 145788
+  },
+  {
+   "name": "Timeline",
+   "file": "Teresa/Teresa_anims/Timeline.glb",
+   "face": true,
+   "duration": 5.3667,
+   "loop": false,
+   "bytes": 263524
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Teresa/Teresa_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 5.2833,
+   "loop": false,
+   "bytes": 411020
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Teresa/Teresa_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 2.45,
+   "loop": false,
+   "bytes": 258008
+  },
+  {
+   "name": "Victory",
+   "file": "Teresa/Teresa_anims/Victory.glb",
+   "face": true,
+   "duration": 7.5,
+   "loop": false,
+   "bytes": 291884
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Teresa/Teresa_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.1667,
+   "loop": true,
+   "bytes": 60736
+  },
+  {
+   "name": "Walk",
+   "file": "Teresa/Teresa_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 79468
+  },
+  {
+   "name": "Take 001",
+   "file": "Teresa/Teresa_anims/Take_001.glb",
+   "face": false,
+   "duration": 3.9333,
+   "loop": false,
+   "bytes": 170492
+  }
+ ]
+}

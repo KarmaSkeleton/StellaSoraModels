@@ -1,0 +1,565 @@
+{
+ "id": "11501",
+ "clips": [
+  {
+   "name": "timeline1",
+   "file": "Firefly/Firefly_anims/timeline1.glb",
+   "face": true,
+   "duration": 7.0,
+   "loop": false,
+   "bytes": 225428
+  },
+  {
+   "name": "timeline2",
+   "file": "Firefly/Firefly_anims/timeline2.glb",
+   "face": true,
+   "duration": 6.6667,
+   "loop": false,
+   "bytes": 193172
+  },
+  {
+   "name": "Attack_1",
+   "file": "Firefly/Firefly_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 139268
+  },
+  {
+   "name": "Attack_2",
+   "file": "Firefly/Firefly_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 127248
+  },
+  {
+   "name": "Attack_3_1",
+   "file": "Firefly/Firefly_anims/Attack_3_1.glb",
+   "face": false,
+   "duration": 1.9333,
+   "loop": false,
+   "bytes": 165132
+  },
+  {
+   "name": "B1T4_Skill_Blade_3_Hurt",
+   "file": "Firefly/Firefly_anims/B1T4_Skill_Blade_3_Hurt.glb",
+   "face": false,
+   "duration": 1.8333,
+   "loop": false,
+   "bytes": 167868
+  },
+  {
+   "name": "B2T12_Skill_Cannon_Sustain_1_Start",
+   "file": "Firefly/Firefly_anims/B2T12_Skill_Cannon_Sustain_1_Start.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": false,
+   "bytes": 89032
+  },
+  {
+   "name": "B2T12_Skill_Cannon_Sustain_2_Loop",
+   "file": "Firefly/Firefly_anims/B2T12_Skill_Cannon_Sustain_2_Loop.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 81628
+  },
+  {
+   "name": "B2T12_Skill_Cannon_Sustain_3_End",
+   "file": "Firefly/Firefly_anims/B2T12_Skill_Cannon_Sustain_3_End.glb",
+   "face": false,
+   "duration": 0.1,
+   "loop": false,
+   "bytes": 53040
+  },
+  {
+   "name": "B2T4_Skill_Cannon_3_Hurt",
+   "file": "Firefly/Firefly_anims/B2T4_Skill_Cannon_3_Hurt.glb",
+   "face": false,
+   "duration": 2.7333,
+   "loop": false,
+   "bytes": 177176
+  },
+  {
+   "name": "B2_Skill_Cannon_1_Start",
+   "file": "Firefly/Firefly_anims/B2_Skill_Cannon_1_Start.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 124284
+  },
+  {
+   "name": "B2_Skill_Cannon_2_End",
+   "file": "Firefly/Firefly_anims/B2_Skill_Cannon_2_End.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 116096
+  },
+  {
+   "name": "B2_Skill_Cannon_3_IdleEnd",
+   "file": "Firefly/Firefly_anims/B2_Skill_Cannon_3_IdleEnd.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": false,
+   "bytes": 138804
+  },
+  {
+   "name": "B2_Skill_Cannon_Aim",
+   "file": "Firefly/Firefly_anims/B2_Skill_Cannon_Aim.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 92496
+  },
+  {
+   "name": "B2_Skill_Cannon_Shoot_1",
+   "file": "Firefly/Firefly_anims/B2_Skill_Cannon_Shoot_1.glb",
+   "face": false,
+   "duration": 0.4667,
+   "loop": false,
+   "bytes": 72672
+  },
+  {
+   "name": "B2_Skill_Cannon_Shoot_2",
+   "file": "Firefly/Firefly_anims/B2_Skill_Cannon_Shoot_2.glb",
+   "face": false,
+   "duration": 0.4667,
+   "loop": false,
+   "bytes": 70168
+  },
+  {
+   "name": "B2_Skill_Cannon_Shoot_3",
+   "file": "Firefly/Firefly_anims/B2_Skill_Cannon_Shoot_3.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 74776
+  },
+  {
+   "name": "B2_Skill_Cannon_Shoot_4",
+   "file": "Firefly/Firefly_anims/B2_Skill_Cannon_Shoot_4.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 76840
+  },
+  {
+   "name": "B2_Skill_Cannon_Shoot_5",
+   "file": "Firefly/Firefly_anims/B2_Skill_Cannon_Shoot_5.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 104580
+  },
+  {
+   "name": "B2_Skill_Cannon_Sustain_1_Start",
+   "file": "Firefly/Firefly_anims/B2_Skill_Cannon_Sustain_1_Start.glb",
+   "face": false,
+   "duration": 2.6333,
+   "loop": false,
+   "bytes": 148940
+  },
+  {
+   "name": "B2_Skill_Cannon_Sustain_2_Loop",
+   "file": "Firefly/Firefly_anims/B2_Skill_Cannon_Sustain_2_Loop.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 81364
+  },
+  {
+   "name": "B2_Skill_Cannon_Sustain_3_End",
+   "file": "Firefly/Firefly_anims/B2_Skill_Cannon_Sustain_3_End.glb",
+   "face": false,
+   "duration": 0.1,
+   "loop": false,
+   "bytes": 53400
+  },
+  {
+   "name": "Cannon_Dazed",
+   "file": "Firefly/Firefly_anims/Cannon_Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 87640
+  },
+  {
+   "name": "Cannon_Death",
+   "file": "Firefly/Firefly_anims/Cannon_Death.glb",
+   "face": false,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 179372
+  },
+  {
+   "name": "Cannon_Dodge",
+   "file": "Firefly/Firefly_anims/Cannon_Dodge.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 113700
+  },
+  {
+   "name": "Cannon_Hurt",
+   "file": "Firefly/Firefly_anims/Cannon_Hurt.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 120560
+  },
+  {
+   "name": "Cannon_Hurt1",
+   "file": "Firefly/Firefly_anims/Cannon_Hurt1.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 116712
+  },
+  {
+   "name": "Cannon_Hurt2",
+   "file": "Firefly/Firefly_anims/Cannon_Hurt2.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 105316
+  },
+  {
+   "name": "Cannon_Idle",
+   "file": "Firefly/Firefly_anims/Cannon_Idle.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 91272
+  },
+  {
+   "name": "Cannon_Run",
+   "file": "Firefly/Firefly_anims/Cannon_Run.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 86552
+  },
+  {
+   "name": "Cannon_Rush",
+   "file": "Firefly/Firefly_anims/Cannon_Rush.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 91360
+  },
+  {
+   "name": "Cannon_RushStart",
+   "file": "Firefly/Firefly_anims/Cannon_RushStart.glb",
+   "face": false,
+   "duration": 0.4,
+   "loop": false,
+   "bytes": 66352
+  },
+  {
+   "name": "Cannon_RushStop",
+   "file": "Firefly/Firefly_anims/Cannon_RushStop.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": true,
+   "bytes": 107524
+  },
+  {
+   "name": "Cannon_Walk",
+   "file": "Firefly/Firefly_anims/Cannon_Walk.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 87388
+  },
+  {
+   "name": "Dazed",
+   "file": "Firefly/Firefly_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 77864
+  },
+  {
+   "name": "Death",
+   "file": "Firefly/Firefly_anims/Death.glb",
+   "face": false,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 168364
+  },
+  {
+   "name": "Dodge",
+   "file": "Firefly/Firefly_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 117484
+  },
+  {
+   "name": "Dodge_Hurt",
+   "file": "Firefly/Firefly_anims/Dodge_Hurt.glb",
+   "face": false,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 209848
+  },
+  {
+   "name": "Dodge_Hurt1",
+   "file": "Firefly/Firefly_anims/Dodge_Hurt1.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 143472
+  },
+  {
+   "name": "Hurt",
+   "file": "Firefly/Firefly_anims/Hurt.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 93256
+  },
+  {
+   "name": "Hurt1",
+   "file": "Firefly/Firefly_anims/Hurt1.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 111848
+  },
+  {
+   "name": "Hurt2",
+   "file": "Firefly/Firefly_anims/Hurt2.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 96520
+  },
+  {
+   "name": "Idle",
+   "file": "Firefly/Firefly_anims/Idle.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 81448
+  },
+  {
+   "name": "Out01",
+   "file": "Firefly/Firefly_anims/Out01.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 125628
+  },
+  {
+   "name": "Ready",
+   "file": "Firefly/Firefly_anims/Ready.glb",
+   "face": true,
+   "duration": 4.4333,
+   "loop": false,
+   "bytes": 168564
+  },
+  {
+   "name": "Readyloop",
+   "file": "Firefly/Firefly_anims/Readyloop.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": true,
+   "bytes": 85384
+  },
+  {
+   "name": "Run",
+   "file": "Firefly/Firefly_anims/Run.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 81520
+  },
+  {
+   "name": "Rush",
+   "file": "Firefly/Firefly_anims/Rush.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 81880
+  },
+  {
+   "name": "RushStop",
+   "file": "Firefly/Firefly_anims/RushStop.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": true,
+   "bytes": 100796
+  },
+  {
+   "name": "Support_Skill_Blade_1_Start",
+   "file": "Firefly/Firefly_anims/Support_Skill_Blade_1_Start.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 162904
+  },
+  {
+   "name": "Support_Skill_Blade_2_End",
+   "file": "Firefly/Firefly_anims/Support_Skill_Blade_2_End.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 82752
+  },
+  {
+   "name": "Support_Skill_Blade_Attack",
+   "file": "Firefly/Firefly_anims/Support_Skill_Blade_Attack.glb",
+   "face": false,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 317260
+  },
+  {
+   "name": "Support_Skill_Blade_Attack_1",
+   "file": "Firefly/Firefly_anims/Support_Skill_Blade_Attack_1.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 119448
+  },
+  {
+   "name": "Support_Skill_Blade_Attack_2",
+   "file": "Firefly/Firefly_anims/Support_Skill_Blade_Attack_2.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 155104
+  },
+  {
+   "name": "Support_Skill_Blade_Attack_3",
+   "file": "Firefly/Firefly_anims/Support_Skill_Blade_Attack_3.glb",
+   "face": false,
+   "duration": 1.4333,
+   "loop": false,
+   "bytes": 159720
+  },
+  {
+   "name": "Support_Skill_Blade_Attack_4",
+   "file": "Firefly/Firefly_anims/Support_Skill_Blade_Attack_4.glb",
+   "face": false,
+   "duration": 3.6,
+   "loop": false,
+   "bytes": 204888
+  },
+  {
+   "name": "Support_Skill_Blade_Attack_Weapon",
+   "file": "Firefly/Firefly_anims/Support_Skill_Blade_Attack_Weapon.glb",
+   "face": false,
+   "duration": 1.8333,
+   "loop": false,
+   "bytes": 4864
+  },
+  {
+   "name": "Support_Skill_Blade_Idle",
+   "file": "Firefly/Firefly_anims/Support_Skill_Blade_Idle.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 82584
+  },
+  {
+   "name": "Support_Skill_Blade_P24_Cut",
+   "file": "Firefly/Firefly_anims/Support_Skill_Blade_P24_Cut.glb",
+   "face": false,
+   "duration": 4.1667,
+   "loop": false,
+   "bytes": 239672
+  },
+  {
+   "name": "Support_Skill_Blade_Run",
+   "file": "Firefly/Firefly_anims/Support_Skill_Blade_Run.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 87060
+  },
+  {
+   "name": "Ultra_NoTL_1_Start",
+   "file": "Firefly/Firefly_anims/Ultra_NoTL_1_Start.glb",
+   "face": false,
+   "duration": 0.75,
+   "loop": false,
+   "bytes": 197660
+  },
+  {
+   "name": "Ultra_NoTL_2_Loop",
+   "file": "Firefly/Firefly_anims/Ultra_NoTL_2_Loop.glb",
+   "face": false,
+   "duration": 1.25,
+   "loop": true,
+   "bytes": 131924
+  },
+  {
+   "name": "Ultra_NoTL_3_End",
+   "file": "Firefly/Firefly_anims/Ultra_NoTL_3_End.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 200884
+  },
+  {
+   "name": "Ultra_NoTL_4",
+   "file": "Firefly/Firefly_anims/Ultra_NoTL_4.glb",
+   "face": false,
+   "duration": 4.0167,
+   "loop": false,
+   "bytes": 284184
+  },
+  {
+   "name": "Ultra_TL_2",
+   "file": "Firefly/Firefly_anims/Ultra_TL_2.glb",
+   "face": false,
+   "duration": 2.7333,
+   "loop": false,
+   "bytes": 192996
+  },
+  {
+   "name": "Ultra_TL_2",
+   "file": "Firefly/Firefly_anims/Ultra_TL_2_.glb",
+   "face": false,
+   "duration": 2.55,
+   "loop": false,
+   "bytes": 182836
+  },
+  {
+   "name": "Victory",
+   "file": "Firefly/Firefly_anims/Victory.glb",
+   "face": true,
+   "duration": 3.7333,
+   "loop": false,
+   "bytes": 221172
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Firefly/Firefly_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": true,
+   "bytes": 83036
+  },
+  {
+   "name": "Walk",
+   "file": "Firefly/Firefly_anims/Walk.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 81652
+  },
+  {
+   "name": "Weapon_sword_Support_Skill_Blade_Attack",
+   "file": "Firefly/Firefly_anims/Weapon_sword_Support_Skill_Blade_Attack.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 4572
+  }
+ ]
+}

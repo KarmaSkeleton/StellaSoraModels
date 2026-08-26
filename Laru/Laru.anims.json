@@ -1,0 +1,381 @@
+{
+ "id": "15001",
+ "clips": [
+  {
+   "name": "Attack01",
+   "file": "Laru/Laru_anims/Attack01.glb",
+   "face": false,
+   "duration": 1.9333,
+   "loop": false,
+   "bytes": 159424
+  },
+  {
+   "name": "Attack02",
+   "file": "Laru/Laru_anims/Attack02.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 133052
+  },
+  {
+   "name": "Attack03",
+   "file": "Laru/Laru_anims/Attack03.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 107008
+  },
+  {
+   "name": "Attack04",
+   "file": "Laru/Laru_anims/Attack04.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 65464
+  },
+  {
+   "name": "Attack05",
+   "file": "Laru/Laru_anims/Attack05.glb",
+   "face": false,
+   "duration": 2.8333,
+   "loop": false,
+   "bytes": 175628
+  },
+  {
+   "name": "Attack_5_Strengthen",
+   "file": "Laru/Laru_anims/Attack_5_Strengthen.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 141392
+  },
+  {
+   "name": "Daze",
+   "file": "Laru/Laru_anims/Daze.glb",
+   "face": false,
+   "duration": 1.8333,
+   "loop": true,
+   "bytes": 67944
+  },
+  {
+   "name": "Die",
+   "file": "Laru/Laru_anims/Die.glb",
+   "face": false,
+   "duration": 3.2333,
+   "loop": false,
+   "bytes": 164468
+  },
+  {
+   "name": "Dodge",
+   "file": "Laru/Laru_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 87640
+  },
+  {
+   "name": "HurtA1",
+   "file": "Laru/Laru_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6333,
+   "loop": false,
+   "bytes": 67268
+  },
+  {
+   "name": "HurtA2",
+   "file": "Laru/Laru_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6333,
+   "loop": false,
+   "bytes": 69888
+  },
+  {
+   "name": "HurtB",
+   "file": "Laru/Laru_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.2667,
+   "loop": false,
+   "bytes": 101804
+  },
+  {
+   "name": "Idle",
+   "file": "Laru/Laru_anims/Idle.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 57184
+  },
+  {
+   "name": "Main_Skill_Thunderbolt_Cut",
+   "file": "Laru/Laru_anims/Main_Skill_Thunderbolt_Cut.glb",
+   "face": false,
+   "duration": 5.3667,
+   "loop": false,
+   "bytes": 391804
+  },
+  {
+   "name": "Main_Skill_Thunderbolt_Cut_Lv1",
+   "file": "Laru/Laru_anims/Main_Skill_Thunderbolt_Cut_Lv1.glb",
+   "face": false,
+   "duration": 3.2667,
+   "loop": false,
+   "bytes": 205064
+  },
+  {
+   "name": "Main_Skill_Thunderbolt_Cut_Lv2",
+   "file": "Laru/Laru_anims/Main_Skill_Thunderbolt_Cut_Lv2.glb",
+   "face": false,
+   "duration": 3.5833,
+   "loop": false,
+   "bytes": 231356
+  },
+  {
+   "name": "Main_Skill_Thunderbolt_Cut_Lv3",
+   "file": "Laru/Laru_anims/Main_Skill_Thunderbolt_Cut_Lv3.glb",
+   "face": false,
+   "duration": 4.1,
+   "loop": false,
+   "bytes": 251292
+  },
+  {
+   "name": "Main_Skill_Thunderbolt_Laser_Lv1",
+   "file": "Laru/Laru_anims/Main_Skill_Thunderbolt_Laser_Lv1.glb",
+   "face": false,
+   "duration": 2.65,
+   "loop": false,
+   "bytes": 142032
+  },
+  {
+   "name": "Main_Skill_Thunderbolt_Laser_Lv2",
+   "file": "Laru/Laru_anims/Main_Skill_Thunderbolt_Laser_Lv2.glb",
+   "face": false,
+   "duration": 2.8167,
+   "loop": false,
+   "bytes": 152464
+  },
+  {
+   "name": "Main_Skill_Thunderbolt_Laser_Lv3",
+   "file": "Laru/Laru_anims/Main_Skill_Thunderbolt_Laser_Lv3.glb",
+   "face": false,
+   "duration": 2.7167,
+   "loop": false,
+   "bytes": 149448
+  },
+  {
+   "name": "Main_Skill_Thunderbolt_P04_Laser_1_Start_Lv1",
+   "file": "Laru/Laru_anims/Main_Skill_Thunderbolt_P04_Laser_1_Start_Lv1.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": false,
+   "bytes": 97076
+  },
+  {
+   "name": "Main_Skill_Thunderbolt_P04_Laser_1_Start_Lv2",
+   "file": "Laru/Laru_anims/Main_Skill_Thunderbolt_P04_Laser_1_Start_Lv2.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 111748
+  },
+  {
+   "name": "Main_Skill_Thunderbolt_P04_Laser_1_Start_Lv3",
+   "file": "Laru/Laru_anims/Main_Skill_Thunderbolt_P04_Laser_1_Start_Lv3.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": false,
+   "bytes": 105192
+  },
+  {
+   "name": "Main_Skill_Thunderbolt_P04_Laser_2_Loop",
+   "file": "Laru/Laru_anims/Main_Skill_Thunderbolt_P04_Laser_2_Loop.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": true,
+   "bytes": 61052
+  },
+  {
+   "name": "Main_Skill_Thunderbolt_P04_Laser_3_End",
+   "file": "Laru/Laru_anims/Main_Skill_Thunderbolt_P04_Laser_3_End.glb",
+   "face": false,
+   "duration": 1.85,
+   "loop": false,
+   "bytes": 95196
+  },
+  {
+   "name": "Out01",
+   "file": "Laru/Laru_anims/Out01.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 69964
+  },
+  {
+   "name": "Ready",
+   "file": "Laru/Laru_anims/Ready.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": false,
+   "bytes": 209780
+  },
+  {
+   "name": "Ready_Loop",
+   "file": "Laru/Laru_anims/Ready_Loop.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 50836
+  },
+  {
+   "name": "Run",
+   "file": "Laru/Laru_anims/Run.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": true,
+   "bytes": 79104
+  },
+  {
+   "name": "Rush",
+   "file": "Laru/Laru_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 80144
+  },
+  {
+   "name": "RushStop",
+   "file": "Laru/Laru_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.2667,
+   "loop": false,
+   "bytes": 79572
+  },
+  {
+   "name": "Support_Skill_Discharge_1_Start",
+   "file": "Laru/Laru_anims/Support_Skill_Discharge_1_Start.glb",
+   "face": false,
+   "duration": 2.2,
+   "loop": false,
+   "bytes": 179276
+  },
+  {
+   "name": "Support_Skill_Discharge_1_Start_Strengthen",
+   "file": "Laru/Laru_anims/Support_Skill_Discharge_1_Start_Strengthen.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 97392
+  },
+  {
+   "name": "Support_Skill_Discharge_2_Loop",
+   "file": "Laru/Laru_anims/Support_Skill_Discharge_2_Loop.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": true,
+   "bytes": 66764
+  },
+  {
+   "name": "Support_Skill_Discharge_2_Loop_Strengthen",
+   "file": "Laru/Laru_anims/Support_Skill_Discharge_2_Loop_Strengthen.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": true,
+   "bytes": 81756
+  },
+  {
+   "name": "Support_Skill_Discharge_3_End",
+   "file": "Laru/Laru_anims/Support_Skill_Discharge_3_End.glb",
+   "face": false,
+   "duration": 2.1333,
+   "loop": false,
+   "bytes": 101208
+  },
+  {
+   "name": "Support_Skill_Discharge_3_End_Strengthen",
+   "file": "Laru/Laru_anims/Support_Skill_Discharge_3_End_Strengthen.glb",
+   "face": false,
+   "duration": 2.0667,
+   "loop": false,
+   "bytes": 116660
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Laru/Laru_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 6.4667,
+   "loop": false,
+   "bytes": 306816
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Laru/Laru_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 3.3667,
+   "loop": false,
+   "bytes": 161100
+  },
+  {
+   "name": "Victory",
+   "file": "Laru/Laru_anims/Victory.glb",
+   "face": true,
+   "duration": 4.6833,
+   "loop": false,
+   "bytes": 138404
+  },
+  {
+   "name": "Victory_Loop",
+   "file": "Laru/Laru_anims/Victory_Loop.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 65800
+  },
+  {
+   "name": "Walk",
+   "file": "Laru/Laru_anims/Walk.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 71980
+  },
+  {
+   "name": "timeline",
+   "file": "Laru/Laru_anims/timeline.glb",
+   "face": true,
+   "duration": 3.5333,
+   "loop": false,
+   "bytes": 257584
+  },
+  {
+   "name": "Take 001",
+   "file": "Laru/Laru_anims/Take_001.glb",
+   "face": false,
+   "duration": 3.5833,
+   "loop": false,
+   "bytes": 231336
+  },
+  {
+   "name": "Take 001",
+   "file": "Laru/Laru_anims/Take_001_.glb",
+   "face": true,
+   "duration": 6.6833,
+   "loop": false,
+   "bytes": 150644
+  },
+  {
+   "name": "Take 001",
+   "file": "Laru/Laru_anims/Take_001__.glb",
+   "face": false,
+   "duration": 5.6,
+   "loop": false,
+   "bytes": 209184
+  },
+  {
+   "name": "Take 001",
+   "file": "Laru/Laru_anims/Take_001___.glb",
+   "face": false,
+   "duration": 4.1,
+   "loop": false,
+   "bytes": 251272
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "12503",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Freesia/Freesia_The_Gift_of_Falling_Snow_anims/Ready.glb",
+   "face": true,
+   "duration": 4.4,
+   "loop": false,
+   "bytes": 314340
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Freesia/Freesia_The_Gift_of_Falling_Snow_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.8667,
+   "loop": true,
+   "bytes": 120032
+  },
+  {
+   "name": "Victory",
+   "file": "Freesia/Freesia_The_Gift_of_Falling_Snow_anims/Victory.glb",
+   "face": true,
+   "duration": 8.3333,
+   "loop": false,
+   "bytes": 249064
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Freesia/Freesia_The_Gift_of_Falling_Snow_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 106048
+  },
+  {
+   "name": "timeline",
+   "file": "Freesia/Freesia_The_Gift_of_Falling_Snow_anims/timeline.glb",
+   "face": true,
+   "duration": 2.6833,
+   "loop": false,
+   "bytes": 293240
+  }
+ ]
+}

@@ -1,0 +1,325 @@
+{
+ "id": "14301",
+ "clips": [
+  {
+   "name": "Atk_Jian_1",
+   "file": "Wraith/Wraith_anims/Atk_Jian_1.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": false,
+   "bytes": 128052
+  },
+  {
+   "name": "Atk_Jian_2",
+   "file": "Wraith/Wraith_anims/Atk_Jian_2.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 126220
+  },
+  {
+   "name": "Atk_Jian_3",
+   "file": "Wraith/Wraith_anims/Atk_Jian_3.glb",
+   "face": false,
+   "duration": 2.2,
+   "loop": false,
+   "bytes": 137148
+  },
+  {
+   "name": "Atk_Jian_4",
+   "file": "Wraith/Wraith_anims/Atk_Jian_4.glb",
+   "face": false,
+   "duration": 2.6,
+   "loop": false,
+   "bytes": 187380
+  },
+  {
+   "name": "Atk_Jian_5",
+   "file": "Wraith/Wraith_anims/Atk_Jian_5.glb",
+   "face": false,
+   "duration": 2.0667,
+   "loop": false,
+   "bytes": 152320
+  },
+  {
+   "name": "Atk_Jian_6",
+   "file": "Wraith/Wraith_anims/Atk_Jian_6.glb",
+   "face": false,
+   "duration": 2.5167,
+   "loop": false,
+   "bytes": 192024
+  },
+  {
+   "name": "Atk_Qiang",
+   "file": "Wraith/Wraith_anims/Atk_Qiang.glb",
+   "face": false,
+   "duration": 3.6,
+   "loop": false,
+   "bytes": 284504
+  },
+  {
+   "name": "Atk_Qiang_1",
+   "file": "Wraith/Wraith_anims/Atk_Qiang_1.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": false,
+   "bytes": 133464
+  },
+  {
+   "name": "Atk_Qiang_2",
+   "file": "Wraith/Wraith_anims/Atk_Qiang_2.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 147064
+  },
+  {
+   "name": "Atk_Qiang_3",
+   "file": "Wraith/Wraith_anims/Atk_Qiang_3.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 147516
+  },
+  {
+   "name": "Atk_Qiang_4",
+   "file": "Wraith/Wraith_anims/Atk_Qiang_4.glb",
+   "face": false,
+   "duration": 2.0333,
+   "loop": false,
+   "bytes": 182116
+  },
+  {
+   "name": "Daze",
+   "file": "Wraith/Wraith_anims/Daze.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 74128
+  },
+  {
+   "name": "Die",
+   "file": "Wraith/Wraith_anims/Die.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 160444
+  },
+  {
+   "name": "Dodge",
+   "file": "Wraith/Wraith_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.2667,
+   "loop": false,
+   "bytes": 116676
+  },
+  {
+   "name": "HurtA1",
+   "file": "Wraith/Wraith_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 80956
+  },
+  {
+   "name": "HurtA2",
+   "file": "Wraith/Wraith_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 80656
+  },
+  {
+   "name": "HurtB",
+   "file": "Wraith/Wraith_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 107716
+  },
+  {
+   "name": "Idle",
+   "file": "Wraith/Wraith_anims/Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 70560
+  },
+  {
+   "name": "Out01",
+   "file": "Wraith/Wraith_anims/Out01.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 105780
+  },
+  {
+   "name": "Ready",
+   "file": "Wraith/Wraith_anims/Ready.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": false,
+   "bytes": 127452
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Wraith/Wraith_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 69644
+  },
+  {
+   "name": "Run",
+   "file": "Wraith/Wraith_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 93824
+  },
+  {
+   "name": "Rush",
+   "file": "Wraith/Wraith_anims/Rush.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": true,
+   "bytes": 85120
+  },
+  {
+   "name": "RushStop",
+   "file": "Wraith/Wraith_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 102568
+  },
+  {
+   "name": "Skill_Main_SheZhan_End",
+   "file": "Wraith/Wraith_anims/Skill_Main_SheZhan_End.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": false,
+   "bytes": 91460
+  },
+  {
+   "name": "Skill_Main_SheZhan_Loop",
+   "file": "Wraith/Wraith_anims/Skill_Main_SheZhan_Loop.glb",
+   "face": false,
+   "duration": 0.4,
+   "loop": true,
+   "bytes": 82232
+  },
+  {
+   "name": "Skill_Main_SheZhan_Start",
+   "file": "Wraith/Wraith_anims/Skill_Main_SheZhan_Start.glb",
+   "face": false,
+   "duration": 0.2,
+   "loop": false,
+   "bytes": 75200
+  },
+  {
+   "name": "Skill_Sup_LianHuan_1",
+   "file": "Wraith/Wraith_anims/Skill_Sup_LianHuan_1.glb",
+   "face": false,
+   "duration": 1.4167,
+   "loop": false,
+   "bytes": 169956
+  },
+  {
+   "name": "Skill_Sup_LianHuan_1_P23",
+   "file": "Wraith/Wraith_anims/Skill_Sup_LianHuan_1_P23.glb",
+   "face": false,
+   "duration": 1.7667,
+   "loop": false,
+   "bytes": 207188
+  },
+  {
+   "name": "Skill_Sup_LianHuan_2",
+   "file": "Wraith/Wraith_anims/Skill_Sup_LianHuan_2.glb",
+   "face": false,
+   "duration": 3.7167,
+   "loop": false,
+   "bytes": 221636
+  },
+  {
+   "name": "Timeline",
+   "file": "Wraith/Wraith_anims/Timeline.glb",
+   "face": true,
+   "duration": 3.0667,
+   "loop": false,
+   "bytes": 175064
+  },
+  {
+   "name": "Ultra_End",
+   "file": "Wraith/Wraith_anims/Ultra_End.glb",
+   "face": false,
+   "duration": 2.7,
+   "loop": false,
+   "bytes": 177720
+  },
+  {
+   "name": "Ultra_Loop",
+   "file": "Wraith/Wraith_anims/Ultra_Loop.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": false,
+   "bytes": 126028
+  },
+  {
+   "name": "Ultra_NoTL_Start",
+   "file": "Wraith/Wraith_anims/Ultra_NoTL_Start.glb",
+   "face": false,
+   "duration": 1.7,
+   "loop": false,
+   "bytes": 141656
+  },
+  {
+   "name": "Ultra_TL_Start",
+   "file": "Wraith/Wraith_anims/Ultra_TL_Start.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": false,
+   "bytes": 90416
+  },
+  {
+   "name": "Victory",
+   "file": "Wraith/Wraith_anims/Victory.glb",
+   "face": true,
+   "duration": 4.4333,
+   "loop": false,
+   "bytes": 139924
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Wraith/Wraith_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.5667,
+   "loop": true,
+   "bytes": 62024
+  },
+  {
+   "name": "Walk",
+   "file": "Wraith/Wraith_anims/Walk.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 75904
+  },
+  {
+   "name": "Take 001",
+   "file": "Wraith/Wraith_anims/Take_001.glb",
+   "face": false,
+   "duration": 6.7333,
+   "loop": false,
+   "bytes": 183356
+  },
+  {
+   "name": "Take 001",
+   "file": "Wraith/Wraith_anims/Take_001_.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 97228
+  }
+ ]
+}

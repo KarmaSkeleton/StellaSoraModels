@@ -1,0 +1,445 @@
+{
+ "id": "14401",
+ "clips": [
+  {
+   "name": "Attack",
+   "file": "Chitose/Chitose_anims/Attack.glb",
+   "face": false,
+   "duration": 7.0667,
+   "loop": false,
+   "bytes": 1101952
+  },
+  {
+   "name": "Attack_1",
+   "file": "Chitose/Chitose_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.7167,
+   "loop": false,
+   "bytes": 324180
+  },
+  {
+   "name": "Attack_1_Shadow",
+   "file": "Chitose/Chitose_anims/Attack_1_Shadow.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 289400
+  },
+  {
+   "name": "Attack_2",
+   "file": "Chitose/Chitose_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.5667,
+   "loop": false,
+   "bytes": 291840
+  },
+  {
+   "name": "Attack_2_Shadow",
+   "file": "Chitose/Chitose_anims/Attack_2_Shadow.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 246064
+  },
+  {
+   "name": "Attack_3",
+   "file": "Chitose/Chitose_anims/Attack_3.glb",
+   "face": false,
+   "duration": 2.25,
+   "loop": false,
+   "bytes": 458692
+  },
+  {
+   "name": "Attack_3_Hide",
+   "file": "Chitose/Chitose_anims/Attack_3_Hide.glb",
+   "face": false,
+   "duration": 0.1,
+   "loop": false,
+   "bytes": 129272
+  },
+  {
+   "name": "Attack_3_Shadow",
+   "file": "Chitose/Chitose_anims/Attack_3_Shadow.glb",
+   "face": false,
+   "duration": 1.55,
+   "loop": false,
+   "bytes": 416412
+  },
+  {
+   "name": "Attack_4",
+   "file": "Chitose/Chitose_anims/Attack_4.glb",
+   "face": false,
+   "duration": 1.55,
+   "loop": false,
+   "bytes": 304084
+  },
+  {
+   "name": "Attack_4_Shadow",
+   "file": "Chitose/Chitose_anims/Attack_4_Shadow.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 275112
+  },
+  {
+   "name": "Attack_5",
+   "file": "Chitose/Chitose_anims/Attack_5.glb",
+   "face": false,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 383948
+  },
+  {
+   "name": "Attack_5_Shadow",
+   "file": "Chitose/Chitose_anims/Attack_5_Shadow.glb",
+   "face": false,
+   "duration": 1.6167,
+   "loop": false,
+   "bytes": 351928
+  },
+  {
+   "name": "Attack_6",
+   "file": "Chitose/Chitose_anims/Attack_6.glb",
+   "face": false,
+   "duration": 2.55,
+   "loop": false,
+   "bytes": 314612
+  },
+  {
+   "name": "Attack_6_Shadow",
+   "file": "Chitose/Chitose_anims/Attack_6_Shadow.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 216620
+  },
+  {
+   "name": "B1_Shadow",
+   "file": "Chitose/Chitose_anims/B1_Shadow.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 183208
+  },
+  {
+   "name": "B1_Shadow",
+   "file": "Chitose/Chitose_anims/B1_Shadow_.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": false,
+   "bytes": 209128
+  },
+  {
+   "name": "B1_Skill",
+   "file": "Chitose/Chitose_anims/B1_Skill.glb",
+   "face": false,
+   "duration": 1.9,
+   "loop": false,
+   "bytes": 250800
+  },
+  {
+   "name": "B1_Skill_2",
+   "file": "Chitose/Chitose_anims/B1_Skill_2.glb",
+   "face": false,
+   "duration": 1.9,
+   "loop": false,
+   "bytes": 253892
+  },
+  {
+   "name": "B2_Attack",
+   "file": "Chitose/Chitose_anims/B2_Attack.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 137100
+  },
+  {
+   "name": "B2_Attack_2",
+   "file": "Chitose/Chitose_anims/B2_Attack_2.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 229068
+  },
+  {
+   "name": "B2_Connect",
+   "file": "Chitose/Chitose_anims/B2_Connect.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": false,
+   "bytes": 135840
+  },
+  {
+   "name": "B2_Idle",
+   "file": "Chitose/Chitose_anims/B2_Idle.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 107948
+  },
+  {
+   "name": "B2_Start",
+   "file": "Chitose/Chitose_anims/B2_Start.glb",
+   "face": false,
+   "duration": 0.4667,
+   "loop": false,
+   "bytes": 93128
+  },
+  {
+   "name": "Daze",
+   "file": "Chitose/Chitose_anims/Daze.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 138124
+  },
+  {
+   "name": "Die",
+   "file": "Chitose/Chitose_anims/Die.glb",
+   "face": false,
+   "duration": 2.2,
+   "loop": false,
+   "bytes": 260696
+  },
+  {
+   "name": "Dodge",
+   "file": "Chitose/Chitose_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 184020
+  },
+  {
+   "name": "Hide",
+   "file": "Chitose/Chitose_anims/Hide.glb",
+   "face": false,
+   "duration": 0.3167,
+   "loop": false,
+   "bytes": 118588
+  },
+  {
+   "name": "HurtA1",
+   "file": "Chitose/Chitose_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6333,
+   "loop": false,
+   "bytes": 134060
+  },
+  {
+   "name": "HurtA2",
+   "file": "Chitose/Chitose_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6333,
+   "loop": false,
+   "bytes": 133268
+  },
+  {
+   "name": "HurtB",
+   "file": "Chitose/Chitose_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 188116
+  },
+  {
+   "name": "Idle",
+   "file": "Chitose/Chitose_anims/Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 121624
+  },
+  {
+   "name": "Out01",
+   "file": "Chitose/Chitose_anims/Out01.glb",
+   "face": false,
+   "duration": 1.4333,
+   "loop": false,
+   "bytes": 159108
+  },
+  {
+   "name": "Ready",
+   "file": "Chitose/Chitose_anims/Ready.glb",
+   "face": true,
+   "duration": 3.6667,
+   "loop": false,
+   "bytes": 187432
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Chitose/Chitose_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 127104
+  },
+  {
+   "name": "Run",
+   "file": "Chitose/Chitose_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 152076
+  },
+  {
+   "name": "Rush",
+   "file": "Chitose/Chitose_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 174404
+  },
+  {
+   "name": "RushStop",
+   "file": "Chitose/Chitose_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.8333,
+   "loop": false,
+   "bytes": 189292
+  },
+  {
+   "name": "Snake_Attack_3",
+   "file": "Chitose/Chitose_anims/Snake_Attack_3.glb",
+   "face": false,
+   "duration": 0.95,
+   "loop": false,
+   "bytes": 748
+  },
+  {
+   "name": "Snake_Attack_3a",
+   "file": "Chitose/Chitose_anims/Snake_Attack_3a.glb",
+   "face": false,
+   "duration": 0.6333,
+   "loop": false,
+   "bytes": 752
+  },
+  {
+   "name": "Timeline",
+   "file": "Chitose/Chitose_anims/Timeline.glb",
+   "face": true,
+   "duration": 4.4167,
+   "loop": false,
+   "bytes": 423844
+  },
+  {
+   "name": "Ultra_01",
+   "file": "Chitose/Chitose_anims/Ultra_01.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 168920
+  },
+  {
+   "name": "Ultra_02",
+   "file": "Chitose/Chitose_anims/Ultra_02.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 136300
+  },
+  {
+   "name": "Ultra_03",
+   "file": "Chitose/Chitose_anims/Ultra_03.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 131272
+  },
+  {
+   "name": "Ultra_04",
+   "file": "Chitose/Chitose_anims/Ultra_04.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 125096
+  },
+  {
+   "name": "Ultra_05",
+   "file": "Chitose/Chitose_anims/Ultra_05.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 234988
+  },
+  {
+   "name": "Ultra_06",
+   "file": "Chitose/Chitose_anims/Ultra_06.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 149608
+  },
+  {
+   "name": "Ultra_07",
+   "file": "Chitose/Chitose_anims/Ultra_07.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 134000
+  },
+  {
+   "name": "Ultra_End",
+   "file": "Chitose/Chitose_anims/Ultra_End.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 178164
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Chitose/Chitose_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 7.2333,
+   "loop": false,
+   "bytes": 193068
+  },
+  {
+   "name": "Ultra_Start",
+   "file": "Chitose/Chitose_anims/Ultra_Start.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 246212
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Chitose/Chitose_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 182720
+  },
+  {
+   "name": "Victory",
+   "file": "Chitose/Chitose_anims/Victory.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": false,
+   "bytes": 124772
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Chitose/Chitose_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 80572
+  },
+  {
+   "name": "Walk",
+   "file": "Chitose/Chitose_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 133120
+  },
+  {
+   "name": "Soldier_B2_Attack",
+   "file": "Chitose/Chitose_anims/Soldier_B2_Attack.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 137108
+  }
+ ]
+}

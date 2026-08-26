@@ -1,0 +1,45 @@
+{
+ "id": "15603",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Nazuna/Nazuna_Quirky_Tea_Party_anims/Ready.glb",
+   "face": true,
+   "duration": 7.1667,
+   "loop": false,
+   "bytes": 558072
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Nazuna/Nazuna_Quirky_Tea_Party_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 142592
+  },
+  {
+   "name": "Timeline",
+   "file": "Nazuna/Nazuna_Quirky_Tea_Party_anims/Timeline.glb",
+   "face": true,
+   "duration": 4.0333,
+   "loop": false,
+   "bytes": 678776
+  },
+  {
+   "name": "Victory",
+   "file": "Nazuna/Nazuna_Quirky_Tea_Party_anims/Victory.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": false,
+   "bytes": 436776
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Nazuna/Nazuna_Quirky_Tea_Party_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 176760
+  }
+ ]
+}

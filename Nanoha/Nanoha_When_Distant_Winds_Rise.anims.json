@@ -1,0 +1,237 @@
+{
+ "id": "11903",
+ "clips": [
+  {
+   "name": "Aim",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Aim.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 23504
+  },
+  {
+   "name": "Attack_1",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 119776
+  },
+  {
+   "name": "Attack_2",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 124272
+  },
+  {
+   "name": "Attack_3",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Attack_3.glb",
+   "face": false,
+   "duration": 2.0333,
+   "loop": false,
+   "bytes": 135020
+  },
+  {
+   "name": "B1_Skill_Boomerang",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/B1_Skill_Boomerang.glb",
+   "face": false,
+   "duration": 2.1,
+   "loop": false,
+   "bytes": 138116
+  },
+  {
+   "name": "B2_Skill_SplitDart",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/B2_Skill_SplitDart.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 139932
+  },
+  {
+   "name": "Dazed",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 65116
+  },
+  {
+   "name": "Die",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Die.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 152908
+  },
+  {
+   "name": "Die_Monster",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Die_Monster.glb",
+   "face": false,
+   "duration": 0.0333,
+   "loop": false,
+   "bytes": 44936
+  },
+  {
+   "name": "Dodge",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 128336
+  },
+  {
+   "name": "HurtA1",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 88380
+  },
+  {
+   "name": "HurtA2",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 88564
+  },
+  {
+   "name": "HurtB",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/HurtB.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 104052
+  },
+  {
+   "name": "Idle",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Idle.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 68064
+  },
+  {
+   "name": "Out01",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Out01.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 111100
+  },
+  {
+   "name": "Ready",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Ready.glb",
+   "face": true,
+   "duration": 4.6667,
+   "loop": false,
+   "bytes": 157916
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": true,
+   "bytes": 84236
+  },
+  {
+   "name": "Run",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 95564
+  },
+  {
+   "name": "Rush",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 88292
+  },
+  {
+   "name": "RushStop",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/RushStop.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 89828
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 2.2333,
+   "loop": false,
+   "bytes": 134776
+  },
+  {
+   "name": "Ultra_Summon_FanofKnives_In",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Ultra_Summon_FanofKnives_In.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 106192
+  },
+  {
+   "name": "Ultra_Summon_FanofKnives_Out",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Ultra_Summon_FanofKnives_Out.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 101852
+  },
+  {
+   "name": "Ultra_Summon_In",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Ultra_Summon_In.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": false,
+   "bytes": 105480
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 71668
+  },
+  {
+   "name": "Victory",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Victory.glb",
+   "face": true,
+   "duration": 3.95,
+   "loop": false,
+   "bytes": 167552
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.8667,
+   "loop": true,
+   "bytes": 73972
+  },
+  {
+   "name": "Walk",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 80516
+  },
+  {
+   "name": "Die01",
+   "file": "Nanoha/Nanoha_When_Distant_Winds_Rise_anims/Die01.glb",
+   "face": false,
+   "duration": 0.1667,
+   "loop": false,
+   "bytes": 40412
+  }
+ ]
+}

@@ -1,0 +1,389 @@
+{
+ "id": "11201",
+ "clips": [
+  {
+   "name": "111_xuzhuang01",
+   "file": "Noya/Noya_anims/111_xuzhuang01.glb",
+   "face": false,
+   "duration": 9.4,
+   "loop": false,
+   "bytes": 112884
+  },
+  {
+   "name": "Attack",
+   "file": "Noya/Noya_anims/Attack.glb",
+   "face": false,
+   "duration": 6.5,
+   "loop": false,
+   "bytes": 425764
+  },
+  {
+   "name": "Attack_1",
+   "file": "Noya/Noya_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.0833,
+   "loop": false,
+   "bytes": 116276
+  },
+  {
+   "name": "Attack_2",
+   "file": "Noya/Noya_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.9167,
+   "loop": false,
+   "bytes": 146012
+  },
+  {
+   "name": "Attack_3",
+   "file": "Noya/Noya_anims/Attack_3.glb",
+   "face": false,
+   "duration": 2.2833,
+   "loop": false,
+   "bytes": 258512
+  },
+  {
+   "name": "Attack_4",
+   "file": "Noya/Noya_anims/Attack_4.glb",
+   "face": false,
+   "duration": 4.0167,
+   "loop": false,
+   "bytes": 185356
+  },
+  {
+   "name": "Attack_JianQi",
+   "file": "Noya/Noya_anims/Attack_JianQi.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 119956
+  },
+  {
+   "name": "Attack_New_1",
+   "file": "Noya/Noya_anims/Attack_New_1.glb",
+   "face": false,
+   "duration": 0.2833,
+   "loop": false,
+   "bytes": 84228
+  },
+  {
+   "name": "Attack_New_2",
+   "file": "Noya/Noya_anims/Attack_New_2.glb",
+   "face": false,
+   "duration": 0.8833,
+   "loop": false,
+   "bytes": 110000
+  },
+  {
+   "name": "Attack_New_3",
+   "file": "Noya/Noya_anims/Attack_New_3.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 213376
+  },
+  {
+   "name": "Attack_New_4",
+   "file": "Noya/Noya_anims/Attack_New_4.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": false,
+   "bytes": 167584
+  },
+  {
+   "name": "Dazed",
+   "file": "Noya/Noya_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 67048
+  },
+  {
+   "name": "Die",
+   "file": "Noya/Noya_anims/Die.glb",
+   "face": false,
+   "duration": 2.7333,
+   "loop": false,
+   "bytes": 149868
+  },
+  {
+   "name": "Dodge",
+   "file": "Noya/Noya_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 102364
+  },
+  {
+   "name": "HurtA1",
+   "file": "Noya/Noya_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 89120
+  },
+  {
+   "name": "HurtA2",
+   "file": "Noya/Noya_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 86236
+  },
+  {
+   "name": "HurtB",
+   "file": "Noya/Noya_anims/HurtB.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 99452
+  },
+  {
+   "name": "Idle",
+   "file": "Noya/Noya_anims/Idle.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": true,
+   "bytes": 57108
+  },
+  {
+   "name": "Jump_prologue",
+   "file": "Noya/Noya_anims/Jump_prologue.glb",
+   "face": false,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 103708
+  },
+  {
+   "name": "MainStoryAct_nod",
+   "file": "Noya/Noya_anims/MainStoryAct_nod.glb",
+   "face": true,
+   "duration": 1.8333,
+   "loop": false,
+   "bytes": 90812
+  },
+  {
+   "name": "MainStoryAct_swordplay",
+   "file": "Noya/Noya_anims/MainStoryAct_swordplay.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": false,
+   "bytes": 98552
+  },
+  {
+   "name": "Out01",
+   "file": "Noya/Noya_anims/Out01.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 97040
+  },
+  {
+   "name": "Ready",
+   "file": "Noya/Noya_anims/Ready.glb",
+   "face": true,
+   "duration": 4.6667,
+   "loop": false,
+   "bytes": 188400
+  },
+  {
+   "name": "Readyloop",
+   "file": "Noya/Noya_anims/Readyloop.glb",
+   "face": true,
+   "duration": 3.7333,
+   "loop": true,
+   "bytes": 63528
+  },
+  {
+   "name": "Run",
+   "file": "Noya/Noya_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 80736
+  },
+  {
+   "name": "Rush",
+   "file": "Noya/Noya_anims/Rush.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 81220
+  },
+  {
+   "name": "RushStop",
+   "file": "Noya/Noya_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 103980
+  },
+  {
+   "name": "Skill1_1_Loop",
+   "file": "Noya/Noya_anims/Skill1_1_Loop.glb",
+   "face": false,
+   "duration": 0.0667,
+   "loop": true,
+   "bytes": 41444
+  },
+  {
+   "name": "Skill_Main_T1_ChongZhan",
+   "file": "Noya/Noya_anims/Skill_Main_T1_ChongZhan.glb",
+   "face": false,
+   "duration": 1.9167,
+   "loop": false,
+   "bytes": 159288
+  },
+  {
+   "name": "Skill_Main_T1_ZaDi",
+   "file": "Noya/Noya_anims/Skill_Main_T1_ZaDi.glb",
+   "face": false,
+   "duration": 2.6333,
+   "loop": false,
+   "bytes": 182056
+  },
+  {
+   "name": "Skill_Main_T2_HuiXuanZhan",
+   "file": "Noya/Noya_anims/Skill_Main_T2_HuiXuanZhan.glb",
+   "face": false,
+   "duration": 2.5667,
+   "loop": false,
+   "bytes": 194340
+  },
+  {
+   "name": "Skill_Main_XunFengZhan",
+   "file": "Noya/Noya_anims/Skill_Main_XunFengZhan.glb",
+   "face": false,
+   "duration": 3.4,
+   "loop": false,
+   "bytes": 207216
+  },
+  {
+   "name": "Skill_Main_ZaDi",
+   "file": "Noya/Noya_anims/Skill_Main_ZaDi.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": false,
+   "bytes": 170412
+  },
+  {
+   "name": "Skill_Support_JianQ_Big",
+   "file": "Noya/Noya_anims/Skill_Support_JianQ_Big.glb",
+   "face": false,
+   "duration": 2.2333,
+   "loop": false,
+   "bytes": 149860
+  },
+  {
+   "name": "Skill_Support_JianQ_Big_T21",
+   "file": "Noya/Noya_anims/Skill_Support_JianQ_Big_T21.glb",
+   "face": false,
+   "duration": 3.1167,
+   "loop": false,
+   "bytes": 191588
+  },
+  {
+   "name": "Skill_Support_JianQi_Big2",
+   "file": "Noya/Noya_anims/Skill_Support_JianQi_Big2.glb",
+   "face": false,
+   "duration": 3.8667,
+   "loop": false,
+   "bytes": 259020
+  },
+  {
+   "name": "Skill_Support_JianQi_Small_End",
+   "file": "Noya/Noya_anims/Skill_Support_JianQi_Small_End.glb",
+   "face": false,
+   "duration": 0.0167,
+   "loop": false,
+   "bytes": 34804
+  },
+  {
+   "name": "Skill_Support_JianQi_Small_Loop",
+   "file": "Noya/Noya_anims/Skill_Support_JianQi_Small_Loop.glb",
+   "face": false,
+   "duration": 0.35,
+   "loop": true,
+   "bytes": 95440
+  },
+  {
+   "name": "Skill_Support_JianQi_Small_Start",
+   "file": "Noya/Noya_anims/Skill_Support_JianQi_Small_Start.glb",
+   "face": false,
+   "duration": 0.3,
+   "loop": false,
+   "bytes": 76648
+  },
+  {
+   "name": "Ultra_NoTL_ErLianZhan",
+   "file": "Noya/Noya_anims/Ultra_NoTL_ErLianZhan.glb",
+   "face": false,
+   "duration": 3.4333,
+   "loop": false,
+   "bytes": 228232
+  },
+  {
+   "name": "Ultra_TL_2Hit_Cut",
+   "file": "Noya/Noya_anims/Ultra_TL_2Hit_Cut.glb",
+   "face": false,
+   "duration": 2.7,
+   "loop": false,
+   "bytes": 237772
+  },
+  {
+   "name": "Ultra_TL_ErLianZhan",
+   "file": "Noya/Noya_anims/Ultra_TL_ErLianZhan.glb",
+   "face": false,
+   "duration": 3.2,
+   "loop": false,
+   "bytes": 271708
+  },
+  {
+   "name": "Ultra_TL_Ready",
+   "file": "Noya/Noya_anims/Ultra_TL_Ready.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 117584
+  },
+  {
+   "name": "Victory",
+   "file": "Noya/Noya_anims/Victory.glb",
+   "face": true,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 103136
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Noya/Noya_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.9333,
+   "loop": true,
+   "bytes": 63576
+  },
+  {
+   "name": "Walk",
+   "file": "Noya/Noya_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 69308
+  },
+  {
+   "name": "xuzhuang01",
+   "file": "Noya/Noya_anims/xuzhuang01.glb",
+   "face": false,
+   "duration": 9.2333,
+   "loop": false,
+   "bytes": 278444
+  },
+  {
+   "name": "Soldier_Support",
+   "file": "Noya/Noya_anims/Soldier_Support.glb",
+   "face": false,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 120964
+  }
+ ]
+}

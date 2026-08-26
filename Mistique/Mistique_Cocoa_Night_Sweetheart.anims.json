@@ -1,0 +1,45 @@
+{
+ "id": "13503",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Mistique/Mistique_Cocoa_Night_Sweetheart_anims/Ready.glb",
+   "face": true,
+   "duration": 6.2333,
+   "loop": false,
+   "bytes": 354196
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Mistique/Mistique_Cocoa_Night_Sweetheart_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.2,
+   "loop": true,
+   "bytes": 100188
+  },
+  {
+   "name": "Timeline",
+   "file": "Mistique/Mistique_Cocoa_Night_Sweetheart_anims/Timeline.glb",
+   "face": true,
+   "duration": 3.3667,
+   "loop": false,
+   "bytes": 338956
+  },
+  {
+   "name": "Victory",
+   "file": "Mistique/Mistique_Cocoa_Night_Sweetheart_anims/Victory.glb",
+   "face": true,
+   "duration": 4.1833,
+   "loop": false,
+   "bytes": 174680
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Mistique/Mistique_Cocoa_Night_Sweetheart_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.5333,
+   "loop": true,
+   "bytes": 94840
+  }
+ ]
+}

@@ -1,0 +1,389 @@
+{
+ "id": "11601",
+ "clips": [
+  {
+   "name": "10001TuBoShu_Bron01",
+   "file": "Ridge/Ridge_anims/10001TuBoShu_Bron01.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 41824
+  },
+  {
+   "name": "10001TuBoShu_Bron02",
+   "file": "Ridge/Ridge_anims/10001TuBoShu_Bron02.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 26188
+  },
+  {
+   "name": "10001TuBoShu_Bron03",
+   "file": "Ridge/Ridge_anims/10001TuBoShu_Bron03.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 30020
+  },
+  {
+   "name": "10001TuBoShu_Idleshow",
+   "file": "Ridge/Ridge_anims/10001TuBoShu_Idleshow.glb",
+   "face": false,
+   "duration": 2.6,
+   "loop": false,
+   "bytes": 25512
+  },
+  {
+   "name": "10001TuBoShu_Loop",
+   "file": "Ridge/Ridge_anims/10001TuBoShu_Loop.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 21480
+  },
+  {
+   "name": "10001TuBoShu_Out01",
+   "file": "Ridge/Ridge_anims/10001TuBoShu_Out01.glb",
+   "face": false,
+   "duration": 0.4,
+   "loop": false,
+   "bytes": 29844
+  },
+  {
+   "name": "10001TuBoShu_Out02",
+   "file": "Ridge/Ridge_anims/10001TuBoShu_Out02.glb",
+   "face": false,
+   "duration": 0.4,
+   "loop": false,
+   "bytes": 36804
+  },
+  {
+   "name": "10001TuBoShu_PeaShooter_Die",
+   "file": "Ridge/Ridge_anims/10001TuBoShu_PeaShooter_Die.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 45176
+  },
+  {
+   "name": "10001TuBoShu_TL01",
+   "file": "Ridge/Ridge_anims/10001TuBoShu_TL01.glb",
+   "face": false,
+   "duration": 3.8333,
+   "loop": false,
+   "bytes": 34384
+  },
+  {
+   "name": "10001TuBoShu_TL02",
+   "file": "Ridge/Ridge_anims/10001TuBoShu_TL02.glb",
+   "face": false,
+   "duration": 3.8333,
+   "loop": false,
+   "bytes": 28352
+  },
+  {
+   "name": "10001TuBoShu_TL03",
+   "file": "Ridge/Ridge_anims/10001TuBoShu_TL03.glb",
+   "face": false,
+   "duration": 3.8333,
+   "loop": false,
+   "bytes": 23844
+  },
+  {
+   "name": "timeline",
+   "file": "Ridge/Ridge_anims/timeline.glb",
+   "face": true,
+   "duration": 3.8333,
+   "loop": false,
+   "bytes": 239396
+  },
+  {
+   "name": "Aim",
+   "file": "Ridge/Ridge_anims/Aim.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 78232
+  },
+  {
+   "name": "Attack_LongRange",
+   "file": "Ridge/Ridge_anims/Attack_LongRange.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": false,
+   "bytes": 67396
+  },
+  {
+   "name": "Attack_ShortRange",
+   "file": "Ridge/Ridge_anims/Attack_ShortRange.glb",
+   "face": false,
+   "duration": 2.5,
+   "loop": false,
+   "bytes": 187304
+  },
+  {
+   "name": "Dazed",
+   "file": "Ridge/Ridge_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": true,
+   "bytes": 80784
+  },
+  {
+   "name": "Die",
+   "file": "Ridge/Ridge_anims/Die.glb",
+   "face": false,
+   "duration": 2.1,
+   "loop": false,
+   "bytes": 183208
+  },
+  {
+   "name": "Dodge",
+   "file": "Ridge/Ridge_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 107340
+  },
+  {
+   "name": "HurtA1",
+   "file": "Ridge/Ridge_anims/HurtA1.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 104924
+  },
+  {
+   "name": "HurtA2",
+   "file": "Ridge/Ridge_anims/HurtA2.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 99188
+  },
+  {
+   "name": "HurtB",
+   "file": "Ridge/Ridge_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 109564
+  },
+  {
+   "name": "Idle",
+   "file": "Ridge/Ridge_anims/Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 76380
+  },
+  {
+   "name": "Out01",
+   "file": "Ridge/Ridge_anims/Out01.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 144080
+  },
+  {
+   "name": "Ready",
+   "file": "Ridge/Ridge_anims/Ready.glb",
+   "face": true,
+   "duration": 5.9333,
+   "loop": false,
+   "bytes": 223596
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Ridge/Ridge_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 71860
+  },
+  {
+   "name": "Reload",
+   "file": "Ridge/Ridge_anims/Reload.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 81216
+  },
+  {
+   "name": "Run",
+   "file": "Ridge/Ridge_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 88264
+  },
+  {
+   "name": "Rush",
+   "file": "Ridge/Ridge_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 93924
+  },
+  {
+   "name": "RushStop",
+   "file": "Ridge/Ridge_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.7667,
+   "loop": false,
+   "bytes": 103420
+  },
+  {
+   "name": "Skill_Main",
+   "file": "Ridge/Ridge_anims/Skill_Main.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 142308
+  },
+  {
+   "name": "Skill_Main_Speed",
+   "file": "Ridge/Ridge_anims/Skill_Main_Speed.glb",
+   "face": false,
+   "duration": 0.3333,
+   "loop": false,
+   "bytes": 66704
+  },
+  {
+   "name": "Skill_Sup_Perk22",
+   "file": "Ridge/Ridge_anims/Skill_Sup_Perk22.glb",
+   "face": false,
+   "duration": 3.3333,
+   "loop": false,
+   "bytes": 241272
+  },
+  {
+   "name": "Skill_Sup_Shoot",
+   "file": "Ridge/Ridge_anims/Skill_Sup_Shoot.glb",
+   "face": false,
+   "duration": 3.4,
+   "loop": false,
+   "bytes": 229760
+  },
+  {
+   "name": "Ultra_Attack01",
+   "file": "Ridge/Ridge_anims/Ultra_Attack01.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 108520
+  },
+  {
+   "name": "Ultra_Attack02",
+   "file": "Ridge/Ridge_anims/Ultra_Attack02.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 114924
+  },
+  {
+   "name": "Ultra_Attack03",
+   "file": "Ridge/Ridge_anims/Ultra_Attack03.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 104056
+  },
+  {
+   "name": "Ultra_End",
+   "file": "Ridge/Ridge_anims/Ultra_End.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": false,
+   "bytes": 181608
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Ridge/Ridge_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 8.0667,
+   "loop": false,
+   "bytes": 187412
+  },
+  {
+   "name": "Ultra_NoTL_Start",
+   "file": "Ridge/Ridge_anims/Ultra_NoTL_Start.glb",
+   "face": false,
+   "duration": 2.8,
+   "loop": false,
+   "bytes": 175364
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Ridge/Ridge_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 5.8333,
+   "loop": false,
+   "bytes": 187724
+  },
+  {
+   "name": "Ultra_TL_Start",
+   "file": "Ridge/Ridge_anims/Ultra_TL_Start.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 93528
+  },
+  {
+   "name": "Victory",
+   "file": "Ridge/Ridge_anims/Victory.glb",
+   "face": true,
+   "duration": 6.1667,
+   "loop": false,
+   "bytes": 132252
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Ridge/Ridge_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.6667,
+   "loop": true,
+   "bytes": 62836
+  },
+  {
+   "name": "Walk",
+   "file": "Ridge/Ridge_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 81048
+  },
+  {
+   "name": "WalkBackward",
+   "file": "Ridge/Ridge_anims/WalkBackward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 57848
+  },
+  {
+   "name": "WalkForward",
+   "file": "Ridge/Ridge_anims/WalkForward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 55916
+  },
+  {
+   "name": "WalkLeft",
+   "file": "Ridge/Ridge_anims/WalkLeft.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 57272
+  },
+  {
+   "name": "WalkRight",
+   "file": "Ridge/Ridge_anims/WalkRight.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 58716
+  }
+ ]
+}

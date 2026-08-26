@@ -1,0 +1,397 @@
+{
+ "id": "11203",
+ "clips": [
+  {
+   "name": "111_xuzhuang01",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/111_xuzhuang01.glb",
+   "face": false,
+   "duration": 9.4,
+   "loop": false,
+   "bytes": 112884
+  },
+  {
+   "name": "timeline",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/timeline.glb",
+   "face": true,
+   "duration": 4.3,
+   "loop": false,
+   "bytes": 156272
+  },
+  {
+   "name": "Attack",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Attack.glb",
+   "face": false,
+   "duration": 6.5,
+   "loop": false,
+   "bytes": 327232
+  },
+  {
+   "name": "Attack_1",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.0833,
+   "loop": false,
+   "bytes": 88308
+  },
+  {
+   "name": "Attack_2",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.9167,
+   "loop": false,
+   "bytes": 112784
+  },
+  {
+   "name": "Attack_3",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Attack_3.glb",
+   "face": false,
+   "duration": 2.2833,
+   "loop": false,
+   "bytes": 198228
+  },
+  {
+   "name": "Attack_4",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Attack_4.glb",
+   "face": false,
+   "duration": 4.0167,
+   "loop": false,
+   "bytes": 141632
+  },
+  {
+   "name": "Attack_JianQi",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Attack_JianQi.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 91312
+  },
+  {
+   "name": "Attack_New_1",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Attack_New_1.glb",
+   "face": false,
+   "duration": 0.2833,
+   "loop": false,
+   "bytes": 64856
+  },
+  {
+   "name": "Attack_New_2",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Attack_New_2.glb",
+   "face": false,
+   "duration": 0.8833,
+   "loop": false,
+   "bytes": 85320
+  },
+  {
+   "name": "Attack_New_3",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Attack_New_3.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 165008
+  },
+  {
+   "name": "Attack_New_4",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Attack_New_4.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": false,
+   "bytes": 125776
+  },
+  {
+   "name": "Dazed",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 51012
+  },
+  {
+   "name": "Die",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Die.glb",
+   "face": false,
+   "duration": 2.7333,
+   "loop": false,
+   "bytes": 116476
+  },
+  {
+   "name": "Dodge",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 75672
+  },
+  {
+   "name": "HurtA1",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 66068
+  },
+  {
+   "name": "HurtA2",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 64428
+  },
+  {
+   "name": "HurtB",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/HurtB.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 72060
+  },
+  {
+   "name": "Idle",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Idle.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": true,
+   "bytes": 43196
+  },
+  {
+   "name": "Jump_prologue",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Jump_prologue.glb",
+   "face": false,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 80144
+  },
+  {
+   "name": "MainStoryAct_nod",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/MainStoryAct_nod.glb",
+   "face": true,
+   "duration": 1.8333,
+   "loop": false,
+   "bytes": 72676
+  },
+  {
+   "name": "MainStoryAct_swordplay",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/MainStoryAct_swordplay.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": false,
+   "bytes": 78068
+  },
+  {
+   "name": "Out01",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Out01.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 72864
+  },
+  {
+   "name": "Ready",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Ready.glb",
+   "face": true,
+   "duration": 4.6667,
+   "loop": false,
+   "bytes": 147424
+  },
+  {
+   "name": "Readyloop",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Readyloop.glb",
+   "face": true,
+   "duration": 3.7333,
+   "loop": true,
+   "bytes": 47612
+  },
+  {
+   "name": "Run",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 57388
+  },
+  {
+   "name": "Rush",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Rush.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 56872
+  },
+  {
+   "name": "RushStop",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 77064
+  },
+  {
+   "name": "Skill1_1_Loop",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Skill1_1_Loop.glb",
+   "face": false,
+   "duration": 0.0667,
+   "loop": true,
+   "bytes": 31980
+  },
+  {
+   "name": "Skill_Main_T1_ChongZhan",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Skill_Main_T1_ChongZhan.glb",
+   "face": false,
+   "duration": 1.9167,
+   "loop": false,
+   "bytes": 117592
+  },
+  {
+   "name": "Skill_Main_T1_ZaDi",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Skill_Main_T1_ZaDi.glb",
+   "face": false,
+   "duration": 2.6333,
+   "loop": false,
+   "bytes": 133312
+  },
+  {
+   "name": "Skill_Main_T2_HuiXuanZhan",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Skill_Main_T2_HuiXuanZhan.glb",
+   "face": false,
+   "duration": 2.5667,
+   "loop": false,
+   "bytes": 145988
+  },
+  {
+   "name": "Skill_Main_XunFengZhan",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Skill_Main_XunFengZhan.glb",
+   "face": false,
+   "duration": 3.4,
+   "loop": false,
+   "bytes": 154972
+  },
+  {
+   "name": "Skill_Main_ZaDi",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Skill_Main_ZaDi.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": false,
+   "bytes": 123316
+  },
+  {
+   "name": "Skill_Support_JianQ_Big",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Skill_Support_JianQ_Big.glb",
+   "face": false,
+   "duration": 2.2333,
+   "loop": false,
+   "bytes": 109948
+  },
+  {
+   "name": "Skill_Support_JianQ_Big_T21",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Skill_Support_JianQ_Big_T21.glb",
+   "face": false,
+   "duration": 3.1167,
+   "loop": false,
+   "bytes": 141192
+  },
+  {
+   "name": "Skill_Support_JianQi_Big2",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Skill_Support_JianQi_Big2.glb",
+   "face": false,
+   "duration": 3.8667,
+   "loop": false,
+   "bytes": 191036
+  },
+  {
+   "name": "Skill_Support_JianQi_Small_End",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Skill_Support_JianQi_Small_End.glb",
+   "face": false,
+   "duration": 0.0167,
+   "loop": false,
+   "bytes": 26692
+  },
+  {
+   "name": "Skill_Support_JianQi_Small_Loop",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Skill_Support_JianQi_Small_Loop.glb",
+   "face": false,
+   "duration": 0.35,
+   "loop": true,
+   "bytes": 71612
+  },
+  {
+   "name": "Skill_Support_JianQi_Small_Start",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Skill_Support_JianQi_Small_Start.glb",
+   "face": false,
+   "duration": 0.3,
+   "loop": false,
+   "bytes": 57180
+  },
+  {
+   "name": "Ultra_NoTL_ErLianZhan",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Ultra_NoTL_ErLianZhan.glb",
+   "face": false,
+   "duration": 3.4333,
+   "loop": false,
+   "bytes": 162244
+  },
+  {
+   "name": "Ultra_TL_2Hit_Cut",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Ultra_TL_2Hit_Cut.glb",
+   "face": false,
+   "duration": 2.7,
+   "loop": false,
+   "bytes": 170044
+  },
+  {
+   "name": "Ultra_TL_ErLianZhan",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Ultra_TL_ErLianZhan.glb",
+   "face": false,
+   "duration": 3.2,
+   "loop": false,
+   "bytes": 194380
+  },
+  {
+   "name": "Ultra_TL_Ready",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Ultra_TL_Ready.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 85208
+  },
+  {
+   "name": "Victory",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Victory.glb",
+   "face": true,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 82640
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.9333,
+   "loop": true,
+   "bytes": 49356
+  },
+  {
+   "name": "Walk",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 50116
+  },
+  {
+   "name": "xuzhuang01",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/xuzhuang01.glb",
+   "face": false,
+   "duration": 9.2333,
+   "loop": false,
+   "bytes": 196872
+  },
+  {
+   "name": "Soldier_Support",
+   "file": "Noya/Noya_Lingering_Sunlight_anims/Soldier_Support.glb",
+   "face": false,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 91152
+  }
+ ]
+}

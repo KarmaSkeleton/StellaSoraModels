@@ -1,0 +1,237 @@
+{
+ "id": "14201",
+ "clips": [
+  {
+   "name": "Attack_1",
+   "file": "Cosette/Cosette_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 158320
+  },
+  {
+   "name": "Attack_2",
+   "file": "Cosette/Cosette_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 156332
+  },
+  {
+   "name": "Attack_3",
+   "file": "Cosette/Cosette_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 231440
+  },
+  {
+   "name": "Attack_4",
+   "file": "Cosette/Cosette_anims/Attack_4.glb",
+   "face": false,
+   "duration": 1.5667,
+   "loop": false,
+   "bytes": 229612
+  },
+  {
+   "name": "Daze",
+   "file": "Cosette/Cosette_anims/Daze.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 66860
+  },
+  {
+   "name": "Die",
+   "file": "Cosette/Cosette_anims/Die.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": false,
+   "bytes": 151824
+  },
+  {
+   "name": "Dodge",
+   "file": "Cosette/Cosette_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 146620
+  },
+  {
+   "name": "HurtA1",
+   "file": "Cosette/Cosette_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 107728
+  },
+  {
+   "name": "HurtA2",
+   "file": "Cosette/Cosette_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 106712
+  },
+  {
+   "name": "HurtB",
+   "file": "Cosette/Cosette_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 120004
+  },
+  {
+   "name": "Idle",
+   "file": "Cosette/Cosette_anims/Idle.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": true,
+   "bytes": 99148
+  },
+  {
+   "name": "Out01",
+   "file": "Cosette/Cosette_anims/Out01.glb",
+   "face": false,
+   "duration": 1.2667,
+   "loop": false,
+   "bytes": 113228
+  },
+  {
+   "name": "Ready",
+   "file": "Cosette/Cosette_anims/Ready.glb",
+   "face": true,
+   "duration": 4.6667,
+   "loop": false,
+   "bytes": 166868
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Cosette/Cosette_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.6667,
+   "loop": true,
+   "bytes": 104904
+  },
+  {
+   "name": "Run",
+   "file": "Cosette/Cosette_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 111696
+  },
+  {
+   "name": "Rush",
+   "file": "Cosette/Cosette_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 104996
+  },
+  {
+   "name": "Rush_Stop",
+   "file": "Cosette/Cosette_anims/Rush_Stop.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 127244
+  },
+  {
+   "name": "Skill_Main_ShengLong",
+   "file": "Cosette/Cosette_anims/Skill_Main_ShengLong.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 258092
+  },
+  {
+   "name": "Skill_Sup_ZhuaJi_End",
+   "file": "Cosette/Cosette_anims/Skill_Sup_ZhuaJi_End.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": false,
+   "bytes": 63168
+  },
+  {
+   "name": "Skill_Sup_ZhuaJi_Loop",
+   "file": "Cosette/Cosette_anims/Skill_Sup_ZhuaJi_Loop.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": true,
+   "bytes": 205364
+  },
+  {
+   "name": "Skill_Sup_ZhuaJi_P24_ZhongJi",
+   "file": "Cosette/Cosette_anims/Skill_Sup_ZhuaJi_P24_ZhongJi.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 234868
+  },
+  {
+   "name": "Skill_Sup_ZhuaJi_Start",
+   "file": "Cosette/Cosette_anims/Skill_Sup_ZhuaJi_Start.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 154828
+  },
+  {
+   "name": "Timeline",
+   "file": "Cosette/Cosette_anims/Timeline.glb",
+   "face": true,
+   "duration": 3.3,
+   "loop": false,
+   "bytes": 305176
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Cosette/Cosette_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 3.9667,
+   "loop": false,
+   "bytes": 259092
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Cosette/Cosette_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 174412
+  },
+  {
+   "name": "Victory",
+   "file": "Cosette/Cosette_anims/Victory.glb",
+   "face": true,
+   "duration": 4.6667,
+   "loop": false,
+   "bytes": 162152
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Cosette/Cosette_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 4.6667,
+   "loop": true,
+   "bytes": 100036
+  },
+  {
+   "name": "Walk",
+   "file": "Cosette/Cosette_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 94100
+  },
+  {
+   "name": "Cosette_hand",
+   "file": "Cosette/Cosette_anims/Cosette_hand.glb",
+   "face": false,
+   "duration": 3.9667,
+   "loop": false,
+   "bytes": 992
+  }
+ ]
+}

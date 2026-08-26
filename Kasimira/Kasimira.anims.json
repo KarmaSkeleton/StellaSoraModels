@@ -1,0 +1,309 @@
+{
+ "id": "10801",
+ "clips": [
+  {
+   "name": "timeline",
+   "file": "Kasimira/Kasimira_anims/timeline.glb",
+   "face": false,
+   "duration": 2.4333,
+   "loop": false,
+   "bytes": 117344
+  },
+  {
+   "name": "Aim",
+   "file": "Kasimira/Kasimira_anims/Aim.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": true,
+   "bytes": 39420
+  },
+  {
+   "name": "Aim_pre",
+   "file": "Kasimira/Kasimira_anims/Aim_pre.glb",
+   "face": false,
+   "duration": 0.2,
+   "loop": true,
+   "bytes": 27748
+  },
+  {
+   "name": "Attack_Stand",
+   "file": "Kasimira/Kasimira_anims/Attack_Stand.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": false,
+   "bytes": 55076
+  },
+  {
+   "name": "B2_Skill_FireBullet",
+   "file": "Kasimira/Kasimira_anims/B2_Skill_FireBullet.glb",
+   "face": false,
+   "duration": 2.3667,
+   "loop": false,
+   "bytes": 95216
+  },
+  {
+   "name": "B2_Skill_FireBullet_1_Start",
+   "file": "Kasimira/Kasimira_anims/B2_Skill_FireBullet_1_Start.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 54840
+  },
+  {
+   "name": "B2_Skill_FireBullet_2_Loop",
+   "file": "Kasimira/Kasimira_anims/B2_Skill_FireBullet_2_Loop.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": true,
+   "bytes": 50212
+  },
+  {
+   "name": "B2_Skill_FireBullet_3_End",
+   "file": "Kasimira/Kasimira_anims/B2_Skill_FireBullet_3_End.glb",
+   "face": false,
+   "duration": 0.7,
+   "loop": false,
+   "bytes": 53520
+  },
+  {
+   "name": "Daze",
+   "file": "Kasimira/Kasimira_anims/Daze.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": true,
+   "bytes": 38512
+  },
+  {
+   "name": "Die",
+   "file": "Kasimira/Kasimira_anims/Die.glb",
+   "face": false,
+   "duration": 1.5667,
+   "loop": false,
+   "bytes": 86040
+  },
+  {
+   "name": "Dodge",
+   "file": "Kasimira/Kasimira_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 68628
+  },
+  {
+   "name": "Fire",
+   "file": "Kasimira/Kasimira_anims/Fire.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": true,
+   "bytes": 47888
+  },
+  {
+   "name": "Fire2",
+   "file": "Kasimira/Kasimira_anims/Fire2.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 68088
+  },
+  {
+   "name": "HurtA1",
+   "file": "Kasimira/Kasimira_anims/HurtA1.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 68524
+  },
+  {
+   "name": "HurtA2",
+   "file": "Kasimira/Kasimira_anims/HurtA2.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 64124
+  },
+  {
+   "name": "HurtB",
+   "file": "Kasimira/Kasimira_anims/HurtB.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 58900
+  },
+  {
+   "name": "Idle",
+   "file": "Kasimira/Kasimira_anims/Idle.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": true,
+   "bytes": 40424
+  },
+  {
+   "name": "Open",
+   "file": "Kasimira/Kasimira_anims/Open.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 72548
+  },
+  {
+   "name": "Out01",
+   "file": "Kasimira/Kasimira_anims/Out01.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 69892
+  },
+  {
+   "name": "Ready",
+   "file": "Kasimira/Kasimira_anims/Ready.glb",
+   "face": false,
+   "duration": 3.2667,
+   "loop": false,
+   "bytes": 111356
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Kasimira/Kasimira_anims/ReadyLoop.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": true,
+   "bytes": 60416
+  },
+  {
+   "name": "Reload",
+   "file": "Kasimira/Kasimira_anims/Reload.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 48828
+  },
+  {
+   "name": "Run",
+   "file": "Kasimira/Kasimira_anims/Run.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": true,
+   "bytes": 53460
+  },
+  {
+   "name": "Rush",
+   "file": "Kasimira/Kasimira_anims/Rush.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 54640
+  },
+  {
+   "name": "RushStop",
+   "file": "Kasimira/Kasimira_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 64600
+  },
+  {
+   "name": "Skill0_loop",
+   "file": "Kasimira/Kasimira_anims/Skill0_loop.glb",
+   "face": false,
+   "duration": 0.4,
+   "loop": false,
+   "bytes": 42804
+  },
+  {
+   "name": "Skill0_super_loop",
+   "file": "Kasimira/Kasimira_anims/Skill0_super_loop.glb",
+   "face": false,
+   "duration": 0.5667,
+   "loop": false,
+   "bytes": 44584
+  },
+  {
+   "name": "Standby",
+   "file": "Kasimira/Kasimira_anims/Standby.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": true,
+   "bytes": 58020
+  },
+  {
+   "name": "Support_Skill_CallForBomb",
+   "file": "Kasimira/Kasimira_anims/Support_Skill_CallForBomb.glb",
+   "face": false,
+   "duration": 3.6,
+   "loop": false,
+   "bytes": 100728
+  },
+  {
+   "name": "Ultra_End",
+   "file": "Kasimira/Kasimira_anims/Ultra_End.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 64776
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Kasimira/Kasimira_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 85620
+  },
+  {
+   "name": "Victory",
+   "file": "Kasimira/Kasimira_anims/Victory.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": false,
+   "bytes": 89832
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Kasimira/Kasimira_anims/VictoryLoop.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 50088
+  },
+  {
+   "name": "Walk",
+   "file": "Kasimira/Kasimira_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 53780
+  },
+  {
+   "name": "Walk_Backward",
+   "file": "Kasimira/Kasimira_anims/Walk_Backward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 32064
+  },
+  {
+   "name": "Walk_Forward",
+   "file": "Kasimira/Kasimira_anims/Walk_Forward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 32004
+  },
+  {
+   "name": "Walk_Left",
+   "file": "Kasimira/Kasimira_anims/Walk_Left.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 32108
+  },
+  {
+   "name": "Walk_Right",
+   "file": "Kasimira/Kasimira_anims/Walk_Right.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 32376
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "id": "11901",
+ "clips": [
+  {
+   "name": "timeline",
+   "file": "Nanoha/Nanoha_anims/timeline.glb",
+   "face": false,
+   "duration": 3.1667,
+   "loop": false,
+   "bytes": 286568
+  },
+  {
+   "name": "timeline_Clone_one",
+   "file": "Nanoha/Nanoha_anims/timeline_Clone_one.glb",
+   "face": false,
+   "duration": 3.1667,
+   "loop": false,
+   "bytes": 201832
+  },
+  {
+   "name": "timeline_Clone_two",
+   "file": "Nanoha/Nanoha_anims/timeline_Clone_two.glb",
+   "face": false,
+   "duration": 3.1667,
+   "loop": false,
+   "bytes": 220232
+  },
+  {
+   "name": "Aim",
+   "file": "Nanoha/Nanoha_anims/Aim.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 45944
+  },
+  {
+   "name": "Attack_1",
+   "file": "Nanoha/Nanoha_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 207056
+  },
+  {
+   "name": "Attack_2",
+   "file": "Nanoha/Nanoha_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 198320
+  },
+  {
+   "name": "Attack_3",
+   "file": "Nanoha/Nanoha_anims/Attack_3.glb",
+   "face": false,
+   "duration": 2.0333,
+   "loop": false,
+   "bytes": 216468
+  },
+  {
+   "name": "B1_Skill_Boomerang",
+   "file": "Nanoha/Nanoha_anims/B1_Skill_Boomerang.glb",
+   "face": false,
+   "duration": 2.1,
+   "loop": false,
+   "bytes": 224156
+  },
+  {
+   "name": "B2_Skill_SplitDart",
+   "file": "Nanoha/Nanoha_anims/B2_Skill_SplitDart.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 225432
+  },
+  {
+   "name": "Dazed",
+   "file": "Nanoha/Nanoha_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 101576
+  },
+  {
+   "name": "Die",
+   "file": "Nanoha/Nanoha_anims/Die.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 230980
+  },
+  {
+   "name": "Die_Monster",
+   "file": "Nanoha/Nanoha_anims/Die_Monster.glb",
+   "face": false,
+   "duration": 0.0333,
+   "loop": false,
+   "bytes": 57780
+  },
+  {
+   "name": "Dodge",
+   "file": "Nanoha/Nanoha_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 195092
+  },
+  {
+   "name": "HurtA1",
+   "file": "Nanoha/Nanoha_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 139784
+  },
+  {
+   "name": "HurtA2",
+   "file": "Nanoha/Nanoha_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 141464
+  },
+  {
+   "name": "HurtB",
+   "file": "Nanoha/Nanoha_anims/HurtB.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 147232
+  },
+  {
+   "name": "Idle",
+   "file": "Nanoha/Nanoha_anims/Idle.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 101424
+  },
+  {
+   "name": "Out01",
+   "file": "Nanoha/Nanoha_anims/Out01.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 172324
+  },
+  {
+   "name": "Ready",
+   "file": "Nanoha/Nanoha_anims/Ready.glb",
+   "face": true,
+   "duration": 4.6667,
+   "loop": false,
+   "bytes": 244148
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Nanoha/Nanoha_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": true,
+   "bytes": 122568
+  },
+  {
+   "name": "Run",
+   "file": "Nanoha/Nanoha_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 149988
+  },
+  {
+   "name": "Rush",
+   "file": "Nanoha/Nanoha_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 142848
+  },
+  {
+   "name": "RushStop",
+   "file": "Nanoha/Nanoha_anims/RushStop.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 138816
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Nanoha/Nanoha_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 2.2333,
+   "loop": false,
+   "bytes": 215228
+  },
+  {
+   "name": "Ultra_Summon_FanofKnives_In",
+   "file": "Nanoha/Nanoha_anims/Ultra_Summon_FanofKnives_In.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 162144
+  },
+  {
+   "name": "Ultra_Summon_FanofKnives_Out",
+   "file": "Nanoha/Nanoha_anims/Ultra_Summon_FanofKnives_Out.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 168304
+  },
+  {
+   "name": "Ultra_Summon_In",
+   "file": "Nanoha/Nanoha_anims/Ultra_Summon_In.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": false,
+   "bytes": 169680
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Nanoha/Nanoha_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 127572
+  },
+  {
+   "name": "Victory",
+   "file": "Nanoha/Nanoha_anims/Victory.glb",
+   "face": true,
+   "duration": 3.95,
+   "loop": false,
+   "bytes": 263636
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Nanoha/Nanoha_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.8667,
+   "loop": true,
+   "bytes": 111332
+  },
+  {
+   "name": "Walk",
+   "file": "Nanoha/Nanoha_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 123128
+  },
+  {
+   "name": "Die01",
+   "file": "Nanoha/Nanoha_anims/Die01.glb",
+   "face": false,
+   "duration": 0.1667,
+   "loop": false,
+   "bytes": 59160
+  }
+ ]
+}

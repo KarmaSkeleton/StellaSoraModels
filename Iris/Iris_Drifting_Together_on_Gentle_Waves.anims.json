@@ -1,0 +1,53 @@
+{
+ "id": "11104",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Iris/Iris_Drifting_Together_on_Gentle_Waves_anims/Ready.glb",
+   "face": true,
+   "duration": 4.2667,
+   "loop": false,
+   "bytes": 176360
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Iris/Iris_Drifting_Together_on_Gentle_Waves_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 79520
+  },
+  {
+   "name": "ReadytoLoop",
+   "file": "Iris/Iris_Drifting_Together_on_Gentle_Waves_anims/ReadytoLoop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 73088
+  },
+  {
+   "name": "Timeline",
+   "file": "Iris/Iris_Drifting_Together_on_Gentle_Waves_anims/Timeline.glb",
+   "face": true,
+   "duration": 6.4333,
+   "loop": false,
+   "bytes": 353524
+  },
+  {
+   "name": "Victory",
+   "file": "Iris/Iris_Drifting_Together_on_Gentle_Waves_anims/Victory.glb",
+   "face": true,
+   "duration": 4.4,
+   "loop": false,
+   "bytes": 168752
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Iris/Iris_Drifting_Together_on_Gentle_Waves_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": true,
+   "bytes": 82108
+  }
+ ]
+}

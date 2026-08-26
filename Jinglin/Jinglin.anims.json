@@ -1,0 +1,397 @@
+{
+ "id": "11701",
+ "clips": [
+  {
+   "name": "timeline",
+   "file": "Jinglin/Jinglin_anims/timeline.glb",
+   "face": false,
+   "duration": 3.7667,
+   "loop": false,
+   "bytes": 93856
+  },
+  {
+   "name": "Attack",
+   "file": "Jinglin/Jinglin_anims/Attack.glb",
+   "face": false,
+   "duration": 2.25,
+   "loop": false,
+   "bytes": 125020
+  },
+  {
+   "name": "Attack_1",
+   "file": "Jinglin/Jinglin_anims/Attack_1.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 67308
+  },
+  {
+   "name": "Attack_2",
+   "file": "Jinglin/Jinglin_anims/Attack_2.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 66700
+  },
+  {
+   "name": "Attack_3",
+   "file": "Jinglin/Jinglin_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.25,
+   "loop": false,
+   "bytes": 86084
+  },
+  {
+   "name": "B1_Skill_Thunder",
+   "file": "Jinglin/Jinglin_anims/B1_Skill_Thunder.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 112124
+  },
+  {
+   "name": "B1_Skill_Thunder_1_Start",
+   "file": "Jinglin/Jinglin_anims/B1_Skill_Thunder_1_Start.glb",
+   "face": false,
+   "duration": 0.6333,
+   "loop": false,
+   "bytes": 73788
+  },
+  {
+   "name": "B1_Skill_Thunder_2_Loop",
+   "file": "Jinglin/Jinglin_anims/B1_Skill_Thunder_2_Loop.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 57088
+  },
+  {
+   "name": "B1_Skill_Thunder_3_End",
+   "file": "Jinglin/Jinglin_anims/B1_Skill_Thunder_3_End.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 64496
+  },
+  {
+   "name": "B1_Skill_Thunder_Perk04",
+   "file": "Jinglin/Jinglin_anims/B1_Skill_Thunder_Perk04.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 106492
+  },
+  {
+   "name": "B1_Skill_Thunder_Perk04_1_Start",
+   "file": "Jinglin/Jinglin_anims/B1_Skill_Thunder_Perk04_1_Start.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 69864
+  },
+  {
+   "name": "B1_Skill_Thunder_Perk04_2_Loop",
+   "file": "Jinglin/Jinglin_anims/B1_Skill_Thunder_Perk04_2_Loop.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 56216
+  },
+  {
+   "name": "B1_Skill_Thunder_Perk04_3_End",
+   "file": "Jinglin/Jinglin_anims/B1_Skill_Thunder_Perk04_3_End.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 69092
+  },
+  {
+   "name": "Branch2Skill_Thunder_Attack1",
+   "file": "Jinglin/Jinglin_anims/Branch2Skill_Thunder_Attack1.glb",
+   "face": false,
+   "duration": 2.2333,
+   "loop": false,
+   "bytes": 97384
+  },
+  {
+   "name": "Branch2Skill_Thunder_Attack2",
+   "file": "Jinglin/Jinglin_anims/Branch2Skill_Thunder_Attack2.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 89764
+  },
+  {
+   "name": "Branch2Skill_Thunder_Attack3",
+   "file": "Jinglin/Jinglin_anims/Branch2Skill_Thunder_Attack3.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 96424
+  },
+  {
+   "name": "Dazed",
+   "file": "Jinglin/Jinglin_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 41608
+  },
+  {
+   "name": "Die",
+   "file": "Jinglin/Jinglin_anims/Die.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": false,
+   "bytes": 104328
+  },
+  {
+   "name": "Dodge",
+   "file": "Jinglin/Jinglin_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 76556
+  },
+  {
+   "name": "HurtA1",
+   "file": "Jinglin/Jinglin_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 39440
+  },
+  {
+   "name": "HurtA2",
+   "file": "Jinglin/Jinglin_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 58312
+  },
+  {
+   "name": "HurtB",
+   "file": "Jinglin/Jinglin_anims/HurtB.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": false,
+   "bytes": 65772
+  },
+  {
+   "name": "Idle",
+   "file": "Jinglin/Jinglin_anims/Idle.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 46556
+  },
+  {
+   "name": "Open",
+   "file": "Jinglin/Jinglin_anims/Open.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 69316
+  },
+  {
+   "name": "Out01",
+   "file": "Jinglin/Jinglin_anims/Out01.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 91356
+  },
+  {
+   "name": "Ready",
+   "file": "Jinglin/Jinglin_anims/Ready.glb",
+   "face": true,
+   "duration": 6.0,
+   "loop": false,
+   "bytes": 121384
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Jinglin/Jinglin_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 35604
+  },
+  {
+   "name": "Run",
+   "file": "Jinglin/Jinglin_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 63924
+  },
+  {
+   "name": "Rush",
+   "file": "Jinglin/Jinglin_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 53584
+  },
+  {
+   "name": "RushStop",
+   "file": "Jinglin/Jinglin_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": false,
+   "bytes": 67068
+  },
+  {
+   "name": "S1_1",
+   "file": "Jinglin/Jinglin_anims/S1_1.glb",
+   "face": false,
+   "duration": 0.6333,
+   "loop": false,
+   "bytes": 84440
+  },
+  {
+   "name": "S1_2",
+   "file": "Jinglin/Jinglin_anims/S1_2.glb",
+   "face": false,
+   "duration": 0.0667,
+   "loop": true,
+   "bytes": 35948
+  },
+  {
+   "name": "S1_3",
+   "file": "Jinglin/Jinglin_anims/S1_3.glb",
+   "face": false,
+   "duration": 1.9667,
+   "loop": false,
+   "bytes": 96804
+  },
+  {
+   "name": "Skill1",
+   "file": "Jinglin/Jinglin_anims/Skill1.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": false,
+   "bytes": 143068
+  },
+  {
+   "name": "Skill1_End",
+   "file": "Jinglin/Jinglin_anims/Skill1_End.glb",
+   "face": false,
+   "duration": 1.9833,
+   "loop": false,
+   "bytes": 92760
+  },
+  {
+   "name": "Skill1_Loop",
+   "file": "Jinglin/Jinglin_anims/Skill1_Loop.glb",
+   "face": false,
+   "duration": 0.1,
+   "loop": true,
+   "bytes": 33404
+  },
+  {
+   "name": "Skill1_Start",
+   "file": "Jinglin/Jinglin_anims/Skill1_Start.glb",
+   "face": false,
+   "duration": 0.7167,
+   "loop": false,
+   "bytes": 88708
+  },
+  {
+   "name": "Skill2",
+   "file": "Jinglin/Jinglin_anims/Skill2.glb",
+   "face": false,
+   "duration": 2.2667,
+   "loop": false,
+   "bytes": 107864
+  },
+  {
+   "name": "Standby",
+   "file": "Jinglin/Jinglin_anims/Standby.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 42856
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Jinglin/Jinglin_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 1.9,
+   "loop": false,
+   "bytes": 99760
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Jinglin/Jinglin_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 57448
+  },
+  {
+   "name": "Victory",
+   "file": "Jinglin/Jinglin_anims/Victory.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": false,
+   "bytes": 79288
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Jinglin/Jinglin_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 37980
+  },
+  {
+   "name": "Walk",
+   "file": "Jinglin/Jinglin_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 56580
+  },
+  {
+   "name": "WalkBackward",
+   "file": "Jinglin/Jinglin_anims/WalkBackward.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": true,
+   "bytes": 54172
+  },
+  {
+   "name": "WalkForward",
+   "file": "Jinglin/Jinglin_anims/WalkForward.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": true,
+   "bytes": 56956
+  },
+  {
+   "name": "WalkLeft",
+   "file": "Jinglin/Jinglin_anims/WalkLeft.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": true,
+   "bytes": 52372
+  },
+  {
+   "name": "WalkRight",
+   "file": "Jinglin/Jinglin_anims/WalkRight.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": true,
+   "bytes": 52048
+  },
+  {
+   "name": "Take 001",
+   "file": "Jinglin/Jinglin_anims/Take_001.glb",
+   "face": false,
+   "duration": 3.9,
+   "loop": false,
+   "bytes": 25692
+  }
+ ]
+}

@@ -1,0 +1,325 @@
+{
+ "id": "13401",
+ "clips": [
+  {
+   "name": "Attack1",
+   "file": "Fuyuka/Fuyuka_anims/Attack1.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 136076
+  },
+  {
+   "name": "Attack2",
+   "file": "Fuyuka/Fuyuka_anims/Attack2.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 183272
+  },
+  {
+   "name": "Attack3",
+   "file": "Fuyuka/Fuyuka_anims/Attack3.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 199728
+  },
+  {
+   "name": "Attack4",
+   "file": "Fuyuka/Fuyuka_anims/Attack4.glb",
+   "face": false,
+   "duration": 2.0333,
+   "loop": false,
+   "bytes": 239100
+  },
+  {
+   "name": "Attack5",
+   "file": "Fuyuka/Fuyuka_anims/Attack5.glb",
+   "face": false,
+   "duration": 3.1,
+   "loop": false,
+   "bytes": 242604
+  },
+  {
+   "name": "Attack_Strengthen_1",
+   "file": "Fuyuka/Fuyuka_anims/Attack_Strengthen_1.glb",
+   "face": false,
+   "duration": 1.8,
+   "loop": false,
+   "bytes": 198480
+  },
+  {
+   "name": "Attack_Strengthen_2",
+   "file": "Fuyuka/Fuyuka_anims/Attack_Strengthen_2.glb",
+   "face": false,
+   "duration": 2.1667,
+   "loop": false,
+   "bytes": 211148
+  },
+  {
+   "name": "Attack_Strengthen_3",
+   "file": "Fuyuka/Fuyuka_anims/Attack_Strengthen_3.glb",
+   "face": false,
+   "duration": 2.6833,
+   "loop": false,
+   "bytes": 199400
+  },
+  {
+   "name": "Attack_Strengthen_3_P06",
+   "file": "Fuyuka/Fuyuka_anims/Attack_Strengthen_3_P06.glb",
+   "face": false,
+   "duration": 3.8667,
+   "loop": false,
+   "bytes": 261108
+  },
+  {
+   "name": "Attack_Strengthen_P04",
+   "file": "Fuyuka/Fuyuka_anims/Attack_Strengthen_P04.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 193060
+  },
+  {
+   "name": "Attack_Strengthen_P04P06",
+   "file": "Fuyuka/Fuyuka_anims/Attack_Strengthen_P04P06.glb",
+   "face": false,
+   "duration": 3.3667,
+   "loop": false,
+   "bytes": 304056
+  },
+  {
+   "name": "Attack_Strengthen_P06",
+   "file": "Fuyuka/Fuyuka_anims/Attack_Strengthen_P06.glb",
+   "face": false,
+   "duration": 3.3,
+   "loop": false,
+   "bytes": 227416
+  },
+  {
+   "name": "Dazed",
+   "file": "Fuyuka/Fuyuka_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 83612
+  },
+  {
+   "name": "Die",
+   "file": "Fuyuka/Fuyuka_anims/Die.glb",
+   "face": false,
+   "duration": 2.6,
+   "loop": false,
+   "bytes": 200288
+  },
+  {
+   "name": "Dodge",
+   "file": "Fuyuka/Fuyuka_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 115980
+  },
+  {
+   "name": "HurtA1",
+   "file": "Fuyuka/Fuyuka_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 120516
+  },
+  {
+   "name": "HurtA2",
+   "file": "Fuyuka/Fuyuka_anims/HurtA2.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 125316
+  },
+  {
+   "name": "HurtB",
+   "file": "Fuyuka/Fuyuka_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 151716
+  },
+  {
+   "name": "Idle",
+   "file": "Fuyuka/Fuyuka_anims/Idle.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 70660
+  },
+  {
+   "name": "Main_SKill_Charging",
+   "file": "Fuyuka/Fuyuka_anims/Main_SKill_Charging.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 289896
+  },
+  {
+   "name": "Main_SKill_P01_Charging_Strengthen",
+   "file": "Fuyuka/Fuyuka_anims/Main_SKill_P01_Charging_Strengthen.glb",
+   "face": false,
+   "duration": 2.5667,
+   "loop": false,
+   "bytes": 325388
+  },
+  {
+   "name": "Out01",
+   "file": "Fuyuka/Fuyuka_anims/Out01.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 169052
+  },
+  {
+   "name": "Ready",
+   "file": "Fuyuka/Fuyuka_anims/Ready.glb",
+   "face": true,
+   "duration": 6.6667,
+   "loop": false,
+   "bytes": 260540
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Fuyuka/Fuyuka_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.6667,
+   "loop": false,
+   "bytes": 86928
+  },
+  {
+   "name": "Run",
+   "file": "Fuyuka/Fuyuka_anims/Run.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": true,
+   "bytes": 92848
+  },
+  {
+   "name": "Rush",
+   "file": "Fuyuka/Fuyuka_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 93616
+  },
+  {
+   "name": "RushStop",
+   "file": "Fuyuka/Fuyuka_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 104260
+  },
+  {
+   "name": "Support_Skill_P21_Punch_Strengthen",
+   "file": "Fuyuka/Fuyuka_anims/Support_Skill_P21_Punch_Strengthen.glb",
+   "face": false,
+   "duration": 1.1333,
+   "loop": false,
+   "bytes": 158688
+  },
+  {
+   "name": "Support_Skill_P22_Out_Strengthen",
+   "file": "Fuyuka/Fuyuka_anims/Support_Skill_P22_Out_Strengthen.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 159876
+  },
+  {
+   "name": "Support_Skill_P23_Punch",
+   "file": "Fuyuka/Fuyuka_anims/Support_Skill_P23_Punch.glb",
+   "face": false,
+   "duration": 3.9,
+   "loop": false,
+   "bytes": 165588
+  },
+  {
+   "name": "Support_Skill_Punch",
+   "file": "Fuyuka/Fuyuka_anims/Support_Skill_Punch.glb",
+   "face": false,
+   "duration": 2.7333,
+   "loop": false,
+   "bytes": 168720
+  },
+  {
+   "name": "Support_Skill_Rush",
+   "file": "Fuyuka/Fuyuka_anims/Support_Skill_Rush.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 101460
+  },
+  {
+   "name": "Ultra_End",
+   "file": "Fuyuka/Fuyuka_anims/Ultra_End.glb",
+   "face": false,
+   "duration": 4.3333,
+   "loop": false,
+   "bytes": 270656
+  },
+  {
+   "name": "Ultra_Loop",
+   "file": "Fuyuka/Fuyuka_anims/Ultra_Loop.glb",
+   "face": false,
+   "duration": 1.5667,
+   "loop": true,
+   "bytes": 191944
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Fuyuka/Fuyuka_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 2.6333,
+   "loop": false,
+   "bytes": 228848
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Fuyuka/Fuyuka_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 1.9,
+   "loop": false,
+   "bytes": 183212
+  },
+  {
+   "name": "Victory",
+   "file": "Fuyuka/Fuyuka_anims/Victory.glb",
+   "face": true,
+   "duration": 5.65,
+   "loop": false,
+   "bytes": 270084
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Fuyuka/Fuyuka_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.7667,
+   "loop": true,
+   "bytes": 88492
+  },
+  {
+   "name": "Walk",
+   "file": "Fuyuka/Fuyuka_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 95820
+  },
+  {
+   "name": "timeline",
+   "file": "Fuyuka/Fuyuka_anims/timeline.glb",
+   "face": true,
+   "duration": 5.2667,
+   "loop": false,
+   "bytes": 309784
+  }
+ ]
+}

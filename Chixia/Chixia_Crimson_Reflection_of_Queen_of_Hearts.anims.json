@@ -1,0 +1,53 @@
+{
+ "id": "14103",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Chixia/Chixia_Crimson_Reflection_of_Queen_of_Hearts_anims/Ready.glb",
+   "face": true,
+   "duration": 6.0,
+   "loop": false,
+   "bytes": 256044
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Chixia/Chixia_Crimson_Reflection_of_Queen_of_Hearts_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 105440
+  },
+  {
+   "name": "ReadyLoop0",
+   "file": "Chixia/Chixia_Crimson_Reflection_of_Queen_of_Hearts_anims/ReadyLoop0.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": false,
+   "bytes": 106808
+  },
+  {
+   "name": "Timeline",
+   "file": "Chixia/Chixia_Crimson_Reflection_of_Queen_of_Hearts_anims/Timeline.glb",
+   "face": true,
+   "duration": 4.4167,
+   "loop": false,
+   "bytes": 316468
+  },
+  {
+   "name": "Victory",
+   "file": "Chixia/Chixia_Crimson_Reflection_of_Queen_of_Hearts_anims/Victory.glb",
+   "face": true,
+   "duration": 6.8333,
+   "loop": false,
+   "bytes": 214500
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Chixia/Chixia_Crimson_Reflection_of_Queen_of_Hearts_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 105104
+  }
+ ]
+}

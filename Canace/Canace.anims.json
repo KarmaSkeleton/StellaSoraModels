@@ -1,0 +1,341 @@
+{
+ "id": "12001",
+ "clips": [
+  {
+   "name": "Aim_Loop",
+   "file": "Canace/Canace_anims/Aim_Loop.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 44644
+  },
+  {
+   "name": "Attack_1",
+   "file": "Canace/Canace_anims/Attack_1.glb",
+   "face": false,
+   "duration": 0.4667,
+   "loop": false,
+   "bytes": 58728
+  },
+  {
+   "name": "Attack_1_End",
+   "file": "Canace/Canace_anims/Attack_1_End.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 65044
+  },
+  {
+   "name": "Attack_2",
+   "file": "Canace/Canace_anims/Attack_2.glb",
+   "face": false,
+   "duration": 0.4667,
+   "loop": false,
+   "bytes": 57220
+  },
+  {
+   "name": "Attack_2",
+   "file": "Canace/Canace_anims/Attack_2_.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 54720
+  },
+  {
+   "name": "Attack_3",
+   "file": "Canace/Canace_anims/Attack_3.glb",
+   "face": false,
+   "duration": 0.4667,
+   "loop": false,
+   "bytes": 55852
+  },
+  {
+   "name": "Attack_4",
+   "file": "Canace/Canace_anims/Attack_4.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": false,
+   "bytes": 58760
+  },
+  {
+   "name": "Attack_5",
+   "file": "Canace/Canace_anims/Attack_5.glb",
+   "face": false,
+   "duration": 1.3,
+   "loop": false,
+   "bytes": 85664
+  },
+  {
+   "name": "Attack_5_H2",
+   "file": "Canace/Canace_anims/Attack_5_H2.glb",
+   "face": false,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 123020
+  },
+  {
+   "name": "Attack_5_H2Strengthen",
+   "file": "Canace/Canace_anims/Attack_5_H2Strengthen.glb",
+   "face": false,
+   "duration": 2.8667,
+   "loop": false,
+   "bytes": 138872
+  },
+  {
+   "name": "B1_Skill_Garland",
+   "file": "Canace/Canace_anims/B1_Skill_Garland.glb",
+   "face": false,
+   "duration": 2.4,
+   "loop": true,
+   "bytes": 105072
+  },
+  {
+   "name": "B2_Skill_Corolla",
+   "file": "Canace/Canace_anims/B2_Skill_Corolla.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 98368
+  },
+  {
+   "name": "Dazed",
+   "file": "Canace/Canace_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": true,
+   "bytes": 56592
+  },
+  {
+   "name": "Die",
+   "file": "Canace/Canace_anims/Die.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 97632
+  },
+  {
+   "name": "Dodge",
+   "file": "Canace/Canace_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 95032
+  },
+  {
+   "name": "Hurt",
+   "file": "Canace/Canace_anims/Hurt.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 73112
+  },
+  {
+   "name": "Hurt_1",
+   "file": "Canace/Canace_anims/Hurt_1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 65124
+  },
+  {
+   "name": "Hurt_2",
+   "file": "Canace/Canace_anims/Hurt_2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 57608
+  },
+  {
+   "name": "Idle",
+   "file": "Canace/Canace_anims/Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 51408
+  },
+  {
+   "name": "Idle_To_Aim",
+   "file": "Canace/Canace_anims/Idle_To_Aim.glb",
+   "face": false,
+   "duration": 0.4,
+   "loop": false,
+   "bytes": 53168
+  },
+  {
+   "name": "Open",
+   "file": "Canace/Canace_anims/Open.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 70284
+  },
+  {
+   "name": "Out01",
+   "file": "Canace/Canace_anims/Out01.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 161884
+  },
+  {
+   "name": "Ready",
+   "file": "Canace/Canace_anims/Ready.glb",
+   "face": false,
+   "duration": 5.8333,
+   "loop": false,
+   "bytes": 272880
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Canace/Canace_anims/ReadyLoop.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 100612
+  },
+  {
+   "name": "Run",
+   "file": "Canace/Canace_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 81724
+  },
+  {
+   "name": "Rush",
+   "file": "Canace/Canace_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 101876
+  },
+  {
+   "name": "Rush_Stop",
+   "file": "Canace/Canace_anims/Rush_Stop.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 84916
+  },
+  {
+   "name": "Skill0_Start_02",
+   "file": "Canace/Canace_anims/Skill0_Start_02.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 61308
+  },
+  {
+   "name": "Stand",
+   "file": "Canace/Canace_anims/Stand.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 50784
+  },
+  {
+   "name": "Ultra_NoTL_1_Loop",
+   "file": "Canace/Canace_anims/Ultra_NoTL_1_Loop.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 66508
+  },
+  {
+   "name": "Ultra_NoTL_1_Start",
+   "file": "Canace/Canace_anims/Ultra_NoTL_1_Start.glb",
+   "face": false,
+   "duration": 1.9667,
+   "loop": false,
+   "bytes": 107932
+  },
+  {
+   "name": "Ultra_NoTL_2_Loop",
+   "file": "Canace/Canace_anims/Ultra_NoTL_2_Loop.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 48760
+  },
+  {
+   "name": "Ultra_NoTL_3_End",
+   "file": "Canace/Canace_anims/Ultra_NoTL_3_End.glb",
+   "face": false,
+   "duration": 1.3,
+   "loop": false,
+   "bytes": 90500
+  },
+  {
+   "name": "Ultra_TL_1_Start",
+   "file": "Canace/Canace_anims/Ultra_TL_1_Start.glb",
+   "face": false,
+   "duration": 1.1333,
+   "loop": false,
+   "bytes": 78416
+  },
+  {
+   "name": "Victory",
+   "file": "Canace/Canace_anims/Victory.glb",
+   "face": false,
+   "duration": 4.1667,
+   "loop": false,
+   "bytes": 201708
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Canace/Canace_anims/VictoryLoop.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 99196
+  },
+  {
+   "name": "Walk",
+   "file": "Canace/Canace_anims/Walk.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": true,
+   "bytes": 91676
+  },
+  {
+   "name": "Walk_Backward",
+   "file": "Canace/Canace_anims/Walk_Backward.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 41928
+  },
+  {
+   "name": "Walk_Forward",
+   "file": "Canace/Canace_anims/Walk_Forward.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 47716
+  },
+  {
+   "name": "Walk_Left",
+   "file": "Canace/Canace_anims/Walk_Left.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 44012
+  },
+  {
+   "name": "Walk_Right",
+   "file": "Canace/Canace_anims/Walk_Right.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 44096
+  },
+  {
+   "name": "Soldier_Attack",
+   "file": "Canace/Canace_anims/Soldier_Attack.glb",
+   "face": false,
+   "duration": 2.8667,
+   "loop": false,
+   "bytes": 114244
+  }
+ ]
+}

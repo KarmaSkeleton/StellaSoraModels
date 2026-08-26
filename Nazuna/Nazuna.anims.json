@@ -1,0 +1,309 @@
+{
+ "id": "15601",
+ "clips": [
+  {
+   "name": "PenguinDoll_Dead",
+   "file": "Nazuna/Nazuna_anims/PenguinDoll_Dead.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 18588
+  },
+  {
+   "name": "PenguinDoll_Walk",
+   "file": "Nazuna/Nazuna_anims/PenguinDoll_Walk.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 11248
+  },
+  {
+   "name": "PenguinDoll_Walk_P1_Dance",
+   "file": "Nazuna/Nazuna_anims/PenguinDoll_Walk_P1_Dance.glb",
+   "face": false,
+   "duration": 3.1667,
+   "loop": false,
+   "bytes": 26792
+  },
+  {
+   "name": "timeline",
+   "file": "Nazuna/Nazuna_anims/timeline.glb",
+   "face": true,
+   "duration": 4.0333,
+   "loop": false,
+   "bytes": 287316
+  },
+  {
+   "name": "Aim",
+   "file": "Nazuna/Nazuna_anims/Aim.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 97456
+  },
+  {
+   "name": "Attack1",
+   "file": "Nazuna/Nazuna_anims/Attack1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 88244
+  },
+  {
+   "name": "Attack2",
+   "file": "Nazuna/Nazuna_anims/Attack2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 115048
+  },
+  {
+   "name": "Attack_P3",
+   "file": "Nazuna/Nazuna_anims/Attack_P3.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 138640
+  },
+  {
+   "name": "Dazed",
+   "file": "Nazuna/Nazuna_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 77756
+  },
+  {
+   "name": "Die",
+   "file": "Nazuna/Nazuna_anims/Die.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 167020
+  },
+  {
+   "name": "Dodge",
+   "file": "Nazuna/Nazuna_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 116616
+  },
+  {
+   "name": "HurtA1",
+   "file": "Nazuna/Nazuna_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 92736
+  },
+  {
+   "name": "HurtA2",
+   "file": "Nazuna/Nazuna_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 99096
+  },
+  {
+   "name": "HurtB",
+   "file": "Nazuna/Nazuna_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": false,
+   "bytes": 120448
+  },
+  {
+   "name": "Idle",
+   "file": "Nazuna/Nazuna_anims/Idle.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 64764
+  },
+  {
+   "name": "Out01",
+   "file": "Nazuna/Nazuna_anims/Out01.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 137456
+  },
+  {
+   "name": "Ready",
+   "file": "Nazuna/Nazuna_anims/Ready.glb",
+   "face": true,
+   "duration": 7.1667,
+   "loop": false,
+   "bytes": 246060
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Nazuna/Nazuna_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 72204
+  },
+  {
+   "name": "Reload",
+   "file": "Nazuna/Nazuna_anims/Reload.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 139840
+  },
+  {
+   "name": "Reload_P4",
+   "file": "Nazuna/Nazuna_anims/Reload_P4.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 158884
+  },
+  {
+   "name": "Run",
+   "file": "Nazuna/Nazuna_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 114360
+  },
+  {
+   "name": "Rush",
+   "file": "Nazuna/Nazuna_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 101536
+  },
+  {
+   "name": "RushStop",
+   "file": "Nazuna/Nazuna_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 112452
+  },
+  {
+   "name": "Skill_Main_PenguinCalling",
+   "file": "Nazuna/Nazuna_anims/Skill_Main_PenguinCalling.glb",
+   "face": false,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 167300
+  },
+  {
+   "name": "Skill_Sup_Debut",
+   "file": "Nazuna/Nazuna_anims/Skill_Sup_Debut.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 102436
+  },
+  {
+   "name": "Skill_Sup_PenguinStatueCalling",
+   "file": "Nazuna/Nazuna_anims/Skill_Sup_PenguinStatueCalling.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 135420
+  },
+  {
+   "name": "Skill_Sup_Raffle",
+   "file": "Nazuna/Nazuna_anims/Skill_Sup_Raffle.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 100392
+  },
+  {
+   "name": "Skill_Sup_ShootHeartArrow",
+   "file": "Nazuna/Nazuna_anims/Skill_Sup_ShootHeartArrow.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 126312
+  },
+  {
+   "name": "Skill_Sup_Shot",
+   "file": "Nazuna/Nazuna_anims/Skill_Sup_Shot.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": false,
+   "bytes": 128584
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Nazuna/Nazuna_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 5.2,
+   "loop": false,
+   "bytes": 262140
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Nazuna/Nazuna_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 4.5,
+   "loop": false,
+   "bytes": 204332
+  },
+  {
+   "name": "Victory",
+   "file": "Nazuna/Nazuna_anims/Victory.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": false,
+   "bytes": 190432
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Nazuna/Nazuna_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 87020
+  },
+  {
+   "name": "Walk",
+   "file": "Nazuna/Nazuna_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 88228
+  },
+  {
+   "name": "Walk_Backward",
+   "file": "Nazuna/Nazuna_anims/Walk_Backward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 44432
+  },
+  {
+   "name": "Walk_Forward",
+   "file": "Nazuna/Nazuna_anims/Walk_Forward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 44524
+  },
+  {
+   "name": "Walk_Left",
+   "file": "Nazuna/Nazuna_anims/Walk_Left.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 44208
+  },
+  {
+   "name": "Walk_Right",
+   "file": "Nazuna/Nazuna_anims/Walk_Right.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 44204
+  }
+ ]
+}

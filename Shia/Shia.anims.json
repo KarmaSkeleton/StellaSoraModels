@@ -1,0 +1,373 @@
+{
+ "id": "15501",
+ "clips": [
+  {
+   "name": "Attack",
+   "file": "Shia/Shia_anims/Attack.glb",
+   "face": false,
+   "duration": 5.5,
+   "loop": false,
+   "bytes": 379068
+  },
+  {
+   "name": "Attack_1",
+   "file": "Shia/Shia_anims/Attack_1.glb",
+   "face": false,
+   "duration": 2.5333,
+   "loop": false,
+   "bytes": 169452
+  },
+  {
+   "name": "Attack_2",
+   "file": "Shia/Shia_anims/Attack_2.glb",
+   "face": false,
+   "duration": 2.2667,
+   "loop": false,
+   "bytes": 180560
+  },
+  {
+   "name": "Attack_3",
+   "file": "Shia/Shia_anims/Attack_3.glb",
+   "face": false,
+   "duration": 3.8333,
+   "loop": false,
+   "bytes": 202868
+  },
+  {
+   "name": "Attack_4",
+   "file": "Shia/Shia_anims/Attack_4.glb",
+   "face": false,
+   "duration": 2.8667,
+   "loop": false,
+   "bytes": 201468
+  },
+  {
+   "name": "Dazed",
+   "file": "Shia/Shia_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 116960
+  },
+  {
+   "name": "Death",
+   "file": "Shia/Shia_anims/Death.glb",
+   "face": false,
+   "duration": 2.7333,
+   "loop": false,
+   "bytes": 293256
+  },
+  {
+   "name": "Dodge",
+   "file": "Shia/Shia_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 236356
+  },
+  {
+   "name": "Dodge1",
+   "file": "Shia/Shia_anims/Dodge1.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 236632
+  },
+  {
+   "name": "HurtA1",
+   "file": "Shia/Shia_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 155836
+  },
+  {
+   "name": "HurtA2",
+   "file": "Shia/Shia_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 136752
+  },
+  {
+   "name": "HurtB",
+   "file": "Shia/Shia_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 171580
+  },
+  {
+   "name": "Idle",
+   "file": "Shia/Shia_anims/Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 94684
+  },
+  {
+   "name": "Out01",
+   "file": "Shia/Shia_anims/Out01.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": false,
+   "bytes": 169596
+  },
+  {
+   "name": "Ready",
+   "file": "Shia/Shia_anims/Ready.glb",
+   "face": true,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 301100
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Shia/Shia_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 114616
+  },
+  {
+   "name": "Run",
+   "file": "Shia/Shia_anims/Run.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 119592
+  },
+  {
+   "name": "Rush",
+   "file": "Shia/Shia_anims/Rush.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 136816
+  },
+  {
+   "name": "RushStop",
+   "file": "Shia/Shia_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 170920
+  },
+  {
+   "name": "Skill_Main_CallUAV",
+   "file": "Shia/Shia_anims/Skill_Main_CallUAV.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": false,
+   "bytes": 299332
+  },
+  {
+   "name": "Skill_Sup_Surf_White_End",
+   "file": "Shia/Shia_anims/Skill_Sup_Surf_White_End.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": false,
+   "bytes": 131484
+  },
+  {
+   "name": "Skill_Support_Surf_Black",
+   "file": "Shia/Shia_anims/Skill_Support_Surf_Black.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": true,
+   "bytes": 126256
+  },
+  {
+   "name": "Skill_Support_Surf_White",
+   "file": "Shia/Shia_anims/Skill_Support_Surf_White.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": true,
+   "bytes": 138472
+  },
+  {
+   "name": "Summon_Black_Attack_BlinkIn",
+   "file": "Shia/Shia_anims/Summon_Black_Attack_BlinkIn.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 1956
+  },
+  {
+   "name": "Summon_Black_Attack_BlinkOut",
+   "file": "Shia/Shia_anims/Summon_Black_Attack_BlinkOut.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 1924
+  },
+  {
+   "name": "Summon_Black_Ready",
+   "file": "Shia/Shia_anims/Summon_Black_Ready.glb",
+   "face": false,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 752
+  },
+  {
+   "name": "Summon_Black_ReadyLoop",
+   "file": "Shia/Shia_anims/Summon_Black_ReadyLoop.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 744
+  },
+  {
+   "name": "Summon_Black_Skill_Main_BlinkIn",
+   "file": "Shia/Shia_anims/Summon_Black_Skill_Main_BlinkIn.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 1960
+  },
+  {
+   "name": "Summon_Black_Skill_Main_BlinkOut",
+   "file": "Shia/Shia_anims/Summon_Black_Skill_Main_BlinkOut.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 1928
+  },
+  {
+   "name": "Summon_Black_Skill_Sup_BlinkIn",
+   "file": "Shia/Shia_anims/Summon_Black_Skill_Sup_BlinkIn.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 1960
+  },
+  {
+   "name": "Summon_Black_Skill_Sup_BlinkOut",
+   "file": "Shia/Shia_anims/Summon_Black_Skill_Sup_BlinkOut.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 1928
+  },
+  {
+   "name": "Summon_White_Attack_BlinkIn",
+   "file": "Shia/Shia_anims/Summon_White_Attack_BlinkIn.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 2116
+  },
+  {
+   "name": "Summon_White_Attack_BlinkOut",
+   "file": "Shia/Shia_anims/Summon_White_Attack_BlinkOut.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 2104
+  },
+  {
+   "name": "Summon_White_Ready",
+   "file": "Shia/Shia_anims/Summon_White_Ready.glb",
+   "face": false,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 752
+  },
+  {
+   "name": "Summon_White_ReadyLoop",
+   "file": "Shia/Shia_anims/Summon_White_ReadyLoop.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 744
+  },
+  {
+   "name": "Summon_White_Skill_Main_BlinkIn",
+   "file": "Shia/Shia_anims/Summon_White_Skill_Main_BlinkIn.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 2120
+  },
+  {
+   "name": "Summon_White_Skill_Main_BlinkOut",
+   "file": "Shia/Shia_anims/Summon_White_Skill_Main_BlinkOut.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 2108
+  },
+  {
+   "name": "Summon_White_Skill_Sup_BlinkIn",
+   "file": "Shia/Shia_anims/Summon_White_Skill_Sup_BlinkIn.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 2120
+  },
+  {
+   "name": "Summon_White_Skill_Sup_BlinkOut",
+   "file": "Shia/Shia_anims/Summon_White_Skill_Sup_BlinkOut.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 2104
+  },
+  {
+   "name": "Timeline",
+   "file": "Shia/Shia_anims/Timeline.glb",
+   "face": true,
+   "duration": 4.6167,
+   "loop": false,
+   "bytes": 365120
+  },
+  {
+   "name": "Ultra_End",
+   "file": "Shia/Shia_anims/Ultra_End.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 164580
+  },
+  {
+   "name": "Ultra_Loop",
+   "file": "Shia/Shia_anims/Ultra_Loop.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 80008
+  },
+  {
+   "name": "Ultra_Stat_NoTL",
+   "file": "Shia/Shia_anims/Ultra_Stat_NoTL.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 203108
+  },
+  {
+   "name": "Victory",
+   "file": "Shia/Shia_anims/Victory.glb",
+   "face": true,
+   "duration": 4.6667,
+   "loop": false,
+   "bytes": 222316
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Shia/Shia_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": true,
+   "bytes": 110340
+  },
+  {
+   "name": "Walk",
+   "file": "Shia/Shia_anims/Walk.glb",
+   "face": false,
+   "duration": 1.8667,
+   "loop": true,
+   "bytes": 124360
+  }
+ ]
+}

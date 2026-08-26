@@ -1,0 +1,381 @@
+{
+ "id": "10701",
+ "clips": [
+  {
+   "name": "timeline",
+   "file": "Tilia/Tilia_anims/timeline.glb",
+   "face": true,
+   "duration": 4.1833,
+   "loop": false,
+   "bytes": 166564
+  },
+  {
+   "name": "Attack",
+   "file": "Tilia/Tilia_anims/Attack.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": false,
+   "bytes": 135592
+  },
+  {
+   "name": "Attack_1",
+   "file": "Tilia/Tilia_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.2667,
+   "loop": false,
+   "bytes": 73960
+  },
+  {
+   "name": "Attack_2",
+   "file": "Tilia/Tilia_anims/Attack_2.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 53688
+  },
+  {
+   "name": "Attack_3",
+   "file": "Tilia/Tilia_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 76144
+  },
+  {
+   "name": "Attack_4",
+   "file": "Tilia/Tilia_anims/Attack_4.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 65988
+  },
+  {
+   "name": "B0_Skill_ShieldCounter_4_Second_End",
+   "file": "Tilia/Tilia_anims/B0_Skill_ShieldCounter_4_Second_End.glb",
+   "face": false,
+   "duration": 0.2333,
+   "loop": false,
+   "bytes": 28980
+  },
+  {
+   "name": "B2_Skill_Charge_1_Start",
+   "file": "Tilia/Tilia_anims/B2_Skill_Charge_1_Start.glb",
+   "face": false,
+   "duration": 0.3667,
+   "loop": false,
+   "bytes": 48544
+  },
+  {
+   "name": "B2_Skill_Charge_2_Loop",
+   "file": "Tilia/Tilia_anims/B2_Skill_Charge_2_Loop.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": true,
+   "bytes": 60216
+  },
+  {
+   "name": "B2_Skill_Charge_3_End",
+   "file": "Tilia/Tilia_anims/B2_Skill_Charge_3_End.glb",
+   "face": false,
+   "duration": 2.1333,
+   "loop": false,
+   "bytes": 83980
+  },
+  {
+   "name": "B2_Skill_ShieldCounter_5_CounterAttack",
+   "file": "Tilia/Tilia_anims/B2_Skill_ShieldCounter_5_CounterAttack.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 63732
+  },
+  {
+   "name": "Dazed",
+   "file": "Tilia/Tilia_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 36532
+  },
+  {
+   "name": "Die",
+   "file": "Tilia/Tilia_anims/Die.glb",
+   "face": false,
+   "duration": 1.9667,
+   "loop": false,
+   "bytes": 87908
+  },
+  {
+   "name": "Dodge",
+   "file": "Tilia/Tilia_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 62348
+  },
+  {
+   "name": "HurtA1",
+   "file": "Tilia/Tilia_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 40740
+  },
+  {
+   "name": "HurtA2",
+   "file": "Tilia/Tilia_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 45216
+  },
+  {
+   "name": "HurtB",
+   "file": "Tilia/Tilia_anims/HurtB.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 48792
+  },
+  {
+   "name": "Idle",
+   "file": "Tilia/Tilia_anims/Idle.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 37072
+  },
+  {
+   "name": "Main_Skill_CounterAttack",
+   "file": "Tilia/Tilia_anims/Main_Skill_CounterAttack.glb",
+   "face": false,
+   "duration": 1.5667,
+   "loop": false,
+   "bytes": 92212
+  },
+  {
+   "name": "Main_Skill_P01_CounterAttack_Strengthen",
+   "file": "Tilia/Tilia_anims/Main_Skill_P01_CounterAttack_Strengthen.glb",
+   "face": false,
+   "duration": 1.9,
+   "loop": false,
+   "bytes": 117804
+  },
+  {
+   "name": "Main_Skill_P02_CounterAttack_1_Loop_Strengthen",
+   "file": "Tilia/Tilia_anims/Main_Skill_P02_CounterAttack_1_Loop_Strengthen.glb",
+   "face": false,
+   "duration": 0.4667,
+   "loop": true,
+   "bytes": 38088
+  },
+  {
+   "name": "Main_Skill_ShieldCounter_1_Loop",
+   "file": "Tilia/Tilia_anims/Main_Skill_ShieldCounter_1_Loop.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 35272
+  },
+  {
+   "name": "Main_Skill_ShieldCounter_1_Start",
+   "file": "Tilia/Tilia_anims/Main_Skill_ShieldCounter_1_Start.glb",
+   "face": false,
+   "duration": 0.2333,
+   "loop": false,
+   "bytes": 36020
+  },
+  {
+   "name": "Open",
+   "file": "Tilia/Tilia_anims/Open.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 50008
+  },
+  {
+   "name": "Out01",
+   "file": "Tilia/Tilia_anims/Out01.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 63168
+  },
+  {
+   "name": "Ready",
+   "file": "Tilia/Tilia_anims/Ready.glb",
+   "face": true,
+   "duration": 4.4833,
+   "loop": false,
+   "bytes": 187892
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Tilia/Tilia_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 50368
+  },
+  {
+   "name": "Run",
+   "file": "Tilia/Tilia_anims/Run.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 57632
+  },
+  {
+   "name": "Rush",
+   "file": "Tilia/Tilia_anims/Rush.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": true,
+   "bytes": 62256
+  },
+  {
+   "name": "RushStop",
+   "file": "Tilia/Tilia_anims/RushStop.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 55280
+  },
+  {
+   "name": "Skill0",
+   "file": "Tilia/Tilia_anims/Skill0.glb",
+   "face": false,
+   "duration": 5.5333,
+   "loop": false,
+   "bytes": 113340
+  },
+  {
+   "name": "Skill1_4",
+   "file": "Tilia/Tilia_anims/Skill1_4.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 57696
+  },
+  {
+   "name": "Skill2_1",
+   "file": "Tilia/Tilia_anims/Skill2_1.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 56332
+  },
+  {
+   "name": "Skill2_2",
+   "file": "Tilia/Tilia_anims/Skill2_2.glb",
+   "face": false,
+   "duration": 2.7333,
+   "loop": false,
+   "bytes": 154108
+  },
+  {
+   "name": "Skill2_3",
+   "file": "Tilia/Tilia_anims/Skill2_3.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": false,
+   "bytes": 48264
+  },
+  {
+   "name": "Standby",
+   "file": "Tilia/Tilia_anims/Standby.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": true,
+   "bytes": 37112
+  },
+  {
+   "name": "Support_Skill_ThrowShield",
+   "file": "Tilia/Tilia_anims/Support_Skill_ThrowShield.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 77624
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Tilia/Tilia_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 3.4333,
+   "loop": false,
+   "bytes": 100632
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Tilia/Tilia_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 1.85,
+   "loop": false,
+   "bytes": 59056
+  },
+  {
+   "name": "Ultra_TimeLine",
+   "file": "Tilia/Tilia_anims/Ultra_TimeLine.glb",
+   "face": false,
+   "duration": 1.7,
+   "loop": false,
+   "bytes": 60404
+  },
+  {
+   "name": "Victory",
+   "file": "Tilia/Tilia_anims/Victory.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": false,
+   "bytes": 70128
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Tilia/Tilia_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 49204
+  },
+  {
+   "name": "Walk",
+   "file": "Tilia/Tilia_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 46848
+  },
+  {
+   "name": "WalkBackward",
+   "file": "Tilia/Tilia_anims/WalkBackward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 42240
+  },
+  {
+   "name": "WalkForward",
+   "file": "Tilia/Tilia_anims/WalkForward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 42280
+  },
+  {
+   "name": "WalkLeft",
+   "file": "Tilia/Tilia_anims/WalkLeft.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 42384
+  },
+  {
+   "name": "WalkRight",
+   "file": "Tilia/Tilia_anims/WalkRight.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 41796
+  }
+ ]
+}

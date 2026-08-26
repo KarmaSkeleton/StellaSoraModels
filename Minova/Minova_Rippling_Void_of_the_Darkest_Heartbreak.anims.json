@@ -1,0 +1,45 @@
+{
+ "id": "13204",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Minova/Minova_Rippling_Void_of_the_Darkest_Heartbreak_anims/Ready.glb",
+   "face": true,
+   "duration": 8.7333,
+   "loop": false,
+   "bytes": 325384
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Minova/Minova_Rippling_Void_of_the_Darkest_Heartbreak_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 113204
+  },
+  {
+   "name": "Timeline",
+   "file": "Minova/Minova_Rippling_Void_of_the_Darkest_Heartbreak_anims/Timeline.glb",
+   "face": true,
+   "duration": 5.1667,
+   "loop": false,
+   "bytes": 439496
+  },
+  {
+   "name": "Victory",
+   "file": "Minova/Minova_Rippling_Void_of_the_Darkest_Heartbreak_anims/Victory.glb",
+   "face": true,
+   "duration": 7.0,
+   "loop": false,
+   "bytes": 284944
+  },
+  {
+   "name": "Victoryloop",
+   "file": "Minova/Minova_Rippling_Void_of_the_Darkest_Heartbreak_anims/Victoryloop.glb",
+   "face": true,
+   "duration": 2.6667,
+   "loop": true,
+   "bytes": 117420
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "13403",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Fuyuka/Fuyuka_Probation_Period_Cleared_anims/Ready.glb",
+   "face": true,
+   "duration": 6.6667,
+   "loop": false,
+   "bytes": 282004
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Fuyuka/Fuyuka_Probation_Period_Cleared_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.6667,
+   "loop": true,
+   "bytes": 94464
+  },
+  {
+   "name": "Victory",
+   "file": "Fuyuka/Fuyuka_Probation_Period_Cleared_anims/Victory.glb",
+   "face": true,
+   "duration": 5.65,
+   "loop": false,
+   "bytes": 256040
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Fuyuka/Fuyuka_Probation_Period_Cleared_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.7667,
+   "loop": true,
+   "bytes": 87240
+  },
+  {
+   "name": "timeline",
+   "file": "Fuyuka/Fuyuka_Probation_Period_Cleared_anims/timeline.glb",
+   "face": true,
+   "duration": 5.2667,
+   "loop": false,
+   "bytes": 306800
+  }
+ ]
+}

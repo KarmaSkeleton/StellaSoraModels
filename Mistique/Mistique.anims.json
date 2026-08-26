@@ -1,0 +1,269 @@
+{
+ "id": "13501",
+ "clips": [
+  {
+   "name": "13500010_BigHeadGhost_Atk_1",
+   "file": "Mistique/Mistique_anims/13500010_BigHeadGhost_Atk_1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 2132
+  },
+  {
+   "name": "13500010_BigHeadGhost_Atk_2",
+   "file": "Mistique/Mistique_anims/13500010_BigHeadGhost_Atk_2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 1732
+  },
+  {
+   "name": "13500010_BigHeadGhost_Atk_3",
+   "file": "Mistique/Mistique_anims/13500010_BigHeadGhost_Atk_3.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 764
+  },
+  {
+   "name": "Ultra_Pet",
+   "file": "Mistique/Mistique_anims/Ultra_Pet.glb",
+   "face": false,
+   "duration": 4.1667,
+   "loop": false,
+   "bytes": 3300
+  },
+  {
+   "name": "Ultra_Pet_H6",
+   "file": "Mistique/Mistique_anims/Ultra_Pet_H6.glb",
+   "face": false,
+   "duration": 4.7333,
+   "loop": false,
+   "bytes": 2632
+  },
+  {
+   "name": "Attack1",
+   "file": "Mistique/Mistique_anims/Attack1.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 145448
+  },
+  {
+   "name": "Attack2",
+   "file": "Mistique/Mistique_anims/Attack2.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 139340
+  },
+  {
+   "name": "Attack3",
+   "file": "Mistique/Mistique_anims/Attack3.glb",
+   "face": false,
+   "duration": 1.8333,
+   "loop": false,
+   "bytes": 192972
+  },
+  {
+   "name": "Attack4",
+   "file": "Mistique/Mistique_anims/Attack4.glb",
+   "face": false,
+   "duration": 2.8,
+   "loop": false,
+   "bytes": 193528
+  },
+  {
+   "name": "Daze",
+   "file": "Mistique/Mistique_anims/Daze.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 88832
+  },
+  {
+   "name": "Die",
+   "file": "Mistique/Mistique_anims/Die.glb",
+   "face": false,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 208448
+  },
+  {
+   "name": "Dodge",
+   "file": "Mistique/Mistique_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 136352
+  },
+  {
+   "name": "HurtA1",
+   "file": "Mistique/Mistique_anims/HurtA1.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 128904
+  },
+  {
+   "name": "HurtA2",
+   "file": "Mistique/Mistique_anims/HurtA2.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 140868
+  },
+  {
+   "name": "HurtB",
+   "file": "Mistique/Mistique_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 137080
+  },
+  {
+   "name": "Idle",
+   "file": "Mistique/Mistique_anims/Idle.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": true,
+   "bytes": 76352
+  },
+  {
+   "name": "Main_Skill_Call",
+   "file": "Mistique/Mistique_anims/Main_Skill_Call.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 256072
+  },
+  {
+   "name": "Out01",
+   "file": "Mistique/Mistique_anims/Out01.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 123060
+  },
+  {
+   "name": "Ready",
+   "file": "Mistique/Mistique_anims/Ready.glb",
+   "face": true,
+   "duration": 6.2333,
+   "loop": false,
+   "bytes": 358192
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Mistique/Mistique_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.2,
+   "loop": true,
+   "bytes": 81884
+  },
+  {
+   "name": "Run",
+   "file": "Mistique/Mistique_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 111208
+  },
+  {
+   "name": "Rush",
+   "file": "Mistique/Mistique_anims/Rush.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 153784
+  },
+  {
+   "name": "RushStop",
+   "file": "Mistique/Mistique_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 144860
+  },
+  {
+   "name": "Support_Skill_GhostDoor",
+   "file": "Mistique/Mistique_anims/Support_Skill_GhostDoor.glb",
+   "face": false,
+   "duration": 1.9333,
+   "loop": false,
+   "bytes": 255480
+  },
+  {
+   "name": "Timeline",
+   "file": "Mistique/Mistique_anims/Timeline.glb",
+   "face": true,
+   "duration": 3.3667,
+   "loop": false,
+   "bytes": 352100
+  },
+  {
+   "name": "Timeline_Pet01",
+   "file": "Mistique/Mistique_anims/Timeline_Pet01.glb",
+   "face": false,
+   "duration": 3.3667,
+   "loop": false,
+   "bytes": 748
+  },
+  {
+   "name": "Timeline_Pet02",
+   "file": "Mistique/Mistique_anims/Timeline_Pet02.glb",
+   "face": false,
+   "duration": 3.3667,
+   "loop": false,
+   "bytes": 748
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Mistique/Mistique_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 4.0667,
+   "loop": false,
+   "bytes": 375684
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Mistique/Mistique_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 2.4333,
+   "loop": false,
+   "bytes": 215316
+  },
+  {
+   "name": "Victory",
+   "file": "Mistique/Mistique_anims/Victory.glb",
+   "face": true,
+   "duration": 4.1833,
+   "loop": false,
+   "bytes": 161656
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Mistique/Mistique_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.5333,
+   "loop": true,
+   "bytes": 84536
+  },
+  {
+   "name": "Walk",
+   "file": "Mistique/Mistique_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 101716
+  },
+  {
+   "name": "Take 001",
+   "file": "Mistique/Mistique_anims/Take_001.glb",
+   "face": false,
+   "duration": 5.1667,
+   "loop": false,
+   "bytes": 133840
+  }
+ ]
+}

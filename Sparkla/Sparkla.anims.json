@@ -1,0 +1,765 @@
+{
+ "id": "14001",
+ "clips": [
+  {
+   "name": "Aim_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/Aim_Type_Cannon.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 81888
+  },
+  {
+   "name": "Aim_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/Aim_Type_Gun.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 83036
+  },
+  {
+   "name": "Aim_Type_Gun_Fly",
+   "file": "Sparkla/Sparkla_anims/Aim_Type_Gun_Fly.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 87240
+  },
+  {
+   "name": "Attack_1",
+   "file": "Sparkla/Sparkla_anims/Attack_1.glb",
+   "face": false,
+   "duration": 0.7,
+   "loop": false,
+   "bytes": 99644
+  },
+  {
+   "name": "Attack_2",
+   "file": "Sparkla/Sparkla_anims/Attack_2.glb",
+   "face": false,
+   "duration": 0.7,
+   "loop": false,
+   "bytes": 99844
+  },
+  {
+   "name": "Attack_3",
+   "file": "Sparkla/Sparkla_anims/Attack_3.glb",
+   "face": false,
+   "duration": 0.7,
+   "loop": false,
+   "bytes": 104808
+  },
+  {
+   "name": "Attack_Main_Skill_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/Attack_Main_Skill_Type_Cannon.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 115148
+  },
+  {
+   "name": "Attack_Main_Skill_Type_Cannon_2",
+   "file": "Sparkla/Sparkla_anims/Attack_Main_Skill_Type_Cannon_2.glb",
+   "face": false,
+   "duration": 1.4333,
+   "loop": true,
+   "bytes": 130560
+  },
+  {
+   "name": "Attack_Main_Skill_Type_Cannon_3",
+   "file": "Sparkla/Sparkla_anims/Attack_Main_Skill_Type_Cannon_3.glb",
+   "face": false,
+   "duration": 1.8667,
+   "loop": true,
+   "bytes": 160320
+  },
+  {
+   "name": "Attack_Main_Skill_Type_Cannon_P03",
+   "file": "Sparkla/Sparkla_anims/Attack_Main_Skill_Type_Cannon_P03.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 177356
+  },
+  {
+   "name": "Attack_Main_Skill_Type_Cannon_P03",
+   "file": "Sparkla/Sparkla_anims/Attack_Main_Skill_Type_Cannon_P03_.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 201164
+  },
+  {
+   "name": "Attack_Main_Skill_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/Attack_Main_Skill_Type_Gun.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 114336
+  },
+  {
+   "name": "Attack_Main_Skill_Type_Gun_Fly",
+   "file": "Sparkla/Sparkla_anims/Attack_Main_Skill_Type_Gun_Fly.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 112476
+  },
+  {
+   "name": "Attack_Main_Skill_Type_Gun_P01",
+   "file": "Sparkla/Sparkla_anims/Attack_Main_Skill_Type_Gun_P01.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 137312
+  },
+  {
+   "name": "Attack_Main_Skill_Type_Gun_P01_Fly",
+   "file": "Sparkla/Sparkla_anims/Attack_Main_Skill_Type_Gun_P01_Fly.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 131328
+  },
+  {
+   "name": "Daze_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/Daze_Type_Cannon.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 91136
+  },
+  {
+   "name": "Daze_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/Daze_Type_Gun.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 92444
+  },
+  {
+   "name": "Daze_Type_Gun_Fly",
+   "file": "Sparkla/Sparkla_anims/Daze_Type_Gun_Fly.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 95460
+  },
+  {
+   "name": "Dazed",
+   "file": "Sparkla/Sparkla_anims/Dazed.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 102180
+  },
+  {
+   "name": "Die",
+   "file": "Sparkla/Sparkla_anims/Die.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": false,
+   "bytes": 297336
+  },
+  {
+   "name": "Die_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/Die_Type_Cannon.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 143380
+  },
+  {
+   "name": "Die_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/Die_Type_Gun.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 145808
+  },
+  {
+   "name": "Die_Type_Gun_Fly",
+   "file": "Sparkla/Sparkla_anims/Die_Type_Gun_Fly.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 148648
+  },
+  {
+   "name": "Dodge",
+   "file": "Sparkla/Sparkla_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 191628
+  },
+  {
+   "name": "Dodge_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/Dodge_Type_Cannon.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 132708
+  },
+  {
+   "name": "Dodge_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/Dodge_Type_Gun.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 136028
+  },
+  {
+   "name": "HurtA1",
+   "file": "Sparkla/Sparkla_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 120648
+  },
+  {
+   "name": "HurtA2",
+   "file": "Sparkla/Sparkla_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 118488
+  },
+  {
+   "name": "HurtB",
+   "file": "Sparkla/Sparkla_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 138652
+  },
+  {
+   "name": "Hurt_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/Hurt_Type_Cannon.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 117164
+  },
+  {
+   "name": "Hurt_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/Hurt_Type_Gun.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 119920
+  },
+  {
+   "name": "Hurt_Type_Gun_Fly",
+   "file": "Sparkla/Sparkla_anims/Hurt_Type_Gun_Fly.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 121860
+  },
+  {
+   "name": "Idle",
+   "file": "Sparkla/Sparkla_anims/Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 74624
+  },
+  {
+   "name": "Idle_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/Idle_Type_Cannon.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 81040
+  },
+  {
+   "name": "Idle_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/Idle_Type_Gun.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 81296
+  },
+  {
+   "name": "Idle_Type_Gun_Fly",
+   "file": "Sparkla/Sparkla_anims/Idle_Type_Gun_Fly.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 89120
+  },
+  {
+   "name": "Main_Skill_End_P11_Missile",
+   "file": "Sparkla/Sparkla_anims/Main_Skill_End_P11_Missile.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 170000
+  },
+  {
+   "name": "Main_Skill_Transform",
+   "file": "Sparkla/Sparkla_anims/Main_Skill_Transform.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 134892
+  },
+  {
+   "name": "Main_Skill_Transform_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/Main_Skill_Transform_Type_Cannon.glb",
+   "face": false,
+   "duration": 0.7,
+   "loop": false,
+   "bytes": 91592
+  },
+  {
+   "name": "Main_Skill_Transform_Type_Cannon_End",
+   "file": "Sparkla/Sparkla_anims/Main_Skill_Transform_Type_Cannon_End.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 117808
+  },
+  {
+   "name": "Main_Skill_Transform_Type_Cannon_End_P11",
+   "file": "Sparkla/Sparkla_anims/Main_Skill_Transform_Type_Cannon_End_P11.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 241672
+  },
+  {
+   "name": "Main_Skill_Transform_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/Main_Skill_Transform_Type_Gun.glb",
+   "face": false,
+   "duration": 0.7,
+   "loop": false,
+   "bytes": 93580
+  },
+  {
+   "name": "Main_Skill_Transform_Type_Gun_End",
+   "file": "Sparkla/Sparkla_anims/Main_Skill_Transform_Type_Gun_End.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 121596
+  },
+  {
+   "name": "Main_Skill_Transform_Type_Gun_End_P11",
+   "file": "Sparkla/Sparkla_anims/Main_Skill_Transform_Type_Gun_End_P11.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 245836
+  },
+  {
+   "name": "Main_Skill_Transform_Type_Gun_Fly",
+   "file": "Sparkla/Sparkla_anims/Main_Skill_Transform_Type_Gun_Fly.glb",
+   "face": false,
+   "duration": 0.7,
+   "loop": false,
+   "bytes": 90100
+  },
+  {
+   "name": "Main_Skill_Transform_Type_Gun_Fly_End",
+   "file": "Sparkla/Sparkla_anims/Main_Skill_Transform_Type_Gun_Fly_End.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 124400
+  },
+  {
+   "name": "Main_Skill_Transform_Type_Gun_Fly_End_P11",
+   "file": "Sparkla/Sparkla_anims/Main_Skill_Transform_Type_Gun_Fly_End_P11.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 248944
+  },
+  {
+   "name": "Out01",
+   "file": "Sparkla/Sparkla_anims/Out01.glb",
+   "face": false,
+   "duration": 1.5667,
+   "loop": false,
+   "bytes": 118316
+  },
+  {
+   "name": "Ready",
+   "file": "Sparkla/Sparkla_anims/Ready.glb",
+   "face": true,
+   "duration": 4.6667,
+   "loop": true,
+   "bytes": 209940
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Sparkla/Sparkla_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": false,
+   "bytes": 100784
+  },
+  {
+   "name": "Run",
+   "file": "Sparkla/Sparkla_anims/Run.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 106844
+  },
+  {
+   "name": "Run_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/Run_Type_Cannon.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 97832
+  },
+  {
+   "name": "Run_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/Run_Type_Gun.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 99024
+  },
+  {
+   "name": "Run_Type_Gun_Fly",
+   "file": "Sparkla/Sparkla_anims/Run_Type_Gun_Fly.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 92516
+  },
+  {
+   "name": "Rush",
+   "file": "Sparkla/Sparkla_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 102292
+  },
+  {
+   "name": "RushStop",
+   "file": "Sparkla/Sparkla_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 235628
+  },
+  {
+   "name": "RushStop_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/RushStop_Type_Cannon.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 102808
+  },
+  {
+   "name": "RushStop_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/RushStop_Type_Gun.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 100908
+  },
+  {
+   "name": "Rush_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/Rush_Type_Cannon.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 103376
+  },
+  {
+   "name": "Rush_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/Rush_Type_Gun.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 100640
+  },
+  {
+   "name": "Support_Skill_1_Start",
+   "file": "Sparkla/Sparkla_anims/Support_Skill_1_Start.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 137372
+  },
+  {
+   "name": "Support_Skill_1_Start_P25",
+   "file": "Sparkla/Sparkla_anims/Support_Skill_1_Start_P25.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 150704
+  },
+  {
+   "name": "Support_Skill_2_Loop",
+   "file": "Sparkla/Sparkla_anims/Support_Skill_2_Loop.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 125472
+  },
+  {
+   "name": "Support_Skill_2_Loop_Base",
+   "file": "Sparkla/Sparkla_anims/Support_Skill_2_Loop_Base.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 128260
+  },
+  {
+   "name": "Support_Skill_3_End",
+   "file": "Sparkla/Sparkla_anims/Support_Skill_3_End.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 132872
+  },
+  {
+   "name": "Support_Skill_4_Rush",
+   "file": "Sparkla/Sparkla_anims/Support_Skill_4_Rush.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 104876
+  },
+  {
+   "name": "Timeline01",
+   "file": "Sparkla/Sparkla_anims/Timeline01.glb",
+   "face": true,
+   "duration": 5.0,
+   "loop": false,
+   "bytes": 270904
+  },
+  {
+   "name": "Timeline02",
+   "file": "Sparkla/Sparkla_anims/Timeline02.glb",
+   "face": true,
+   "duration": 5.1,
+   "loop": false,
+   "bytes": 264152
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Sparkla/Sparkla_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 8.9333,
+   "loop": false,
+   "bytes": 513596
+  },
+  {
+   "name": "Ultra_TL1",
+   "file": "Sparkla/Sparkla_anims/Ultra_TL1.glb",
+   "face": false,
+   "duration": 3.3667,
+   "loop": false,
+   "bytes": 209000
+  },
+  {
+   "name": "Ultra_TL2",
+   "file": "Sparkla/Sparkla_anims/Ultra_TL2.glb",
+   "face": false,
+   "duration": 2.0333,
+   "loop": false,
+   "bytes": 174612
+  },
+  {
+   "name": "Victory",
+   "file": "Sparkla/Sparkla_anims/Victory.glb",
+   "face": true,
+   "duration": 5.1667,
+   "loop": false,
+   "bytes": 201508
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Sparkla/Sparkla_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 93692
+  },
+  {
+   "name": "Walk",
+   "file": "Sparkla/Sparkla_anims/Walk.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 99032
+  },
+  {
+   "name": "WalkBackward",
+   "file": "Sparkla/Sparkla_anims/WalkBackward.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 55300
+  },
+  {
+   "name": "WalkBackward_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/WalkBackward_Type_Cannon.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 83100
+  },
+  {
+   "name": "WalkBackward_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/WalkBackward_Type_Gun.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 83544
+  },
+  {
+   "name": "WalkBackward_Type_Gun_Fly",
+   "file": "Sparkla/Sparkla_anims/WalkBackward_Type_Gun_Fly.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 89128
+  },
+  {
+   "name": "WalkForward",
+   "file": "Sparkla/Sparkla_anims/WalkForward.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 57512
+  },
+  {
+   "name": "WalkForward_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/WalkForward_Type_Cannon.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 83384
+  },
+  {
+   "name": "WalkForward_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/WalkForward_Type_Gun.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 83828
+  },
+  {
+   "name": "WalkForward_Type_Gun_Fly",
+   "file": "Sparkla/Sparkla_anims/WalkForward_Type_Gun_Fly.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 89128
+  },
+  {
+   "name": "WalkLeft",
+   "file": "Sparkla/Sparkla_anims/WalkLeft.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 55692
+  },
+  {
+   "name": "WalkLeft_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/WalkLeft_Type_Cannon.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 83276
+  },
+  {
+   "name": "WalkLeft_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/WalkLeft_Type_Gun.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 83668
+  },
+  {
+   "name": "WalkLeft_Type_Gun_Fly",
+   "file": "Sparkla/Sparkla_anims/WalkLeft_Type_Gun_Fly.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 86908
+  },
+  {
+   "name": "WalkRight",
+   "file": "Sparkla/Sparkla_anims/WalkRight.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 55696
+  },
+  {
+   "name": "WalkRight_Type_Cannon",
+   "file": "Sparkla/Sparkla_anims/WalkRight_Type_Cannon.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 83276
+  },
+  {
+   "name": "WalkRight_Type_Gun",
+   "file": "Sparkla/Sparkla_anims/WalkRight_Type_Gun.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 83672
+  },
+  {
+   "name": "WalkRight_Type_Gun_Fly",
+   "file": "Sparkla/Sparkla_anims/WalkRight_Type_Gun_Fly.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 86908
+  },
+  {
+   "name": "Take 001",
+   "file": "Sparkla/Sparkla_anims/Take_001.glb",
+   "face": false,
+   "duration": 10.3333,
+   "loop": false,
+   "bytes": 292180
+  },
+  {
+   "name": "Take 001",
+   "file": "Sparkla/Sparkla_anims/Take_001_.glb",
+   "face": false,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 312592
+  },
+  {
+   "name": "Take 001",
+   "file": "Sparkla/Sparkla_anims/Take_001__.glb",
+   "face": false,
+   "duration": 10.3333,
+   "loop": false,
+   "bytes": 322024
+  },
+  {
+   "name": "Take 001",
+   "file": "Sparkla/Sparkla_anims/Take_001___.glb",
+   "face": false,
+   "duration": 10.3333,
+   "loop": false,
+   "bytes": 296508
+  },
+  {
+   "name": "Take 001",
+   "file": "Sparkla/Sparkla_anims/Take_001____.glb",
+   "face": false,
+   "duration": 2.7,
+   "loop": false,
+   "bytes": 143092
+  }
+ ]
+}

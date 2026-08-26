@@ -1,0 +1,253 @@
+{
+ "id": "14901",
+ "clips": [
+  {
+   "name": "Attack",
+   "file": "Gerie/Gerie_anims/Attack.glb",
+   "face": false,
+   "duration": 6.3,
+   "loop": false,
+   "bytes": 577400
+  },
+  {
+   "name": "Attack_1",
+   "file": "Gerie/Gerie_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 205856
+  },
+  {
+   "name": "Attack_2",
+   "file": "Gerie/Gerie_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.7667,
+   "loop": false,
+   "bytes": 237564
+  },
+  {
+   "name": "Attack_3",
+   "file": "Gerie/Gerie_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.7,
+   "loop": false,
+   "bytes": 197260
+  },
+  {
+   "name": "Attack_4",
+   "file": "Gerie/Gerie_anims/Attack_4.glb",
+   "face": false,
+   "duration": 2.1667,
+   "loop": false,
+   "bytes": 283156
+  },
+  {
+   "name": "Attack_5",
+   "file": "Gerie/Gerie_anims/Attack_5.glb",
+   "face": false,
+   "duration": 3.1667,
+   "loop": false,
+   "bytes": 336864
+  },
+  {
+   "name": "Dazed",
+   "file": "Gerie/Gerie_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 110576
+  },
+  {
+   "name": "Die",
+   "file": "Gerie/Gerie_anims/Die.glb",
+   "face": true,
+   "duration": 2.8,
+   "loop": false,
+   "bytes": 320868
+  },
+  {
+   "name": "Dodge",
+   "file": "Gerie/Gerie_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.1333,
+   "loop": false,
+   "bytes": 190372
+  },
+  {
+   "name": "HurtA1",
+   "file": "Gerie/Gerie_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 174980
+  },
+  {
+   "name": "HurtA2",
+   "file": "Gerie/Gerie_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 164784
+  },
+  {
+   "name": "HurtB",
+   "file": "Gerie/Gerie_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 207652
+  },
+  {
+   "name": "Idle",
+   "file": "Gerie/Gerie_anims/Idle.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 90968
+  },
+  {
+   "name": "Out01",
+   "file": "Gerie/Gerie_anims/Out01.glb",
+   "face": false,
+   "duration": 1.7667,
+   "loop": false,
+   "bytes": 210796
+  },
+  {
+   "name": "Ready",
+   "file": "Gerie/Gerie_anims/Ready.glb",
+   "face": true,
+   "duration": 4.9,
+   "loop": false,
+   "bytes": 245656
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Gerie/Gerie_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 106872
+  },
+  {
+   "name": "Run",
+   "file": "Gerie/Gerie_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 137928
+  },
+  {
+   "name": "Rush",
+   "file": "Gerie/Gerie_anims/Rush.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": true,
+   "bytes": 121504
+  },
+  {
+   "name": "RushStop",
+   "file": "Gerie/Gerie_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 187732
+  },
+  {
+   "name": "Skill_Main",
+   "file": "Gerie/Gerie_anims/Skill_Main.glb",
+   "face": false,
+   "duration": 3.8333,
+   "loop": false,
+   "bytes": 385472
+  },
+  {
+   "name": "Skill_Sup_End",
+   "file": "Gerie/Gerie_anims/Skill_Sup_End.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": false,
+   "bytes": 649072
+  },
+  {
+   "name": "Skill_Sup_End_Perk22",
+   "file": "Gerie/Gerie_anims/Skill_Sup_End_Perk22.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": false,
+   "bytes": 796228
+  },
+  {
+   "name": "Skill_Sup_Loop",
+   "file": "Gerie/Gerie_anims/Skill_Sup_Loop.glb",
+   "face": false,
+   "duration": 0.0333,
+   "loop": true,
+   "bytes": 65892
+  },
+  {
+   "name": "Skill_Sup_Loop_Perk23",
+   "file": "Gerie/Gerie_anims/Skill_Sup_Loop_Perk23.glb",
+   "face": false,
+   "duration": 1.4333,
+   "loop": true,
+   "bytes": 597148
+  },
+  {
+   "name": "Skill_Sup_Start",
+   "file": "Gerie/Gerie_anims/Skill_Sup_Start.glb",
+   "face": false,
+   "duration": 1.1333,
+   "loop": false,
+   "bytes": 556028
+  },
+  {
+   "name": "Timeline",
+   "file": "Gerie/Gerie_anims/Timeline.glb",
+   "face": true,
+   "duration": 5.15,
+   "loop": false,
+   "bytes": 319724
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Gerie/Gerie_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 3.7333,
+   "loop": false,
+   "bytes": 451672
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Gerie/Gerie_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 1.9333,
+   "loop": false,
+   "bytes": 238648
+  },
+  {
+   "name": "Victory",
+   "file": "Gerie/Gerie_anims/Victory.glb",
+   "face": true,
+   "duration": 4.5,
+   "loop": false,
+   "bytes": 182732
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Gerie/Gerie_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 4.3333,
+   "loop": true,
+   "bytes": 104260
+  },
+  {
+   "name": "Walk",
+   "file": "Gerie/Gerie_anims/Walk.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": true,
+   "bytes": 137372
+  }
+ ]
+}

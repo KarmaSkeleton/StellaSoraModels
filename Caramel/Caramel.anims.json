@@ -1,0 +1,261 @@
+{
+ "id": "14701",
+ "clips": [
+  {
+   "name": "Attack_1",
+   "file": "Caramel/Caramel_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 76636
+  },
+  {
+   "name": "Attack_2",
+   "file": "Caramel/Caramel_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 91844
+  },
+  {
+   "name": "Attack_3",
+   "file": "Caramel/Caramel_anims/Attack_3.glb",
+   "face": false,
+   "duration": 2.1,
+   "loop": false,
+   "bytes": 123936
+  },
+  {
+   "name": "Dazed",
+   "file": "Caramel/Caramel_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 55576
+  },
+  {
+   "name": "Die",
+   "file": "Caramel/Caramel_anims/Die.glb",
+   "face": false,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 118800
+  },
+  {
+   "name": "Dodge",
+   "file": "Caramel/Caramel_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 100536
+  },
+  {
+   "name": "HurtA1",
+   "file": "Caramel/Caramel_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": false,
+   "bytes": 76712
+  },
+  {
+   "name": "HurtA2",
+   "file": "Caramel/Caramel_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": false,
+   "bytes": 82236
+  },
+  {
+   "name": "HurtB",
+   "file": "Caramel/Caramel_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 95184
+  },
+  {
+   "name": "Idle",
+   "file": "Caramel/Caramel_anims/Idle.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 57320
+  },
+  {
+   "name": "Out01",
+   "file": "Caramel/Caramel_anims/Out01.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": false,
+   "bytes": 102080
+  },
+  {
+   "name": "Ready",
+   "file": "Caramel/Caramel_anims/Ready.glb",
+   "face": true,
+   "duration": 5.5,
+   "loop": false,
+   "bytes": 274920
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Caramel/Caramel_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.6667,
+   "loop": true,
+   "bytes": 78660
+  },
+  {
+   "name": "Run",
+   "file": "Caramel/Caramel_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 80508
+  },
+  {
+   "name": "Rush",
+   "file": "Caramel/Caramel_anims/Rush.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": true,
+   "bytes": 71492
+  },
+  {
+   "name": "RushStop",
+   "file": "Caramel/Caramel_anims/RushStop.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 81816
+  },
+  {
+   "name": "SkillMain",
+   "file": "Caramel/Caramel_anims/SkillMain.glb",
+   "face": false,
+   "duration": 1.9333,
+   "loop": false,
+   "bytes": 137520
+  },
+  {
+   "name": "SkillSup_HengSao",
+   "file": "Caramel/Caramel_anims/SkillSup_HengSao.glb",
+   "face": false,
+   "duration": 1.2667,
+   "loop": false,
+   "bytes": 147960
+  },
+  {
+   "name": "SkillSup_HengSao_P21",
+   "file": "Caramel/Caramel_anims/SkillSup_HengSao_P21.glb",
+   "face": false,
+   "duration": 1.8333,
+   "loop": false,
+   "bytes": 164776
+  },
+  {
+   "name": "SkillSup_TanQin",
+   "file": "Caramel/Caramel_anims/SkillSup_TanQin.glb",
+   "face": false,
+   "duration": 3.4333,
+   "loop": false,
+   "bytes": 221464
+  },
+  {
+   "name": "Timeline",
+   "file": "Caramel/Caramel_anims/Timeline.glb",
+   "face": true,
+   "duration": 3.8333,
+   "loop": false,
+   "bytes": 283600
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Caramel/Caramel_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 388320
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Caramel/Caramel_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 4.5667,
+   "loop": false,
+   "bytes": 327860
+  },
+  {
+   "name": "Victory",
+   "file": "Caramel/Caramel_anims/Victory.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": false,
+   "bytes": 184788
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Caramel/Caramel_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.6667,
+   "loop": true,
+   "bytes": 93640
+  },
+  {
+   "name": "Walk",
+   "file": "Caramel/Caramel_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 67168
+  },
+  {
+   "name": "WalkBackward",
+   "file": "Caramel/Caramel_anims/WalkBackward.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 65516
+  },
+  {
+   "name": "WalkForward",
+   "file": "Caramel/Caramel_anims/WalkForward.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 64588
+  },
+  {
+   "name": "WalkLeft",
+   "file": "Caramel/Caramel_anims/WalkLeft.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 66280
+  },
+  {
+   "name": "WalkRight",
+   "file": "Caramel/Caramel_anims/WalkRight.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 67528
+  },
+  {
+   "name": "Take 001",
+   "file": "Caramel/Caramel_anims/Take_001.glb",
+   "face": false,
+   "duration": 0.7,
+   "loop": false,
+   "bytes": 75744
+  },
+  {
+   "name": "Take 001",
+   "file": "Caramel/Caramel_anims/Take_001_.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": false,
+   "bytes": 65812
+  }
+ ]
+}

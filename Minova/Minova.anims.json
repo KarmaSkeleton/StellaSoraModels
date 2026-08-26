@@ -1,0 +1,405 @@
+{
+ "id": "13201",
+ "clips": [
+  {
+   "name": "timeline",
+   "file": "Minova/Minova_anims/timeline.glb",
+   "face": true,
+   "duration": 8.6667,
+   "loop": false,
+   "bytes": 271332
+  },
+  {
+   "name": "Attack_01",
+   "file": "Minova/Minova_anims/Attack_01.glb",
+   "face": false,
+   "duration": 1.8667,
+   "loop": false,
+   "bytes": 139928
+  },
+  {
+   "name": "Attack_02",
+   "file": "Minova/Minova_anims/Attack_02.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 133464
+  },
+  {
+   "name": "Attack_3",
+   "file": "Minova/Minova_anims/Attack_3.glb",
+   "face": false,
+   "duration": 2.4667,
+   "loop": false,
+   "bytes": 184076
+  },
+  {
+   "name": "Attack_4",
+   "file": "Minova/Minova_anims/Attack_4.glb",
+   "face": false,
+   "duration": 1.5667,
+   "loop": false,
+   "bytes": 125872
+  },
+  {
+   "name": "Attack_5",
+   "file": "Minova/Minova_anims/Attack_5.glb",
+   "face": false,
+   "duration": 2.8667,
+   "loop": false,
+   "bytes": 164200
+  },
+  {
+   "name": "B0_Skill_Thump",
+   "file": "Minova/Minova_anims/B0_Skill_Thump.glb",
+   "face": false,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 187716
+  },
+  {
+   "name": "B0_Skill_Thump_02",
+   "file": "Minova/Minova_anims/B0_Skill_Thump_02.glb",
+   "face": false,
+   "duration": 2.0667,
+   "loop": false,
+   "bytes": 158932
+  },
+  {
+   "name": "Branch2Skill_Thump",
+   "file": "Minova/Minova_anims/Branch2Skill_Thump.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": false,
+   "bytes": 172880
+  },
+  {
+   "name": "Dazed",
+   "file": "Minova/Minova_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 68044
+  },
+  {
+   "name": "Die",
+   "file": "Minova/Minova_anims/Die.glb",
+   "face": false,
+   "duration": 2.7333,
+   "loop": false,
+   "bytes": 164812
+  },
+  {
+   "name": "Dodge_end",
+   "file": "Minova/Minova_anims/Dodge_end.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": false,
+   "bytes": 82104
+  },
+  {
+   "name": "Dodge_start",
+   "file": "Minova/Minova_anims/Dodge_start.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 106636
+  },
+  {
+   "name": "HurtA1",
+   "file": "Minova/Minova_anims/HurtA1.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 101472
+  },
+  {
+   "name": "HurtA2",
+   "file": "Minova/Minova_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 85572
+  },
+  {
+   "name": "HurtB",
+   "file": "Minova/Minova_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 114252
+  },
+  {
+   "name": "Idle",
+   "file": "Minova/Minova_anims/Idle.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": true,
+   "bytes": 62488
+  },
+  {
+   "name": "Main_Skill_QuickStrike_1_Start",
+   "file": "Minova/Minova_anims/Main_Skill_QuickStrike_1_Start.glb",
+   "face": false,
+   "duration": 0.2667,
+   "loop": false,
+   "bytes": 87116
+  },
+  {
+   "name": "Main_Skill_QuickStrike_2_Loop",
+   "file": "Minova/Minova_anims/Main_Skill_QuickStrike_2_Loop.glb",
+   "face": false,
+   "duration": 0.5667,
+   "loop": true,
+   "bytes": 100364
+  },
+  {
+   "name": "Main_Skill_QuickStrike_3_End",
+   "file": "Minova/Minova_anims/Main_Skill_QuickStrike_3_End.glb",
+   "face": false,
+   "duration": 2.3667,
+   "loop": false,
+   "bytes": 227564
+  },
+  {
+   "name": "Main_Skill_QuickStrike_P01_Last",
+   "file": "Minova/Minova_anims/Main_Skill_QuickStrike_P01_Last.glb",
+   "face": false,
+   "duration": 4.4,
+   "loop": false,
+   "bytes": 255404
+  },
+  {
+   "name": "Main_Skill_QuickStrike_P02_1_Start_Strengthen",
+   "file": "Minova/Minova_anims/Main_Skill_QuickStrike_P02_1_Start_Strengthen.glb",
+   "face": false,
+   "duration": 0.3,
+   "loop": false,
+   "bytes": 90996
+  },
+  {
+   "name": "Main_Skill_QuickStrike_P02_2_Loop_Strengthen",
+   "file": "Minova/Minova_anims/Main_Skill_QuickStrike_P02_2_Loop_Strengthen.glb",
+   "face": false,
+   "duration": 0.4333,
+   "loop": true,
+   "bytes": 102836
+  },
+  {
+   "name": "Main_Skill_QuickStrike_P02_2_Loop_Strengthen_02",
+   "file": "Minova/Minova_anims/Main_Skill_QuickStrike_P02_2_Loop_Strengthen_02.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 104992
+  },
+  {
+   "name": "Main_Skill_QuickStrike_P02_3_End_Strengthen",
+   "file": "Minova/Minova_anims/Main_Skill_QuickStrike_P02_3_End_Strengthen.glb",
+   "face": false,
+   "duration": 2.8333,
+   "loop": false,
+   "bytes": 238548
+  },
+  {
+   "name": "Main_Skill_Thump_P03_Strengthen",
+   "file": "Minova/Minova_anims/Main_Skill_Thump_P03_Strengthen.glb",
+   "face": false,
+   "duration": 2.9,
+   "loop": false,
+   "bytes": 221516
+  },
+  {
+   "name": "Out01",
+   "file": "Minova/Minova_anims/Out01.glb",
+   "face": false,
+   "duration": 1.3,
+   "loop": false,
+   "bytes": 112496
+  },
+  {
+   "name": "Ready",
+   "file": "Minova/Minova_anims/Ready.glb",
+   "face": true,
+   "duration": 4.7333,
+   "loop": false,
+   "bytes": 167612
+  },
+  {
+   "name": "Readyloop",
+   "file": "Minova/Minova_anims/Readyloop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 67152
+  },
+  {
+   "name": "Run",
+   "file": "Minova/Minova_anims/Run.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": true,
+   "bytes": 85240
+  },
+  {
+   "name": "Rush_1_Start",
+   "file": "Minova/Minova_anims/Rush_1_Start.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 101820
+  },
+  {
+   "name": "Rush_2_Loop",
+   "file": "Minova/Minova_anims/Rush_2_Loop.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 93268
+  },
+  {
+   "name": "Rush_3_Stop",
+   "file": "Minova/Minova_anims/Rush_3_Stop.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 128596
+  },
+  {
+   "name": "Rush_3_Stop_Special",
+   "file": "Minova/Minova_anims/Rush_3_Stop_Special.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 87000
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Minova/Minova_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 4.4833,
+   "loop": false,
+   "bytes": 172064
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Minova/Minova_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 3.7667,
+   "loop": false,
+   "bytes": 126496
+  },
+  {
+   "name": "Victory",
+   "file": "Minova/Minova_anims/Victory.glb",
+   "face": true,
+   "duration": 4.3333,
+   "loop": false,
+   "bytes": 125752
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Minova/Minova_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.6667,
+   "loop": true,
+   "bytes": 58496
+  },
+  {
+   "name": "Walk",
+   "file": "Minova/Minova_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 81032
+  },
+  {
+   "name": "timeline",
+   "file": "Minova/Minova_anims/timeline_.glb",
+   "face": true,
+   "duration": 5.1667,
+   "loop": false,
+   "bytes": 225736
+  },
+  {
+   "name": "jinzhan01_timeline",
+   "file": "Minova/Minova_anims/jinzhan01_timeline.glb",
+   "face": false,
+   "duration": 5.1667,
+   "loop": false,
+   "bytes": 29320
+  },
+  {
+   "name": "jinzhan02_timeline",
+   "file": "Minova/Minova_anims/jinzhan02_timeline.glb",
+   "face": false,
+   "duration": 5.1667,
+   "loop": false,
+   "bytes": 27260
+  },
+  {
+   "name": "jinzhan03_timeline",
+   "file": "Minova/Minova_anims/jinzhan03_timeline.glb",
+   "face": false,
+   "duration": 5.1667,
+   "loop": false,
+   "bytes": 15124
+  },
+  {
+   "name": "jinzhanhuifeng01_timeline",
+   "file": "Minova/Minova_anims/jinzhanhuifeng01_timeline.glb",
+   "face": false,
+   "duration": 8.6667,
+   "loop": false,
+   "bytes": 35596
+  },
+  {
+   "name": "jinzhanhuifeng02_timeline",
+   "file": "Minova/Minova_anims/jinzhanhuifeng02_timeline.glb",
+   "face": false,
+   "duration": 8.6667,
+   "loop": false,
+   "bytes": 29976
+  },
+  {
+   "name": "jinzhanhuifeng03_timeline",
+   "file": "Minova/Minova_anims/jinzhanhuifeng03_timeline.glb",
+   "face": false,
+   "duration": 8.6667,
+   "loop": false,
+   "bytes": 14552
+  },
+  {
+   "name": "yuancheng01_timeline",
+   "file": "Minova/Minova_anims/yuancheng01_timeline.glb",
+   "face": false,
+   "duration": 5.1667,
+   "loop": false,
+   "bytes": 27196
+  },
+  {
+   "name": "yuancheng02_timeline",
+   "file": "Minova/Minova_anims/yuancheng02_timeline.glb",
+   "face": false,
+   "duration": 5.1667,
+   "loop": false,
+   "bytes": 15548
+  },
+  {
+   "name": "yuanchenghuifeng01_timeline",
+   "file": "Minova/Minova_anims/yuanchenghuifeng01_timeline.glb",
+   "face": false,
+   "duration": 8.6667,
+   "loop": false,
+   "bytes": 35104
+  },
+  {
+   "name": "yuanchenghuifeng02_timeline",
+   "file": "Minova/Minova_anims/yuanchenghuifeng02_timeline.glb",
+   "face": false,
+   "duration": 8.6667,
+   "loop": false,
+   "bytes": 15204
+  }
+ ]
+}

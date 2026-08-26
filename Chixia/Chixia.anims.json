@@ -1,0 +1,357 @@
+{
+ "id": "14101",
+ "clips": [
+  {
+   "name": "Attack_1",
+   "file": "Chixia/Chixia_anims/Attack_1.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 143664
+  },
+  {
+   "name": "Attack_2",
+   "file": "Chixia/Chixia_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.4333,
+   "loop": false,
+   "bytes": 166588
+  },
+  {
+   "name": "Attack_2_2",
+   "file": "Chixia/Chixia_anims/Attack_2_2.glb",
+   "face": false,
+   "duration": 1.7667,
+   "loop": true,
+   "bytes": 283280
+  },
+  {
+   "name": "Attack_3",
+   "file": "Chixia/Chixia_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.4333,
+   "loop": false,
+   "bytes": 176008
+  },
+  {
+   "name": "Attack_4",
+   "file": "Chixia/Chixia_anims/Attack_4.glb",
+   "face": false,
+   "duration": 1.7,
+   "loop": false,
+   "bytes": 217864
+  },
+  {
+   "name": "Attack_A",
+   "file": "Chixia/Chixia_anims/Attack_A.glb",
+   "face": false,
+   "duration": 2.5667,
+   "loop": false,
+   "bytes": 315416
+  },
+  {
+   "name": "Attack_B",
+   "file": "Chixia/Chixia_anims/Attack_B.glb",
+   "face": false,
+   "duration": 2.2667,
+   "loop": false,
+   "bytes": 264608
+  },
+  {
+   "name": "Dash",
+   "file": "Chixia/Chixia_anims/Dash.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 125560
+  },
+  {
+   "name": "Daze",
+   "file": "Chixia/Chixia_anims/Daze.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 105200
+  },
+  {
+   "name": "Die",
+   "file": "Chixia/Chixia_anims/Die.glb",
+   "face": false,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 191564
+  },
+  {
+   "name": "Dodge",
+   "file": "Chixia/Chixia_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 122068
+  },
+  {
+   "name": "HurtA1",
+   "file": "Chixia/Chixia_anims/HurtA1.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 129964
+  },
+  {
+   "name": "HurtA2",
+   "file": "Chixia/Chixia_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 114940
+  },
+  {
+   "name": "HurtB",
+   "file": "Chixia/Chixia_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": false,
+   "bytes": 162192
+  },
+  {
+   "name": "Idle",
+   "file": "Chixia/Chixia_anims/Idle.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 91928
+  },
+  {
+   "name": "Main_Skill_SpurtFire_1_Start",
+   "file": "Chixia/Chixia_anims/Main_Skill_SpurtFire_1_Start.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 141748
+  },
+  {
+   "name": "Main_Skill_SpurtFire_2_Loop",
+   "file": "Chixia/Chixia_anims/Main_Skill_SpurtFire_2_Loop.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 215932
+  },
+  {
+   "name": "Main_Skill_SpurtFire_3_End",
+   "file": "Chixia/Chixia_anims/Main_Skill_SpurtFire_3_End.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 141652
+  },
+  {
+   "name": "Out01",
+   "file": "Chixia/Chixia_anims/Out01.glb",
+   "face": false,
+   "duration": 1.8,
+   "loop": false,
+   "bytes": 207876
+  },
+  {
+   "name": "Ready",
+   "file": "Chixia/Chixia_anims/Ready.glb",
+   "face": true,
+   "duration": 6.0,
+   "loop": false,
+   "bytes": 271448
+  },
+  {
+   "name": "Ready_Loop",
+   "file": "Chixia/Chixia_anims/Ready_Loop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 91680
+  },
+  {
+   "name": "Run",
+   "file": "Chixia/Chixia_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 119076
+  },
+  {
+   "name": "Rush_Stop",
+   "file": "Chixia/Chixia_anims/Rush_Stop.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 140768
+  },
+  {
+   "name": "Summon_2_Attack_1",
+   "file": "Chixia/Chixia_anims/Summon_2_Attack_1.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 11540
+  },
+  {
+   "name": "Summon_2_Attack_2",
+   "file": "Chixia/Chixia_anims/Summon_2_Attack_2.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 11260
+  },
+  {
+   "name": "Summon_2_Attack_3",
+   "file": "Chixia/Chixia_anims/Summon_2_Attack_3.glb",
+   "face": false,
+   "duration": 2.0667,
+   "loop": false,
+   "bytes": 15316
+  },
+  {
+   "name": "Summon_2_Attack_Strengthen",
+   "file": "Chixia/Chixia_anims/Summon_2_Attack_Strengthen.glb",
+   "face": false,
+   "duration": 3.6667,
+   "loop": false,
+   "bytes": 27068
+  },
+  {
+   "name": "Summon_2_Born",
+   "file": "Chixia/Chixia_anims/Summon_2_Born.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 8628
+  },
+  {
+   "name": "Summon_2_Dash",
+   "file": "Chixia/Chixia_anims/Summon_2_Dash.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 11168
+  },
+  {
+   "name": "Summon_2_Idle",
+   "file": "Chixia/Chixia_anims/Summon_2_Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 6164
+  },
+  {
+   "name": "Summon_2_Out",
+   "file": "Chixia/Chixia_anims/Summon_2_Out.glb",
+   "face": false,
+   "duration": 1.8333,
+   "loop": false,
+   "bytes": 7752
+  },
+  {
+   "name": "Support_Skill_Summon_1_Start",
+   "file": "Chixia/Chixia_anims/Support_Skill_Summon_1_Start.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 166616
+  },
+  {
+   "name": "Support_Skill_Summon_2_Loop",
+   "file": "Chixia/Chixia_anims/Support_Skill_Summon_2_Loop.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 223112
+  },
+  {
+   "name": "Support_Skill_Summon_3_End",
+   "file": "Chixia/Chixia_anims/Support_Skill_Summon_3_End.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 136820
+  },
+  {
+   "name": "Timeline",
+   "file": "Chixia/Chixia_anims/Timeline.glb",
+   "face": true,
+   "duration": 4.4167,
+   "loop": false,
+   "bytes": 313036
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Chixia/Chixia_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 4.2,
+   "loop": false,
+   "bytes": 357412
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Chixia/Chixia_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 1.9,
+   "loop": false,
+   "bytes": 229848
+  },
+  {
+   "name": "Victory",
+   "file": "Chixia/Chixia_anims/Victory.glb",
+   "face": true,
+   "duration": 6.8333,
+   "loop": false,
+   "bytes": 220752
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Chixia/Chixia_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 96832
+  },
+  {
+   "name": "Walk",
+   "file": "Chixia/Chixia_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 110508
+  },
+  {
+   "name": "Walk_Backward",
+   "file": "Chixia/Chixia_anims/Walk_Backward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 69500
+  },
+  {
+   "name": "Walk_Forward",
+   "file": "Chixia/Chixia_anims/Walk_Forward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 69064
+  },
+  {
+   "name": "Walk_Left",
+   "file": "Chixia/Chixia_anims/Walk_Left.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 67804
+  },
+  {
+   "name": "Walk_Right",
+   "file": "Chixia/Chixia_anims/Walk_Right.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 67840
+  }
+ ]
+}

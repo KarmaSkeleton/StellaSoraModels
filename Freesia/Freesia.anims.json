@@ -1,0 +1,421 @@
+{
+ "id": "12501",
+ "clips": [
+  {
+   "name": "Attack_1",
+   "file": "Freesia/Freesia_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 141056
+  },
+  {
+   "name": "Attack_2",
+   "file": "Freesia/Freesia_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 132636
+  },
+  {
+   "name": "Attack_3",
+   "file": "Freesia/Freesia_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": false,
+   "bytes": 151356
+  },
+  {
+   "name": "Attack_4",
+   "file": "Freesia/Freesia_anims/Attack_4.glb",
+   "face": false,
+   "duration": 3.1667,
+   "loop": false,
+   "bytes": 167352
+  },
+  {
+   "name": "Attack_5",
+   "file": "Freesia/Freesia_anims/Attack_5.glb",
+   "face": false,
+   "duration": 2.5,
+   "loop": false,
+   "bytes": 175224
+  },
+  {
+   "name": "Attack_Rage_1",
+   "file": "Freesia/Freesia_anims/Attack_Rage_1.glb",
+   "face": false,
+   "duration": 1.9,
+   "loop": false,
+   "bytes": 194176
+  },
+  {
+   "name": "Attack_Rage_2",
+   "file": "Freesia/Freesia_anims/Attack_Rage_2.glb",
+   "face": false,
+   "duration": 2.1,
+   "loop": false,
+   "bytes": 146884
+  },
+  {
+   "name": "Attack_Rage_3",
+   "file": "Freesia/Freesia_anims/Attack_Rage_3.glb",
+   "face": false,
+   "duration": 3.9,
+   "loop": false,
+   "bytes": 228516
+  },
+  {
+   "name": "Daze",
+   "file": "Freesia/Freesia_anims/Daze.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 66996
+  },
+  {
+   "name": "Daze_Rage",
+   "file": "Freesia/Freesia_anims/Daze_Rage.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 67372
+  },
+  {
+   "name": "Die",
+   "file": "Freesia/Freesia_anims/Die.glb",
+   "face": false,
+   "duration": 2.5333,
+   "loop": false,
+   "bytes": 197440
+  },
+  {
+   "name": "Die_Rage",
+   "file": "Freesia/Freesia_anims/Die_Rage.glb",
+   "face": true,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 185384
+  },
+  {
+   "name": "Dodge",
+   "file": "Freesia/Freesia_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 100284
+  },
+  {
+   "name": "Dodge_Rage",
+   "file": "Freesia/Freesia_anims/Dodge_Rage.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 132252
+  },
+  {
+   "name": "Dodge_Rage_Normal",
+   "file": "Freesia/Freesia_anims/Dodge_Rage_Normal.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 110684
+  },
+  {
+   "name": "HurtA1",
+   "file": "Freesia/Freesia_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 85984
+  },
+  {
+   "name": "HurtA1_Rage",
+   "file": "Freesia/Freesia_anims/HurtA1_Rage.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 112692
+  },
+  {
+   "name": "HurtA2",
+   "file": "Freesia/Freesia_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 108108
+  },
+  {
+   "name": "HurtA2_Rage",
+   "file": "Freesia/Freesia_anims/HurtA2_Rage.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 108764
+  },
+  {
+   "name": "HurtB",
+   "file": "Freesia/Freesia_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 114196
+  },
+  {
+   "name": "HurtB_Rage",
+   "file": "Freesia/Freesia_anims/HurtB_Rage.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 123520
+  },
+  {
+   "name": "Idle",
+   "file": "Freesia/Freesia_anims/Idle.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": true,
+   "bytes": 58880
+  },
+  {
+   "name": "Idle_Rage",
+   "file": "Freesia/Freesia_anims/Idle_Rage.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": true,
+   "bytes": 76000
+  },
+  {
+   "name": "Main_Skill_Charge_1_Start",
+   "file": "Freesia/Freesia_anims/Main_Skill_Charge_1_Start.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 90084
+  },
+  {
+   "name": "Main_Skill_Charge_1_Start_Rage",
+   "file": "Freesia/Freesia_anims/Main_Skill_Charge_1_Start_Rage.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 116972
+  },
+  {
+   "name": "Main_Skill_Charge_2_Loop_Idle",
+   "file": "Freesia/Freesia_anims/Main_Skill_Charge_2_Loop_Idle.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": true,
+   "bytes": 74492
+  },
+  {
+   "name": "Main_Skill_Charge_2_Loop_Run",
+   "file": "Freesia/Freesia_anims/Main_Skill_Charge_2_Loop_Run.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": true,
+   "bytes": 98736
+  },
+  {
+   "name": "Main_Skill_P02_WhirlWind_1_Start",
+   "file": "Freesia/Freesia_anims/Main_Skill_P02_WhirlWind_1_Start.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 112836
+  },
+  {
+   "name": "Main_Skill_P02_WhirlWind_1_Start_Rage",
+   "file": "Freesia/Freesia_anims/Main_Skill_P02_WhirlWind_1_Start_Rage.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 117056
+  },
+  {
+   "name": "Main_Skill_WhirlWind_1_Start",
+   "file": "Freesia/Freesia_anims/Main_Skill_WhirlWind_1_Start.glb",
+   "face": false,
+   "duration": 0.2,
+   "loop": false,
+   "bytes": 57276
+  },
+  {
+   "name": "Main_Skill_WhirlWind_2_Loop",
+   "file": "Freesia/Freesia_anims/Main_Skill_WhirlWind_2_Loop.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 88548
+  },
+  {
+   "name": "Main_Skill_WhirlWind_3_End",
+   "file": "Freesia/Freesia_anims/Main_Skill_WhirlWind_3_End.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 138720
+  },
+  {
+   "name": "Main_Skill_WhirlWind_4_End_Hurt",
+   "file": "Freesia/Freesia_anims/Main_Skill_WhirlWind_4_End_Hurt.glb",
+   "face": false,
+   "duration": 2.6667,
+   "loop": false,
+   "bytes": 171788
+  },
+  {
+   "name": "Out01",
+   "file": "Freesia/Freesia_anims/Out01.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 82744
+  },
+  {
+   "name": "Rage_Out",
+   "file": "Freesia/Freesia_anims/Rage_Out.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 106816
+  },
+  {
+   "name": "Ready",
+   "file": "Freesia/Freesia_anims/Ready.glb",
+   "face": true,
+   "duration": 4.4,
+   "loop": false,
+   "bytes": 194292
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Freesia/Freesia_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.8667,
+   "loop": true,
+   "bytes": 66588
+  },
+  {
+   "name": "Run",
+   "file": "Freesia/Freesia_anims/Run.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": true,
+   "bytes": 96216
+  },
+  {
+   "name": "Run_Rage",
+   "file": "Freesia/Freesia_anims/Run_Rage.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": true,
+   "bytes": 93896
+  },
+  {
+   "name": "Rush",
+   "file": "Freesia/Freesia_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 95916
+  },
+  {
+   "name": "RushStop",
+   "file": "Freesia/Freesia_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 97796
+  },
+  {
+   "name": "RushStop_Rage_Normal",
+   "file": "Freesia/Freesia_anims/RushStop_Rage_Normal.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 99280
+  },
+  {
+   "name": "Rush_Rage",
+   "file": "Freesia/Freesia_anims/Rush_Rage.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 84100
+  },
+  {
+   "name": "Support_Skill_IceFlower",
+   "file": "Freesia/Freesia_anims/Support_Skill_IceFlower.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 136356
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Freesia/Freesia_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 314980
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Freesia/Freesia_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 3.8,
+   "loop": false,
+   "bytes": 247156
+  },
+  {
+   "name": "Victory",
+   "file": "Freesia/Freesia_anims/Victory.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": false,
+   "bytes": 136728
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Freesia/Freesia_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 61664
+  },
+  {
+   "name": "Walk",
+   "file": "Freesia/Freesia_anims/Walk.glb",
+   "face": false,
+   "duration": 1.1333,
+   "loop": true,
+   "bytes": 85680
+  },
+  {
+   "name": "Walk_Rage",
+   "file": "Freesia/Freesia_anims/Walk_Rage.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": true,
+   "bytes": 85744
+  },
+  {
+   "name": "timeline",
+   "file": "Freesia/Freesia_anims/timeline.glb",
+   "face": true,
+   "duration": 4.5,
+   "loop": false,
+   "bytes": 162548
+  },
+  {
+   "name": "timeline_cut",
+   "file": "Freesia/Freesia_anims/timeline_cut.glb",
+   "face": true,
+   "duration": 2.6833,
+   "loop": false,
+   "bytes": 160320
+  }
+ ]
+}

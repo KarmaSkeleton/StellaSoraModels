@@ -1,0 +1,261 @@
+{
+ "id": "15701",
+ "clips": [
+  {
+   "name": "15701111_FishOverlord_JumpAtk",
+   "file": "Karin/Karin_anims/15701111_FishOverlord_JumpAtk.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 764
+  },
+  {
+   "name": "Aim",
+   "file": "Karin/Karin_anims/Aim.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 90300
+  },
+  {
+   "name": "Dazed",
+   "file": "Karin/Karin_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 66768
+  },
+  {
+   "name": "Die",
+   "file": "Karin/Karin_anims/Die.glb",
+   "face": false,
+   "duration": 2.5333,
+   "loop": false,
+   "bytes": 533940
+  },
+  {
+   "name": "Dodge",
+   "file": "Karin/Karin_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 109132
+  },
+  {
+   "name": "HurtA1",
+   "file": "Karin/Karin_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6333,
+   "loop": false,
+   "bytes": 94648
+  },
+  {
+   "name": "HurtA2",
+   "file": "Karin/Karin_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 86952
+  },
+  {
+   "name": "HurtB",
+   "file": "Karin/Karin_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 124604
+  },
+  {
+   "name": "Idle",
+   "file": "Karin/Karin_anims/Idle.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 91208
+  },
+  {
+   "name": "NrmAtk",
+   "file": "Karin/Karin_anims/NrmAtk.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 127660
+  },
+  {
+   "name": "NrmAtk_2",
+   "file": "Karin/Karin_anims/NrmAtk_2.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 124048
+  },
+  {
+   "name": "NrmAtk_P3",
+   "file": "Karin/Karin_anims/NrmAtk_P3.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 115692
+  },
+  {
+   "name": "NrmAtk_SuoLian",
+   "file": "Karin/Karin_anims/NrmAtk_SuoLian.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 107352
+  },
+  {
+   "name": "Out01",
+   "file": "Karin/Karin_anims/Out01.glb",
+   "face": false,
+   "duration": 1.2333,
+   "loop": false,
+   "bytes": 107500
+  },
+  {
+   "name": "Ready",
+   "file": "Karin/Karin_anims/Ready.glb",
+   "face": true,
+   "duration": 5.55,
+   "loop": false,
+   "bytes": 207936
+  },
+  {
+   "name": "Ready_Loop",
+   "file": "Karin/Karin_anims/Ready_Loop.glb",
+   "face": true,
+   "duration": 3.1167,
+   "loop": true,
+   "bytes": 71816
+  },
+  {
+   "name": "Run",
+   "file": "Karin/Karin_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 87180
+  },
+  {
+   "name": "Rush",
+   "file": "Karin/Karin_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 69528
+  },
+  {
+   "name": "RushStop",
+   "file": "Karin/Karin_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 106040
+  },
+  {
+   "name": "Skill_Main_Base",
+   "file": "Karin/Karin_anims/Skill_Main_Base.glb",
+   "face": false,
+   "duration": 2.1333,
+   "loop": false,
+   "bytes": 211996
+  },
+  {
+   "name": "Skill_Sup_Base",
+   "file": "Karin/Karin_anims/Skill_Sup_Base.glb",
+   "face": false,
+   "duration": 6.0,
+   "loop": false,
+   "bytes": 651568
+  },
+  {
+   "name": "Timeline",
+   "file": "Karin/Karin_anims/Timeline.glb",
+   "face": true,
+   "duration": 5.5,
+   "loop": false,
+   "bytes": 385356
+  },
+  {
+   "name": "Timeline_Yubawang",
+   "file": "Karin/Karin_anims/Timeline_Yubawang.glb",
+   "face": false,
+   "duration": 5.5,
+   "loop": false,
+   "bytes": 26696
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Karin/Karin_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 6.8,
+   "loop": false,
+   "bytes": 354588
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Karin/Karin_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 5.3,
+   "loop": false,
+   "bytes": 317744
+  },
+  {
+   "name": "Victory",
+   "file": "Karin/Karin_anims/Victory.glb",
+   "face": true,
+   "duration": 3.9667,
+   "loop": false,
+   "bytes": 140208
+  },
+  {
+   "name": "Victory_Loop",
+   "file": "Karin/Karin_anims/Victory_Loop.glb",
+   "face": true,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 55204
+  },
+  {
+   "name": "Walk",
+   "file": "Karin/Karin_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 72956
+  },
+  {
+   "name": "Walk_Backward",
+   "file": "Karin/Karin_anims/Walk_Backward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 68292
+  },
+  {
+   "name": "Walk_Forward",
+   "file": "Karin/Karin_anims/Walk_Forward.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 68536
+  },
+  {
+   "name": "Walk_Left",
+   "file": "Karin/Karin_anims/Walk_Left.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 68268
+  },
+  {
+   "name": "Walk_Right",
+   "file": "Karin/Karin_anims/Walk_Right.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": true,
+   "bytes": 68516
+  }
+ ]
+}

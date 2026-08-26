@@ -1,0 +1,229 @@
+{
+ "id": "15901",
+ "clips": [
+  {
+   "name": "Aim",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Aim.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 60504
+  },
+  {
+   "name": "Attack",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Attack.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": true,
+   "bytes": 72340
+  },
+  {
+   "name": "Daze",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Daze.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 46856
+  },
+  {
+   "name": "Die",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Die.glb",
+   "face": false,
+   "duration": 1.8667,
+   "loop": false,
+   "bytes": 130236
+  },
+  {
+   "name": "Dodge",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 103068
+  },
+  {
+   "name": "HurtA1",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 89208
+  },
+  {
+   "name": "HurtA2",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 77504
+  },
+  {
+   "name": "HurtB",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/HurtB.glb",
+   "face": false,
+   "duration": 0.6333,
+   "loop": false,
+   "bytes": 79824
+  },
+  {
+   "name": "Idle",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 61256
+  },
+  {
+   "name": "Out01",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Out01.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 99644
+  },
+  {
+   "name": "Ready",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Ready.glb",
+   "face": true,
+   "duration": 5.85,
+   "loop": false,
+   "bytes": 180484
+  },
+  {
+   "name": "Ready_Loop",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Ready_Loop.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 69148
+  },
+  {
+   "name": "Reload",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Reload.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 106212
+  },
+  {
+   "name": "Run",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Run.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 66892
+  },
+  {
+   "name": "Rush",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Rush.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": true,
+   "bytes": 68172
+  },
+  {
+   "name": "RushStop",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/RushStop.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": false,
+   "bytes": 79616
+  },
+  {
+   "name": "Skill_Main",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Skill_Main.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 124108
+  },
+  {
+   "name": "Skill_Sup",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Skill_Sup.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 160032
+  },
+  {
+   "name": "Timeline",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Timeline.glb",
+   "face": true,
+   "duration": 4.8,
+   "loop": false,
+   "bytes": 194444
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 2.7333,
+   "loop": false,
+   "bytes": 167488
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 144248
+  },
+  {
+   "name": "Victory",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Victory.glb",
+   "face": true,
+   "duration": 3.6667,
+   "loop": false,
+   "bytes": 124676
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.1667,
+   "loop": true,
+   "bytes": 63980
+  },
+  {
+   "name": "Walk",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/Walk.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 66040
+  },
+  {
+   "name": "WalkBack",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/WalkBack.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 68108
+  },
+  {
+   "name": "WalkForward",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/WalkForward.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 69024
+  },
+  {
+   "name": "WalkLeft",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/WalkLeft.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 67396
+  },
+  {
+   "name": "WalkRight",
+   "file": "Springseek_Coronis/Springseek_Coronis_anims/WalkRight.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 66128
+  }
+ ]
+}

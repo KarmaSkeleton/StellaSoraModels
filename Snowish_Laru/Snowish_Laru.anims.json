@@ -1,0 +1,669 @@
+{
+ "id": "15801",
+ "clips": [
+  {
+   "name": "Attack",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Attack.glb",
+   "face": false,
+   "duration": 4.3333,
+   "loop": false,
+   "bytes": 155292
+  },
+  {
+   "name": "Attack_1",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 160284
+  },
+  {
+   "name": "Attack_2",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.2667,
+   "loop": false,
+   "bytes": 176176
+  },
+  {
+   "name": "Attack_3",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 183036
+  },
+  {
+   "name": "Attack_4",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Attack_4.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 156012
+  },
+  {
+   "name": "Attack_5",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Attack_5.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 186500
+  },
+  {
+   "name": "Dazed",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 93512
+  },
+  {
+   "name": "Die",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Die.glb",
+   "face": false,
+   "duration": 1.6333,
+   "loop": false,
+   "bytes": 160788
+  },
+  {
+   "name": "Dodge",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 100036
+  },
+  {
+   "name": "HurtA1",
+   "file": "Snowish_Laru/Snowish_Laru_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 126644
+  },
+  {
+   "name": "HurtA2",
+   "file": "Snowish_Laru/Snowish_Laru_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 99760
+  },
+  {
+   "name": "HurtB",
+   "file": "Snowish_Laru/Snowish_Laru_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 116000
+  },
+  {
+   "name": "Idle",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Idle.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 125016
+  },
+  {
+   "name": "Main_Skill_Lash",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Main_Skill_Lash.glb",
+   "face": false,
+   "duration": 3.4,
+   "loop": false,
+   "bytes": 263232
+  },
+  {
+   "name": "Main_Skill_Lash_P03",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Main_Skill_Lash_P03.glb",
+   "face": false,
+   "duration": 3.25,
+   "loop": false,
+   "bytes": 381888
+  },
+  {
+   "name": "Out01",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Out01.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 134684
+  },
+  {
+   "name": "Ready",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Ready.glb",
+   "face": true,
+   "duration": 4.0333,
+   "loop": false,
+   "bytes": 195048
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Snowish_Laru/Snowish_Laru_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 2.2,
+   "loop": true,
+   "bytes": 67164
+  },
+  {
+   "name": "ReadyLoop_Weapon",
+   "file": "Snowish_Laru/Snowish_Laru_anims/ReadyLoop_Weapon.glb",
+   "face": false,
+   "duration": 2.2,
+   "loop": false,
+   "bytes": 756
+  },
+  {
+   "name": "Ready_Weapon",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Ready_Weapon.glb",
+   "face": false,
+   "duration": 4.0333,
+   "loop": false,
+   "bytes": 752
+  },
+  {
+   "name": "Run",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 105124
+  },
+  {
+   "name": "Rush",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 113956
+  },
+  {
+   "name": "RushStop",
+   "file": "Snowish_Laru/Snowish_Laru_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 136656
+  },
+  {
+   "name": "Summon_Cannon_Main",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Cannon_Main.glb",
+   "face": false,
+   "duration": 3.5,
+   "loop": false,
+   "bytes": 15520
+  },
+  {
+   "name": "Summon_Cannon_Main_Born",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Cannon_Main_Born.glb",
+   "face": false,
+   "duration": 0.5,
+   "loop": false,
+   "bytes": 8960
+  },
+  {
+   "name": "Summon_Cannon_Main_Idle",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Cannon_Main_Idle.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 1972
+  },
+  {
+   "name": "Summon_Cannon_Main_Shoot",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Cannon_Main_Shoot.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 10464
+  },
+  {
+   "name": "Summon_Cannon_Support_Shoot",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Cannon_Support_Shoot.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 9192
+  },
+  {
+   "name": "Summon_Hero_Attack",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Hero_Attack.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 5976
+  },
+  {
+   "name": "Summon_Hero_Bron",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Hero_Bron.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 3404
+  },
+  {
+   "name": "Summon_Hero_Die",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Hero_Die.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 6128
+  },
+  {
+   "name": "Summon_Hero_Idle",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Hero_Idle.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": true,
+   "bytes": 2796
+  },
+  {
+   "name": "Summon_Hero_LevelDown",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Hero_LevelDown.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 4192
+  },
+  {
+   "name": "Summon_Hero_Run",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Hero_Run.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": true,
+   "bytes": 3456
+  },
+  {
+   "name": "Summon_Hero_Skill",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Hero_Skill.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 7128
+  },
+  {
+   "name": "Summon_Hero_Skill_Strengthen",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Hero_Skill_Strengthen.glb",
+   "face": false,
+   "duration": 2.2667,
+   "loop": false,
+   "bytes": 8648
+  },
+  {
+   "name": "Summon_Laru_Aim",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Laru_Aim.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 71576
+  },
+  {
+   "name": "Summon_Laru_Attack",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Laru_Attack.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 82604
+  },
+  {
+   "name": "Summon_Laru_Run",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Laru_Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 83248
+  },
+  {
+   "name": "Summon_Laru_Skill",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Laru_Skill.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 89328
+  },
+  {
+   "name": "Summon_Laru_WalkBackward",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Laru_WalkBackward.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 63344
+  },
+  {
+   "name": "Summon_Laru_WalkForward",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Laru_WalkForward.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 63392
+  },
+  {
+   "name": "Summon_Laru_WalkLeft",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Laru_WalkLeft.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 63076
+  },
+  {
+   "name": "Summon_Laru_WalkRight",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Laru_WalkRight.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 63112
+  },
+  {
+   "name": "Summon_Queen_Attack_Cut",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Attack_Cut.glb",
+   "face": false,
+   "duration": 2.1333,
+   "loop": false,
+   "bytes": 20844
+  },
+  {
+   "name": "Summon_Queen_Attack_Shoot",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Attack_Shoot.glb",
+   "face": false,
+   "duration": 2.0667,
+   "loop": false,
+   "bytes": 13604
+  },
+  {
+   "name": "Summon_Queen_Attack_Shoot_End",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Attack_Shoot_End.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 10048
+  },
+  {
+   "name": "Summon_Queen_Attack_Shoot_Loop",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Attack_Shoot_Loop.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 8648
+  },
+  {
+   "name": "Summon_Queen_Attack_Shoot_Start",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Attack_Shoot_Start.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 10328
+  },
+  {
+   "name": "Summon_Queen_Bron",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Bron.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 14420
+  },
+  {
+   "name": "Summon_Queen_Idle",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Idle.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": true,
+   "bytes": 7996
+  },
+  {
+   "name": "Summon_Queen_Out",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Out.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 11760
+  },
+  {
+   "name": "Summon_Queen_Run",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Run.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": true,
+   "bytes": 11936
+  },
+  {
+   "name": "Summon_Queen_Skill_End",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Skill_End.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 10800
+  },
+  {
+   "name": "Summon_Queen_Skill_Loop",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Skill_Loop.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": false,
+   "bytes": 9104
+  },
+  {
+   "name": "Summon_Queen_Skill_Star",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Skill_Star.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": false,
+   "bytes": 14708
+  },
+  {
+   "name": "Summon_Queen_Ultra_Together",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Queen_Ultra_Together.glb",
+   "face": false,
+   "duration": 2.2,
+   "loop": false,
+   "bytes": 17068
+  },
+  {
+   "name": "Summon_Soldier_Attack",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Soldier_Attack.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 17812
+  },
+  {
+   "name": "Summon_Soldier_Bron",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Soldier_Bron.glb",
+   "face": false,
+   "duration": 2.1333,
+   "loop": false,
+   "bytes": 21528
+  },
+  {
+   "name": "Summon_Soldier_Die",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Soldier_Die.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 13992
+  },
+  {
+   "name": "Summon_Soldier_Idle",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Soldier_Idle.glb",
+   "face": false,
+   "duration": 2.9333,
+   "loop": true,
+   "bytes": 10916
+  },
+  {
+   "name": "Summon_Soldier_LevelUp",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Soldier_LevelUp.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 12584
+  },
+  {
+   "name": "Summon_Soldier_Run",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Soldier_Run.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 11656
+  },
+  {
+   "name": "Summon_Soldier_Skill",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Soldier_Skill.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 18688
+  },
+  {
+   "name": "Summon_Soldier_Skill_Strengthen",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Summon_Soldier_Skill_Strengthen.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 19724
+  },
+  {
+   "name": "Support_Skill_Cannon_End",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Support_Skill_Cannon_End.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": false,
+   "bytes": 155344
+  },
+  {
+   "name": "Support_Skill_Cannon_Enter",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Support_Skill_Cannon_Enter.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 127812
+  },
+  {
+   "name": "Support_Skill_Cannon_Shoot",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Support_Skill_Cannon_Shoot.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 148076
+  },
+  {
+   "name": "Timeline",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Timeline.glb",
+   "face": true,
+   "duration": 5.4333,
+   "loop": false,
+   "bytes": 392624
+  },
+  {
+   "name": "Timeline_toylaru",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Timeline_toylaru.glb",
+   "face": false,
+   "duration": 5.4333,
+   "loop": false,
+   "bytes": 109456
+  },
+  {
+   "name": "Ultra_End",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Ultra_End.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 124312
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 2.8,
+   "loop": false,
+   "bytes": 187088
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 1.0333,
+   "loop": false,
+   "bytes": 97020
+  },
+  {
+   "name": "Victory",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Victory.glb",
+   "face": true,
+   "duration": 5.5833,
+   "loop": false,
+   "bytes": 234780
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Snowish_Laru/Snowish_Laru_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.2,
+   "loop": true,
+   "bytes": 65796
+  },
+  {
+   "name": "Walk",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 89820
+  },
+  {
+   "name": "Take 001",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Take_001.glb",
+   "face": false,
+   "duration": 0.4667,
+   "loop": false,
+   "bytes": 56560
+  },
+  {
+   "name": "Take 001",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Take_001_.glb",
+   "face": false,
+   "duration": 0.0333,
+   "loop": false,
+   "bytes": 1040
+  },
+  {
+   "name": "Take 001 (2)",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Take_001_2.glb",
+   "face": false,
+   "duration": 0.6333,
+   "loop": false,
+   "bytes": 60564
+  },
+  {
+   "name": "Take 001 (3)",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Take_001_3.glb",
+   "face": false,
+   "duration": 0.6333,
+   "loop": false,
+   "bytes": 58812
+  },
+  {
+   "name": "Take 001 (4)",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Take_001_4.glb",
+   "face": false,
+   "duration": 0.8667,
+   "loop": false,
+   "bytes": 62764
+  },
+  {
+   "name": "Take 001 (5)",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Take_001_5.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 94904
+  },
+  {
+   "name": "Take 001158_Timeline_ToyLaru",
+   "file": "Snowish_Laru/Snowish_Laru_anims/Take_001158_Timeline_ToyLaru.glb",
+   "face": false,
+   "duration": 5.4333,
+   "loop": false,
+   "bytes": 28524
+  }
+ ]
+}

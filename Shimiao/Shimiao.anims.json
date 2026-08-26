@@ -1,0 +1,389 @@
+{
+ "id": "11301",
+ "clips": [
+  {
+   "name": "Attack",
+   "file": "Shimiao/Shimiao_anims/Attack.glb",
+   "face": false,
+   "duration": 5.8333,
+   "loop": false,
+   "bytes": 127352
+  },
+  {
+   "name": "Attack_1",
+   "file": "Shimiao/Shimiao_anims/Attack_1.glb",
+   "face": false,
+   "duration": 2.2333,
+   "loop": false,
+   "bytes": 187784
+  },
+  {
+   "name": "Attack_2",
+   "file": "Shimiao/Shimiao_anims/Attack_2.glb",
+   "face": false,
+   "duration": 2.2,
+   "loop": false,
+   "bytes": 187444
+  },
+  {
+   "name": "Attack_3",
+   "file": "Shimiao/Shimiao_anims/Attack_3.glb",
+   "face": false,
+   "duration": 2.9667,
+   "loop": false,
+   "bytes": 199080
+  },
+  {
+   "name": "Attack_3_Ex",
+   "file": "Shimiao/Shimiao_anims/Attack_3_Ex.glb",
+   "face": false,
+   "duration": 3.3333,
+   "loop": false,
+   "bytes": 206588
+  },
+  {
+   "name": "B1_Skill_AzureSlash_S2",
+   "file": "Shimiao/Shimiao_anims/B1_Skill_AzureSlash_S2.glb",
+   "face": false,
+   "duration": 3.5667,
+   "loop": false,
+   "bytes": 102672
+  },
+  {
+   "name": "B2_Skill_Prepare",
+   "file": "Shimiao/Shimiao_anims/B2_Skill_Prepare.glb",
+   "face": false,
+   "duration": 1.7333,
+   "loop": false,
+   "bytes": 61260
+  },
+  {
+   "name": "Dazed",
+   "file": "Shimiao/Shimiao_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 62896
+  },
+  {
+   "name": "Die",
+   "file": "Shimiao/Shimiao_anims/Die.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 123476
+  },
+  {
+   "name": "Dodge",
+   "file": "Shimiao/Shimiao_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 101220
+  },
+  {
+   "name": "HurtA1",
+   "file": "Shimiao/Shimiao_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 112904
+  },
+  {
+   "name": "HurtA2",
+   "file": "Shimiao/Shimiao_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 114712
+  },
+  {
+   "name": "HurtB",
+   "file": "Shimiao/Shimiao_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 104068
+  },
+  {
+   "name": "Idle",
+   "file": "Shimiao/Shimiao_anims/Idle.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 63820
+  },
+  {
+   "name": "Out01",
+   "file": "Shimiao/Shimiao_anims/Out01.glb",
+   "face": false,
+   "duration": 1.5667,
+   "loop": false,
+   "bytes": 113184
+  },
+  {
+   "name": "Ready",
+   "file": "Shimiao/Shimiao_anims/Ready.glb",
+   "face": true,
+   "duration": 3.5667,
+   "loop": false,
+   "bytes": 162724
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Shimiao/Shimiao_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": true,
+   "bytes": 86960
+  },
+  {
+   "name": "Run",
+   "file": "Shimiao/Shimiao_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 98836
+  },
+  {
+   "name": "Rush",
+   "file": "Shimiao/Shimiao_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 98168
+  },
+  {
+   "name": "RushStop",
+   "file": "Shimiao/Shimiao_anims/RushStop.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 109116
+  },
+  {
+   "name": "Skill_Main_AzureSlash_S1",
+   "file": "Shimiao/Shimiao_anims/Skill_Main_AzureSlash_S1.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": true,
+   "bytes": 117676
+  },
+  {
+   "name": "Skill_Main_AzureSlash_S2_1",
+   "file": "Shimiao/Shimiao_anims/Skill_Main_AzureSlash_S2_1.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 120920
+  },
+  {
+   "name": "Skill_Main_AzureSlash_S2_2",
+   "file": "Shimiao/Shimiao_anims/Skill_Main_AzureSlash_S2_2.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": false,
+   "bytes": 138392
+  },
+  {
+   "name": "Skill_Main_AzureSlash_S2_P02",
+   "file": "Shimiao/Shimiao_anims/Skill_Main_AzureSlash_S2_P02.glb",
+   "face": false,
+   "duration": 3.1,
+   "loop": false,
+   "bytes": 170888
+  },
+  {
+   "name": "Skill_Support_Prepare",
+   "file": "Shimiao/Shimiao_anims/Skill_Support_Prepare.glb",
+   "face": false,
+   "duration": 1.8333,
+   "loop": false,
+   "bytes": 103952
+  },
+  {
+   "name": "Ultra_Attack",
+   "file": "Shimiao/Shimiao_anims/Ultra_Attack.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 68208
+  },
+  {
+   "name": "Ultra_AttackE1",
+   "file": "Shimiao/Shimiao_anims/Ultra_AttackE1.glb",
+   "face": false,
+   "duration": 1.6,
+   "loop": true,
+   "bytes": 67972
+  },
+  {
+   "name": "Ultra_AttackE2",
+   "file": "Shimiao/Shimiao_anims/Ultra_AttackE2.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 68388
+  },
+  {
+   "name": "Ultra_Dazed",
+   "file": "Shimiao/Shimiao_anims/Ultra_Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 64532
+  },
+  {
+   "name": "Ultra_Die",
+   "file": "Shimiao/Shimiao_anims/Ultra_Die.glb",
+   "face": false,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 150236
+  },
+  {
+   "name": "Ultra_Dodge",
+   "file": "Shimiao/Shimiao_anims/Ultra_Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 109444
+  },
+  {
+   "name": "Ultra_EndLand",
+   "file": "Shimiao/Shimiao_anims/Ultra_EndLand.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 99204
+  },
+  {
+   "name": "Ultra_HurtA1",
+   "file": "Shimiao/Shimiao_anims/Ultra_HurtA1.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 84656
+  },
+  {
+   "name": "Ultra_HurtA2",
+   "file": "Shimiao/Shimiao_anims/Ultra_HurtA2.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 92104
+  },
+  {
+   "name": "Ultra_HurtB",
+   "file": "Shimiao/Shimiao_anims/Ultra_HurtB.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 96628
+  },
+  {
+   "name": "Ultra_Idle",
+   "file": "Shimiao/Shimiao_anims/Ultra_Idle.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 68124
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Shimiao/Shimiao_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 2.9333,
+   "loop": false,
+   "bytes": 208300
+  },
+  {
+   "name": "Ultra_Run",
+   "file": "Shimiao/Shimiao_anims/Ultra_Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 69764
+  },
+  {
+   "name": "Ultra_Rush",
+   "file": "Shimiao/Shimiao_anims/Ultra_Rush.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 70808
+  },
+  {
+   "name": "Ultra_RushStop",
+   "file": "Shimiao/Shimiao_anims/Ultra_RushStop.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 84556
+  },
+  {
+   "name": "Ultra_Skill",
+   "file": "Shimiao/Shimiao_anims/Ultra_Skill.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": false,
+   "bytes": 140036
+  },
+  {
+   "name": "Ultra_Skill_S1",
+   "file": "Shimiao/Shimiao_anims/Ultra_Skill_S1.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 110104
+  },
+  {
+   "name": "Ultra_Skill_S1_1",
+   "file": "Shimiao/Shimiao_anims/Ultra_Skill_S1_1.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 110108
+  },
+  {
+   "name": "Ultra_Skill_S2",
+   "file": "Shimiao/Shimiao_anims/Ultra_Skill_S2.glb",
+   "face": false,
+   "duration": 2.2333,
+   "loop": false,
+   "bytes": 113896
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Shimiao/Shimiao_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 135488
+  },
+  {
+   "name": "Victory",
+   "file": "Shimiao/Shimiao_anims/Victory.glb",
+   "face": true,
+   "duration": 2.4333,
+   "loop": false,
+   "bytes": 133784
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Shimiao/Shimiao_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": true,
+   "bytes": 109656
+  },
+  {
+   "name": "Walk",
+   "file": "Shimiao/Shimiao_anims/Walk.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": true,
+   "bytes": 75608
+  }
+ ]
+}

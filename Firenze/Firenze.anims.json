@@ -1,0 +1,373 @@
+{
+ "id": "11001",
+ "clips": [
+  {
+   "name": "timeline_FS",
+   "file": "Firenze/Firenze_anims/timeline_FS.glb",
+   "face": false,
+   "duration": 2.7833,
+   "loop": false,
+   "bytes": 151444
+  },
+  {
+   "name": "Attack",
+   "file": "Firenze/Firenze_anims/Attack.glb",
+   "face": false,
+   "duration": 3.1667,
+   "loop": false,
+   "bytes": 265036
+  },
+  {
+   "name": "Attack_1",
+   "file": "Firenze/Firenze_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 121592
+  },
+  {
+   "name": "Attack_2",
+   "file": "Firenze/Firenze_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.2667,
+   "loop": true,
+   "bytes": 125120
+  },
+  {
+   "name": "Attack_3",
+   "file": "Firenze/Firenze_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.3,
+   "loop": true,
+   "bytes": 165860
+  },
+  {
+   "name": "Attack_4",
+   "file": "Firenze/Firenze_anims/Attack_4.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 189336
+  },
+  {
+   "name": "Attack_44",
+   "file": "Firenze/Firenze_anims/Attack_44.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 94988
+  },
+  {
+   "name": "Attack_test",
+   "file": "Firenze/Firenze_anims/Attack_test.glb",
+   "face": false,
+   "duration": 0.3,
+   "loop": false,
+   "bytes": 71940
+  },
+  {
+   "name": "ChongCi",
+   "file": "Firenze/Firenze_anims/ChongCi.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 176708
+  },
+  {
+   "name": "Dash",
+   "file": "Firenze/Firenze_anims/Dash.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 72380
+  },
+  {
+   "name": "DashStop",
+   "file": "Firenze/Firenze_anims/DashStop.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 89508
+  },
+  {
+   "name": "Dazed",
+   "file": "Firenze/Firenze_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": false,
+   "bytes": 67664
+  },
+  {
+   "name": "Die",
+   "file": "Firenze/Firenze_anims/Die.glb",
+   "face": false,
+   "duration": 2.8333,
+   "loop": false,
+   "bytes": 159832
+  },
+  {
+   "name": "Dodge",
+   "file": "Firenze/Firenze_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 126212
+  },
+  {
+   "name": "Hurt",
+   "file": "Firenze/Firenze_anims/Hurt.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 109960
+  },
+  {
+   "name": "Hurt1",
+   "file": "Firenze/Firenze_anims/Hurt1.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 98436
+  },
+  {
+   "name": "Hurt2",
+   "file": "Firenze/Firenze_anims/Hurt2.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": false,
+   "bytes": 92156
+  },
+  {
+   "name": "Idle",
+   "file": "Firenze/Firenze_anims/Idle.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 81652
+  },
+  {
+   "name": "Idle_FenShen_1",
+   "file": "Firenze/Firenze_anims/Idle_FenShen_1.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 75464
+  },
+  {
+   "name": "Idle_FenShen_2",
+   "file": "Firenze/Firenze_anims/Idle_FenShen_2.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 74428
+  },
+  {
+   "name": "Idle_FenShen_3",
+   "file": "Firenze/Firenze_anims/Idle_FenShen_3.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 74776
+  },
+  {
+   "name": "Idle_FenShen_4",
+   "file": "Firenze/Firenze_anims/Idle_FenShen_4.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 74240
+  },
+  {
+   "name": "Main_Skill_Base_SanLianZhan",
+   "file": "Firenze/Firenze_anims/Main_Skill_Base_SanLianZhan.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": false,
+   "bytes": 223252
+  },
+  {
+   "name": "Open",
+   "file": "Firenze/Firenze_anims/Open.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 100388
+  },
+  {
+   "name": "Out01",
+   "file": "Firenze/Firenze_anims/Out01.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 107448
+  },
+  {
+   "name": "Ready",
+   "file": "Firenze/Firenze_anims/Ready.glb",
+   "face": true,
+   "duration": 8.4333,
+   "loop": false,
+   "bytes": 167584
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Firenze/Firenze_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 2.1667,
+   "loop": true,
+   "bytes": 71632
+  },
+  {
+   "name": "Ready_Shadow01",
+   "file": "Firenze/Firenze_anims/Ready_Shadow01.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 69568
+  },
+  {
+   "name": "Ready_Shadow02",
+   "file": "Firenze/Firenze_anims/Ready_Shadow02.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 78168
+  },
+  {
+   "name": "Run",
+   "file": "Firenze/Firenze_anims/Run.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": true,
+   "bytes": 95348
+  },
+  {
+   "name": "Rush_1_Start",
+   "file": "Firenze/Firenze_anims/Rush_1_Start.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 115992
+  },
+  {
+   "name": "Rush_2_Loop",
+   "file": "Firenze/Firenze_anims/Rush_2_Loop.glb",
+   "face": false,
+   "duration": 2.1333,
+   "loop": true,
+   "bytes": 102968
+  },
+  {
+   "name": "Rush_3_Stop",
+   "file": "Firenze/Firenze_anims/Rush_3_Stop.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 95252
+  },
+  {
+   "name": "Support_Skill_Base_QuanZhang",
+   "file": "Firenze/Firenze_anims/Support_Skill_Base_QuanZhang.glb",
+   "face": false,
+   "duration": 3.1,
+   "loop": false,
+   "bytes": 143444
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Firenze/Firenze_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 6.5,
+   "loop": false,
+   "bytes": 281172
+  },
+  {
+   "name": "Ultra_NoTL_H6",
+   "file": "Firenze/Firenze_anims/Ultra_NoTL_H6.glb",
+   "face": false,
+   "duration": 7.0,
+   "loop": false,
+   "bytes": 291912
+  },
+  {
+   "name": "Ultra_Shadow",
+   "file": "Firenze/Firenze_anims/Ultra_Shadow.glb",
+   "face": false,
+   "duration": 1.8,
+   "loop": false,
+   "bytes": 138544
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Firenze/Firenze_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 5.2333,
+   "loop": false,
+   "bytes": 252484
+  },
+  {
+   "name": "Ultra_TL_H6",
+   "file": "Firenze/Firenze_anims/Ultra_TL_H6.glb",
+   "face": false,
+   "duration": 5.7333,
+   "loop": false,
+   "bytes": 263940
+  },
+  {
+   "name": "Victory",
+   "file": "Firenze/Firenze_anims/Victory.glb",
+   "face": true,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 126216
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Firenze/Firenze_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.2,
+   "loop": true,
+   "bytes": 77840
+  },
+  {
+   "name": "Walk",
+   "file": "Firenze/Firenze_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 80572
+  },
+  {
+   "name": "timeline",
+   "file": "Firenze/Firenze_anims/timeline.glb",
+   "face": true,
+   "duration": 4.5667,
+   "loop": false,
+   "bytes": 130384
+  },
+  {
+   "name": "Monster_Dead",
+   "file": "Firenze/Firenze_anims/Monster_Dead.glb",
+   "face": false,
+   "duration": 0.0667,
+   "loop": false,
+   "bytes": 34192
+  },
+  {
+   "name": "Take 001",
+   "file": "Firenze/Firenze_anims/Take_001.glb",
+   "face": false,
+   "duration": 4.5667,
+   "loop": false,
+   "bytes": 15996
+  },
+  {
+   "name": "Take 001",
+   "file": "Firenze/Firenze_anims/Take_001_.glb",
+   "face": false,
+   "duration": 4.5667,
+   "loop": false,
+   "bytes": 19812
+  }
+ ]
+}
