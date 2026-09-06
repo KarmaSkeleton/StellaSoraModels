@@ -7,7 +7,10 @@
    "face": true,
    "duration": 1.9,
    "loop": false,
-   "bytes": 164356
+   "bytes": 164356,
+   "hide": [
+    "tube"
+   ]
   },
   {
    "name": "Attack",
@@ -143,7 +146,10 @@
    "face": true,
    "duration": 5.5167,
    "loop": false,
-   "bytes": 198876
+   "bytes": 198876,
+   "hide": [
+    "tube"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -151,7 +157,10 @@
    "face": true,
    "duration": 3.2,
    "loop": true,
-   "bytes": 63720
+   "bytes": 63720,
+   "hide": [
+    "tube"
+   ]
   },
   {
    "name": "Run",
@@ -311,7 +320,10 @@
    "face": true,
    "duration": 4.8333,
    "loop": false,
-   "bytes": 161124
+   "bytes": 161124,
+   "show": [
+    "tube"
+   ]
   },
   {
    "name": "VictoryLoop",

@@ -87,7 +87,10 @@
    "face": true,
    "duration": 5.85,
    "loop": false,
-   "bytes": 180484
+   "bytes": 180484,
+   "show": [
+    "weapon3"
+   ]
   },
   {
    "name": "Ready_Loop",
@@ -151,7 +154,10 @@
    "face": true,
    "duration": 4.8,
    "loop": false,
-   "bytes": 194444
+   "bytes": 194444,
+   "hide": [
+    "weapon3"
+   ]
   },
   {
    "name": "Ultra_NoTL",
@@ -175,7 +181,11 @@
    "face": true,
    "duration": 3.6667,
    "loop": false,
-   "bytes": 124676
+   "bytes": 124676,
+   "hide": [
+    "weapon1",
+    "weapon3"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -183,7 +193,10 @@
    "face": true,
    "duration": 2.1667,
    "loop": true,
-   "bytes": 63980
+   "bytes": 63980,
+   "hide": [
+    "weapon1"
+   ]
   },
   {
    "name": "Walk",

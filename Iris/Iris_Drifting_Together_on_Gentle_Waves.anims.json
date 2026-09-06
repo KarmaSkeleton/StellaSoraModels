@@ -7,7 +7,13 @@
    "face": true,
    "duration": 4.2667,
    "loop": false,
-   "bytes": 176360
+   "bytes": 176360,
+   "show": [
+    "weapon1"
+   ],
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -15,7 +21,13 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 79520
+   "bytes": 79520,
+   "show": [
+    "weapon1"
+   ],
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "ReadytoLoop",
@@ -23,7 +35,10 @@
    "face": true,
    "duration": 2.0,
    "loop": false,
-   "bytes": 73088
+   "bytes": 73088,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Timeline",
@@ -31,7 +46,13 @@
    "face": true,
    "duration": 6.4333,
    "loop": false,
-   "bytes": 353524
+   "bytes": 353524,
+   "show": [
+    "weapon1"
+   ],
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Victory",
@@ -39,7 +60,10 @@
    "face": true,
    "duration": 4.4,
    "loop": false,
-   "bytes": 168752
+   "bytes": 168752,
+   "hide": [
+    "weapon1"
+   ]
   },
   {
    "name": "VictoryLoop",

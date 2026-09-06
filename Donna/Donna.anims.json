@@ -215,7 +215,10 @@
    "face": true,
    "duration": 4.5,
    "loop": false,
-   "bytes": 246128
+   "bytes": 246128,
+   "show": [
+    "face08_sp"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -223,7 +226,13 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 76072
+   "bytes": 76072,
+   "show": [
+    "face08_sp"
+   ],
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Run",
@@ -271,7 +280,14 @@
    "face": true,
    "duration": 2.1333,
    "loop": false,
-   "bytes": 151852
+   "bytes": 151852,
+   "show": [
+    "face08_sp"
+   ],
+   "hide": [
+    "weapon1",
+    "weapon2"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -279,7 +295,11 @@
    "face": true,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 65540
+   "bytes": 65540,
+   "hide": [
+    "weapon1",
+    "weapon2"
+   ]
   },
   {
    "name": "Walk",

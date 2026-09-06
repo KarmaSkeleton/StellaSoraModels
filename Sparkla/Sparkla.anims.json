@@ -7,7 +7,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 81888
+   "bytes": 81888,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Aim_Type_Gun",
@@ -15,7 +22,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 83036
+   "bytes": 83036,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Aim_Type_Gun_Fly",
@@ -23,7 +37,14 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 87240
+   "bytes": 87240,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Attack_1",
@@ -31,7 +52,14 @@
    "face": false,
    "duration": 0.7,
    "loop": false,
-   "bytes": 99644
+   "bytes": 99644,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Attack_2",
@@ -39,7 +67,14 @@
    "face": false,
    "duration": 0.7,
    "loop": false,
-   "bytes": 99844
+   "bytes": 99844,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Attack_3",
@@ -47,7 +82,14 @@
    "face": false,
    "duration": 0.7,
    "loop": false,
-   "bytes": 104808
+   "bytes": 104808,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Attack_Main_Skill_Type_Cannon",
@@ -55,7 +97,14 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 115148
+   "bytes": 115148,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Attack_Main_Skill_Type_Cannon_2",
@@ -63,7 +112,14 @@
    "face": false,
    "duration": 1.4333,
    "loop": true,
-   "bytes": 130560
+   "bytes": 130560,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Attack_Main_Skill_Type_Cannon_3",
@@ -71,7 +127,14 @@
    "face": false,
    "duration": 1.8667,
    "loop": true,
-   "bytes": 160320
+   "bytes": 160320,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Attack_Main_Skill_Type_Cannon_P03",
@@ -79,7 +142,14 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 177356
+   "bytes": 177356,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Attack_Main_Skill_Type_Cannon_P03",
@@ -87,7 +157,14 @@
    "face": false,
    "duration": 2.3333,
    "loop": false,
-   "bytes": 201164
+   "bytes": 201164,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Attack_Main_Skill_Type_Gun",
@@ -95,7 +172,14 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 114336
+   "bytes": 114336,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Attack_Main_Skill_Type_Gun_Fly",
@@ -103,7 +187,14 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 112476
+   "bytes": 112476,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Attack_Main_Skill_Type_Gun_P01",
@@ -111,7 +202,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 137312
+   "bytes": 137312,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Attack_Main_Skill_Type_Gun_P01_Fly",
@@ -119,7 +217,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 131328
+   "bytes": 131328,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Daze_Type_Cannon",
@@ -127,7 +232,14 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 91136
+   "bytes": 91136,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Daze_Type_Gun",
@@ -135,7 +247,14 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 92444
+   "bytes": 92444,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Daze_Type_Gun_Fly",
@@ -143,7 +262,14 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 95460
+   "bytes": 95460,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Dazed",
@@ -151,7 +277,14 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 102180
+   "bytes": 102180,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Die",
@@ -159,7 +292,14 @@
    "face": false,
    "duration": 3.0,
    "loop": false,
-   "bytes": 297336
+   "bytes": 297336,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Die_Type_Cannon",
@@ -167,7 +307,14 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 143380
+   "bytes": 143380,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Die_Type_Gun",
@@ -175,7 +322,14 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 145808
+   "bytes": 145808,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Die_Type_Gun_Fly",
@@ -183,7 +337,14 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 148648
+   "bytes": 148648,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Dodge",
@@ -191,7 +352,14 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 191628
+   "bytes": 191628,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Dodge_Type_Cannon",
@@ -199,7 +367,14 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 132708
+   "bytes": 132708,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Dodge_Type_Gun",
@@ -207,7 +382,14 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 136028
+   "bytes": 136028,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "HurtA1",
@@ -215,7 +397,14 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 120648
+   "bytes": 120648,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "HurtA2",
@@ -223,7 +412,14 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 118488
+   "bytes": 118488,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "HurtB",
@@ -231,7 +427,14 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 138652
+   "bytes": 138652,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Hurt_Type_Cannon",
@@ -239,7 +442,14 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 117164
+   "bytes": 117164,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Hurt_Type_Gun",
@@ -247,7 +457,14 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 119920
+   "bytes": 119920,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Hurt_Type_Gun_Fly",
@@ -255,7 +472,14 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 121860
+   "bytes": 121860,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Idle",
@@ -263,7 +487,14 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 74624
+   "bytes": 74624,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Idle_Type_Cannon",
@@ -271,7 +502,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 81040
+   "bytes": 81040,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Idle_Type_Gun",
@@ -279,7 +517,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 81296
+   "bytes": 81296,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Idle_Type_Gun_Fly",
@@ -287,7 +532,14 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 89120
+   "bytes": 89120,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Main_Skill_End_P11_Missile",
@@ -295,7 +547,14 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 170000
+   "bytes": 170000,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Main_Skill_Transform",
@@ -303,7 +562,14 @@
    "face": false,
    "duration": 0.8333,
    "loop": false,
-   "bytes": 134892
+   "bytes": 134892,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Main_Skill_Transform_Type_Cannon",
@@ -311,7 +577,14 @@
    "face": false,
    "duration": 0.7,
    "loop": false,
-   "bytes": 91592
+   "bytes": 91592,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Main_Skill_Transform_Type_Cannon_End",
@@ -319,7 +592,14 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 117808
+   "bytes": 117808,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Main_Skill_Transform_Type_Cannon_End_P11",
@@ -327,7 +607,14 @@
    "face": false,
    "duration": 1.4667,
    "loop": false,
-   "bytes": 241672
+   "bytes": 241672,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Main_Skill_Transform_Type_Gun",
@@ -335,7 +622,14 @@
    "face": false,
    "duration": 0.7,
    "loop": false,
-   "bytes": 93580
+   "bytes": 93580,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Main_Skill_Transform_Type_Gun_End",
@@ -343,7 +637,14 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 121596
+   "bytes": 121596,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Main_Skill_Transform_Type_Gun_End_P11",
@@ -351,7 +652,14 @@
    "face": false,
    "duration": 1.4667,
    "loop": false,
-   "bytes": 245836
+   "bytes": 245836,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Main_Skill_Transform_Type_Gun_Fly",
@@ -359,7 +667,14 @@
    "face": false,
    "duration": 0.7,
    "loop": false,
-   "bytes": 90100
+   "bytes": 90100,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Main_Skill_Transform_Type_Gun_Fly_End",
@@ -367,7 +682,14 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 124400
+   "bytes": 124400,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Main_Skill_Transform_Type_Gun_Fly_End_P11",
@@ -375,7 +697,14 @@
    "face": false,
    "duration": 1.4667,
    "loop": false,
-   "bytes": 248944
+   "bytes": 248944,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Out01",
@@ -383,7 +712,14 @@
    "face": false,
    "duration": 1.5667,
    "loop": false,
-   "bytes": 118316
+   "bytes": 118316,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Ready",
@@ -391,7 +727,23 @@
    "face": true,
    "duration": 4.6667,
    "loop": true,
-   "bytes": 209940
+   "bytes": 209940,
+   "show": [
+    "face07_sp01",
+    "face07_sp02",
+    "face13_sp01",
+    "face15(_17_18)_sp01",
+    "lens"
+   ],
+   "hide": [
+    "TLBlanket",
+    "cup",
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -399,7 +751,23 @@
    "face": true,
    "duration": 4.0,
    "loop": false,
-   "bytes": 100784
+   "bytes": 100784,
+   "show": [
+    "face07_sp01",
+    "face07_sp02",
+    "face13_sp01",
+    "face15(_17_18)_sp01",
+    "lens"
+   ],
+   "hide": [
+    "TLBlanket",
+    "cup",
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Run",
@@ -407,7 +775,14 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 106844
+   "bytes": 106844,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Run_Type_Cannon",
@@ -415,7 +790,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 97832
+   "bytes": 97832,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Run_Type_Gun",
@@ -423,7 +805,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 99024
+   "bytes": 99024,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Run_Type_Gun_Fly",
@@ -431,7 +820,14 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 92516
+   "bytes": 92516,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Rush",
@@ -439,7 +835,14 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 102292
+   "bytes": 102292,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "RushStop",
@@ -447,7 +850,14 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 235628
+   "bytes": 235628,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "RushStop_Type_Cannon",
@@ -455,7 +865,14 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 102808
+   "bytes": 102808,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "RushStop_Type_Gun",
@@ -463,7 +880,14 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 100908
+   "bytes": 100908,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Rush_Type_Cannon",
@@ -471,7 +895,14 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 103376
+   "bytes": 103376,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Rush_Type_Gun",
@@ -479,7 +910,14 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 100640
+   "bytes": 100640,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Support_Skill_1_Start",
@@ -487,7 +925,10 @@
    "face": false,
    "duration": 0.8333,
    "loop": false,
-   "bytes": 137372
+   "bytes": 137372,
+   "hide": [
+    "rocket"
+   ]
   },
   {
    "name": "Support_Skill_1_Start_P25",
@@ -495,7 +936,10 @@
    "face": false,
    "duration": 0.8333,
    "loop": false,
-   "bytes": 150704
+   "bytes": 150704,
+   "hide": [
+    "rocket"
+   ]
   },
   {
    "name": "Support_Skill_2_Loop",
@@ -503,7 +947,10 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 125472
+   "bytes": 125472,
+   "hide": [
+    "rocket"
+   ]
   },
   {
    "name": "Support_Skill_2_Loop_Base",
@@ -511,7 +958,10 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 128260
+   "bytes": 128260,
+   "hide": [
+    "rocket"
+   ]
   },
   {
    "name": "Support_Skill_3_End",
@@ -519,7 +969,10 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 132872
+   "bytes": 132872,
+   "hide": [
+    "rocket"
+   ]
   },
   {
    "name": "Support_Skill_4_Rush",
@@ -527,7 +980,14 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 104876
+   "bytes": 104876,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Timeline01",
@@ -535,7 +995,12 @@
    "face": true,
    "duration": 5.0,
    "loop": false,
-   "bytes": 270904
+   "bytes": 270904,
+   "hide": [
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Timeline02",
@@ -543,7 +1008,14 @@
    "face": true,
    "duration": 5.1,
    "loop": false,
-   "bytes": 264152
+   "bytes": 264152,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Ultra_NoTL",
@@ -551,7 +1023,22 @@
    "face": false,
    "duration": 8.9333,
    "loop": false,
-   "bytes": 513596
+   "bytes": 513596,
+   "show": [
+    "TLBlanket",
+    "face07_sp01",
+    "face07_sp02",
+    "face13_sp01",
+    "face15(_17_18)_sp01",
+    "lens"
+   ],
+   "hide": [
+    "cup",
+    "hand1",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Ultra_TL1",
@@ -559,7 +1046,13 @@
    "face": false,
    "duration": 3.3667,
    "loop": false,
-   "bytes": 209000
+   "bytes": 209000,
+   "hide": [
+    "hand1",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Ultra_TL2",
@@ -567,7 +1060,13 @@
    "face": false,
    "duration": 2.0333,
    "loop": false,
-   "bytes": 174612
+   "bytes": 174612,
+   "hide": [
+    "hand1",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Victory",
@@ -575,7 +1074,21 @@
    "face": true,
    "duration": 5.1667,
    "loop": false,
-   "bytes": 201508
+   "bytes": 201508,
+   "show": [
+    "cup",
+    "face07_sp01",
+    "face07_sp02",
+    "face13_sp01",
+    "face15(_17_18)_sp01",
+    "lens"
+   ],
+   "hide": [
+    "TLBlanket",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -583,7 +1096,12 @@
    "face": true,
    "duration": 2.0,
    "loop": true,
-   "bytes": 93692
+   "bytes": 93692,
+   "hide": [
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Walk",
@@ -591,7 +1109,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 99032
+   "bytes": 99032,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkBackward",
@@ -599,7 +1124,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 55300
+   "bytes": 55300,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkBackward_Type_Cannon",
@@ -607,7 +1139,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 83100
+   "bytes": 83100,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkBackward_Type_Gun",
@@ -615,7 +1154,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 83544
+   "bytes": 83544,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkBackward_Type_Gun_Fly",
@@ -623,7 +1169,14 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 89128
+   "bytes": 89128,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkForward",
@@ -631,7 +1184,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 57512
+   "bytes": 57512,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkForward_Type_Cannon",
@@ -639,7 +1199,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 83384
+   "bytes": 83384,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkForward_Type_Gun",
@@ -647,7 +1214,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 83828
+   "bytes": 83828,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkForward_Type_Gun_Fly",
@@ -655,7 +1229,14 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 89128
+   "bytes": 89128,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkLeft",
@@ -663,7 +1244,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 55692
+   "bytes": 55692,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkLeft_Type_Cannon",
@@ -671,7 +1259,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 83276
+   "bytes": 83276,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkLeft_Type_Gun",
@@ -679,7 +1274,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 83668
+   "bytes": 83668,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkLeft_Type_Gun_Fly",
@@ -687,7 +1289,14 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 86908
+   "bytes": 86908,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkRight",
@@ -695,7 +1304,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 55696
+   "bytes": 55696,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkRight_Type_Cannon",
@@ -703,7 +1319,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 83276
+   "bytes": 83276,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkRight_Type_Gun",
@@ -711,7 +1334,14 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 83672
+   "bytes": 83672,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "WalkRight_Type_Gun_Fly",
@@ -719,7 +1349,14 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 86908
+   "bytes": 86908,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Take 001",
@@ -727,7 +1364,14 @@
    "face": false,
    "duration": 10.3333,
    "loop": false,
-   "bytes": 292180
+   "bytes": 292180,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Take 001",
@@ -735,7 +1379,10 @@
    "face": false,
    "duration": 5.3333,
    "loop": false,
-   "bytes": 312592
+   "bytes": 312592,
+   "hide": [
+    "rocket"
+   ]
   },
   {
    "name": "Take 001",
@@ -743,7 +1390,14 @@
    "face": false,
    "duration": 10.3333,
    "loop": false,
-   "bytes": 322024
+   "bytes": 322024,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Take 001",
@@ -751,7 +1405,14 @@
    "face": false,
    "duration": 10.3333,
    "loop": false,
-   "bytes": 296508
+   "bytes": 296508,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   },
   {
    "name": "Take 001",
@@ -759,7 +1420,14 @@
    "face": false,
    "duration": 2.7,
    "loop": false,
-   "bytes": 143092
+   "bytes": 143092,
+   "hide": [
+    "hand1",
+    "hand2",
+    "launcher01",
+    "launcher02",
+    "rocket"
+   ]
   }
  ]
 }

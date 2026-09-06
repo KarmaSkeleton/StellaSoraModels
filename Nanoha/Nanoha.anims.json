@@ -7,7 +7,11 @@
    "face": false,
    "duration": 3.1667,
    "loop": false,
-   "bytes": 286568
+   "bytes": 286568,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "timeline_Clone_one",
@@ -15,7 +19,11 @@
    "face": false,
    "duration": 3.1667,
    "loop": false,
-   "bytes": 201832
+   "bytes": 201832,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "timeline_Clone_two",
@@ -23,7 +31,11 @@
    "face": false,
    "duration": 3.1667,
    "loop": false,
-   "bytes": 220232
+   "bytes": 220232,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Aim",
@@ -31,7 +43,11 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 45944
+   "bytes": 45944,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Attack_1",
@@ -39,7 +55,11 @@
    "face": false,
    "duration": 1.3667,
    "loop": false,
-   "bytes": 207056
+   "bytes": 207056,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Attack_2",
@@ -47,7 +67,11 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 198320
+   "bytes": 198320,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Attack_3",
@@ -55,7 +79,11 @@
    "face": false,
    "duration": 2.0333,
    "loop": false,
-   "bytes": 216468
+   "bytes": 216468,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "B1_Skill_Boomerang",
@@ -63,7 +91,11 @@
    "face": false,
    "duration": 2.1,
    "loop": false,
-   "bytes": 224156
+   "bytes": 224156,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "B2_Skill_SplitDart",
@@ -71,7 +103,11 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 225432
+   "bytes": 225432,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Dazed",
@@ -79,7 +115,11 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 101576
+   "bytes": 101576,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Die",
@@ -87,7 +127,11 @@
    "face": false,
    "duration": 1.6,
    "loop": false,
-   "bytes": 230980
+   "bytes": 230980,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Die_Monster",
@@ -95,7 +139,11 @@
    "face": false,
    "duration": 0.0333,
    "loop": false,
-   "bytes": 57780
+   "bytes": 57780,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Dodge",
@@ -103,7 +151,11 @@
    "face": false,
    "duration": 0.9667,
    "loop": false,
-   "bytes": 195092
+   "bytes": 195092,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "HurtA1",
@@ -111,7 +163,11 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 139784
+   "bytes": 139784,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "HurtA2",
@@ -119,7 +175,11 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 141464
+   "bytes": 141464,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "HurtB",
@@ -127,7 +187,11 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 147232
+   "bytes": 147232,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Idle",
@@ -135,7 +199,11 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 101424
+   "bytes": 101424,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Out01",
@@ -143,7 +211,11 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 172324
+   "bytes": 172324,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Ready",
@@ -151,7 +223,11 @@
    "face": true,
    "duration": 4.6667,
    "loop": false,
-   "bytes": 244148
+   "bytes": 244148,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -159,7 +235,11 @@
    "face": true,
    "duration": 3.3333,
    "loop": true,
-   "bytes": 122568
+   "bytes": 122568,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Run",
@@ -167,7 +247,11 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 149988
+   "bytes": 149988,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Rush",
@@ -175,7 +259,11 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 142848
+   "bytes": 142848,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "RushStop",
@@ -183,7 +271,11 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 138816
+   "bytes": 138816,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Ultra_NoTL",
@@ -191,7 +283,11 @@
    "face": false,
    "duration": 2.2333,
    "loop": false,
-   "bytes": 215228
+   "bytes": 215228,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Ultra_Summon_FanofKnives_In",
@@ -199,7 +295,11 @@
    "face": false,
    "duration": 1.4667,
    "loop": false,
-   "bytes": 162144
+   "bytes": 162144,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Ultra_Summon_FanofKnives_Out",
@@ -207,7 +307,11 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 168304
+   "bytes": 168304,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Ultra_Summon_In",
@@ -215,7 +319,11 @@
    "face": false,
    "duration": 1.7333,
    "loop": false,
-   "bytes": 169680
+   "bytes": 169680,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Ultra_TL",
@@ -223,7 +331,11 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 127572
+   "bytes": 127572,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Victory",
@@ -239,7 +351,11 @@
    "face": true,
    "duration": 3.8667,
    "loop": true,
-   "bytes": 111332
+   "bytes": 111332,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Walk",
@@ -247,7 +363,11 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 123128
+   "bytes": 123128,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   },
   {
    "name": "Die01",
@@ -255,7 +375,11 @@
    "face": false,
    "duration": 0.1667,
    "loop": false,
-   "bytes": 59160
+   "bytes": 59160,
+   "hide": [
+    "weaponA",
+    "weaponB"
+   ]
   }
  ]
 }

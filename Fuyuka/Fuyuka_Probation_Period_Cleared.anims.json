@@ -7,7 +7,15 @@
    "face": true,
    "duration": 6.6667,
    "loop": false,
-   "bytes": 282004
+   "bytes": 282004,
+   "show": [
+    "face_06sp",
+    "face_10sp",
+    "face_16sp"
+   ],
+   "hide": [
+    "face_05sp"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -15,7 +23,15 @@
    "face": true,
    "duration": 3.6667,
    "loop": true,
-   "bytes": 94464
+   "bytes": 94464,
+   "show": [
+    "face_06sp",
+    "face_10sp",
+    "face_16sp"
+   ],
+   "hide": [
+    "face_05sp"
+   ]
   },
   {
    "name": "Victory",
@@ -23,7 +39,15 @@
    "face": true,
    "duration": 5.65,
    "loop": false,
-   "bytes": 256040
+   "bytes": 256040,
+   "show": [
+    "face_06sp",
+    "face_10sp",
+    "face_16sp"
+   ],
+   "hide": [
+    "face_05sp"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -39,7 +63,13 @@
    "face": true,
    "duration": 5.2667,
    "loop": false,
-   "bytes": 306800
+   "bytes": 306800,
+   "show": [
+    "face_05sp",
+    "face_06sp",
+    "face_10sp",
+    "face_16sp"
+   ]
   }
  ]
 }

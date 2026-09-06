@@ -103,7 +103,13 @@
    "face": true,
    "duration": 4.6667,
    "loop": false,
-   "bytes": 166868
+   "bytes": 166868,
+   "show": [
+    "face08_sp"
+   ],
+   "hide": [
+    "weapon_R"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -111,7 +117,13 @@
    "face": true,
    "duration": 4.6667,
    "loop": true,
-   "bytes": 104904
+   "bytes": 104904,
+   "show": [
+    "face08_sp"
+   ],
+   "hide": [
+    "weapon_R"
+   ]
   },
   {
    "name": "Run",
@@ -183,7 +195,10 @@
    "face": true,
    "duration": 3.3,
    "loop": false,
-   "bytes": 305176
+   "bytes": 305176,
+   "show": [
+    "face08_sp"
+   ]
   },
   {
    "name": "Ultra_NoTL",
@@ -207,7 +222,10 @@
    "face": true,
    "duration": 4.6667,
    "loop": false,
-   "bytes": 162152
+   "bytes": 162152,
+   "show": [
+    "face08_sp"
+   ]
   },
   {
    "name": "VictoryLoop",

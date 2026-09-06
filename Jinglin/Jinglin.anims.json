@@ -7,7 +7,10 @@
    "face": false,
    "duration": 3.7667,
    "loop": false,
-   "bytes": 93856
+   "bytes": 93856,
+   "hide": [
+    "star"
+   ]
   },
   {
    "name": "Attack",

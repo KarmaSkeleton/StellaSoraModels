@@ -199,7 +199,10 @@
    "face": false,
    "duration": 1.8333,
    "loop": false,
-   "bytes": 103952
+   "bytes": 103952,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_Attack",
@@ -207,7 +210,10 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 68208
+   "bytes": 68208,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_AttackE1",
@@ -215,7 +221,10 @@
    "face": false,
    "duration": 1.6,
    "loop": true,
-   "bytes": 67972
+   "bytes": 67972,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_AttackE2",
@@ -223,7 +232,10 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 68388
+   "bytes": 68388,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_Dazed",
@@ -231,7 +243,10 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 64532
+   "bytes": 64532,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_Die",
@@ -239,7 +254,10 @@
    "face": false,
    "duration": 2.4,
    "loop": false,
-   "bytes": 150236
+   "bytes": 150236,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_Dodge",
@@ -247,7 +265,10 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 109444
+   "bytes": 109444,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_EndLand",
@@ -263,7 +284,10 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 84656
+   "bytes": 84656,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_HurtA2",
@@ -271,7 +295,10 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 92104
+   "bytes": 92104,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_HurtB",
@@ -279,7 +306,10 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 96628
+   "bytes": 96628,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_Idle",
@@ -287,7 +317,10 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 68124
+   "bytes": 68124,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_NoTL",
@@ -303,7 +336,10 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 69764
+   "bytes": 69764,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_Rush",
@@ -311,7 +347,10 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 70808
+   "bytes": 70808,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_RushStop",
@@ -319,7 +358,10 @@
    "face": false,
    "duration": 0.8333,
    "loop": false,
-   "bytes": 84556
+   "bytes": 84556,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_Skill",
@@ -327,7 +369,10 @@
    "face": false,
    "duration": 3.0,
    "loop": false,
-   "bytes": 140036
+   "bytes": 140036,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_Skill_S1",
@@ -335,7 +380,10 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 110104
+   "bytes": 110104,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_Skill_S1_1",
@@ -343,7 +391,10 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 110108
+   "bytes": 110108,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_Skill_S2",
@@ -351,7 +402,10 @@
    "face": false,
    "duration": 2.2333,
    "loop": false,
-   "bytes": 113896
+   "bytes": 113896,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Ultra_TL",
@@ -359,7 +413,10 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 135488
+   "bytes": 135488,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Victory",

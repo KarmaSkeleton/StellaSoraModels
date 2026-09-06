@@ -7,7 +7,10 @@
    "face": false,
    "duration": 9.4,
    "loop": false,
-   "bytes": 112884
+   "bytes": 112884,
+   "hide": [
+    "star"
+   ]
   },
   {
    "name": "timeline",

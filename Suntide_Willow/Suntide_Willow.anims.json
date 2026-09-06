@@ -7,7 +7,11 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 253616
+   "bytes": 253616,
+   "hide": [
+    "bullet",
+    "weapon2"
+   ]
   },
   {
    "name": "AttackA_2",
@@ -15,7 +19,11 @@
    "face": false,
    "duration": 1.3667,
    "loop": false,
-   "bytes": 249336
+   "bytes": 249336,
+   "hide": [
+    "bullet",
+    "weapon2"
+   ]
   },
   {
    "name": "AttackA_3",
@@ -23,7 +31,11 @@
    "face": false,
    "duration": 1.4333,
    "loop": false,
-   "bytes": 241312
+   "bytes": 241312,
+   "hide": [
+    "bullet",
+    "weapon2"
+   ]
   },
   {
    "name": "AttackA_4",
@@ -31,7 +43,11 @@
    "face": false,
    "duration": 1.6333,
    "loop": false,
-   "bytes": 258864
+   "bytes": 258864,
+   "hide": [
+    "bullet",
+    "weapon2"
+   ]
   },
   {
    "name": "AttackB_1",
@@ -39,7 +55,10 @@
    "face": false,
    "duration": 1.2,
    "loop": false,
-   "bytes": 184744
+   "bytes": 184744,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "AttackB_2",
@@ -47,7 +66,10 @@
    "face": false,
    "duration": 1.4667,
    "loop": false,
-   "bytes": 266124
+   "bytes": 266124,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "AttackB_3",
@@ -55,7 +77,10 @@
    "face": false,
    "duration": 1.7333,
    "loop": false,
-   "bytes": 266752
+   "bytes": 266752,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "AttackB_4",
@@ -63,7 +88,10 @@
    "face": false,
    "duration": 1.8333,
    "loop": false,
-   "bytes": 249332
+   "bytes": 249332,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Dazed",
@@ -71,7 +99,10 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 132580
+   "bytes": 132580,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Die",
@@ -79,7 +110,10 @@
    "face": false,
    "duration": 1.9,
    "loop": false,
-   "bytes": 272464
+   "bytes": 272464,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Dodge",
@@ -87,7 +121,10 @@
    "face": false,
    "duration": 0.9667,
    "loop": false,
-   "bytes": 177288
+   "bytes": 177288,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "HurtA1",
@@ -95,7 +132,10 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 226176
+   "bytes": 226176,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "HurtA2",
@@ -103,7 +143,10 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 186704
+   "bytes": 186704,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "HurtB",
@@ -111,7 +154,10 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 232268
+   "bytes": 232268,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Idle",
@@ -119,7 +165,10 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 96728
+   "bytes": 96728,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Out01",
@@ -127,7 +176,10 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 180120
+   "bytes": 180120,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Ready",
@@ -135,7 +187,13 @@
    "face": true,
    "duration": 7.5,
    "loop": false,
-   "bytes": 388832
+   "bytes": 388832,
+   "show": [
+    "face_01_02_03_15_16_17_sp",
+    "face_04_sp",
+    "face_05_sp",
+    "face_13_sp"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -143,7 +201,13 @@
    "face": true,
    "duration": 2.0,
    "loop": true,
-   "bytes": 121708
+   "bytes": 121708,
+   "show": [
+    "face_01_02_03_15_16_17_sp",
+    "face_04_sp",
+    "face_05_sp",
+    "face_13_sp"
+   ]
   },
   {
    "name": "Ready_Popoball",
@@ -167,7 +231,10 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 160408
+   "bytes": 160408,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Rush",
@@ -175,7 +242,10 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 155700
+   "bytes": 155700,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "RushStop",
@@ -183,7 +253,10 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 238240
+   "bytes": 238240,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Skill_Main",
@@ -191,7 +264,10 @@
    "face": false,
    "duration": 3.8333,
    "loop": false,
-   "bytes": 415400
+   "bytes": 415400,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Skill_Main_BubbleDoll_Born",
@@ -311,7 +387,10 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 221944
+   "bytes": 221944,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Timeline",
@@ -319,7 +398,17 @@
    "face": true,
    "duration": 5.5,
    "loop": false,
-   "bytes": 422424
+   "bytes": 422424,
+   "show": [
+    "face_01_02_03_15_16_17_sp",
+    "face_04_sp",
+    "face_05_sp",
+    "face_13_sp"
+   ],
+   "hide": [
+    "bullet",
+    "weapon2"
+   ]
   },
   {
    "name": "Timeline_NPC",
@@ -335,7 +424,12 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 188428
+   "bytes": 188428,
+   "hide": [
+    "bullet",
+    "weapon1",
+    "weapon2"
+   ]
   },
   {
    "name": "Ultra_02",
@@ -343,7 +437,12 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 182836
+   "bytes": 182836,
+   "hide": [
+    "bullet",
+    "weapon1",
+    "weapon2"
+   ]
   },
   {
    "name": "Ultra_03",
@@ -351,7 +450,12 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 172632
+   "bytes": 172632,
+   "hide": [
+    "bullet",
+    "weapon1",
+    "weapon2"
+   ]
   },
   {
    "name": "Ultra_04",
@@ -359,7 +463,12 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 191644
+   "bytes": 191644,
+   "hide": [
+    "bullet",
+    "weapon1",
+    "weapon2"
+   ]
   },
   {
    "name": "Ultra_NoTL",
@@ -367,7 +476,10 @@
    "face": false,
    "duration": 5.5,
    "loop": false,
-   "bytes": 668256
+   "bytes": 668256,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Ultra_TL",
@@ -375,7 +487,10 @@
    "face": false,
    "duration": 3.7,
    "loop": false,
-   "bytes": 410672
+   "bytes": 410672,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Victory",
@@ -383,7 +498,16 @@
    "face": true,
    "duration": 5.5333,
    "loop": false,
-   "bytes": 340400
+   "bytes": 340400,
+   "show": [
+    "face_01_02_03_15_16_17_sp",
+    "face_04_sp",
+    "face_05_sp",
+    "face_13_sp"
+   ],
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -391,7 +515,10 @@
    "face": true,
    "duration": 2.0333,
    "loop": true,
-   "bytes": 111280
+   "bytes": 111280,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Walk",

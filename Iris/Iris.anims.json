@@ -223,7 +223,13 @@
    "face": true,
    "duration": 4.2667,
    "loop": false,
-   "bytes": 113700
+   "bytes": 113700,
+   "show": [
+    "weapon1"
+   ],
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -231,7 +237,13 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 48840
+   "bytes": 48840,
+   "show": [
+    "weapon1"
+   ],
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Run",
@@ -263,7 +275,10 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 49664
+   "bytes": 49664,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Ultra_3_End",
@@ -295,7 +310,10 @@
    "face": true,
    "duration": 2.7333,
    "loop": false,
-   "bytes": 109240
+   "bytes": 109240,
+   "hide": [
+    "weapon1"
+   ]
   },
   {
    "name": "VictoryLoop",

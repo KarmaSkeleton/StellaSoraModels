@@ -183,7 +183,15 @@
    "face": true,
    "duration": 6.6667,
    "loop": false,
-   "bytes": 260540
+   "bytes": 260540,
+   "show": [
+    "face_06sp",
+    "face_10sp",
+    "face_16sp"
+   ],
+   "hide": [
+    "face_05sp"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -191,7 +199,15 @@
    "face": true,
    "duration": 3.6667,
    "loop": false,
-   "bytes": 86928
+   "bytes": 86928,
+   "show": [
+    "face_06sp",
+    "face_10sp",
+    "face_16sp"
+   ],
+   "hide": [
+    "face_05sp"
+   ]
   },
   {
    "name": "Run",
@@ -271,7 +287,10 @@
    "face": false,
    "duration": 1.5667,
    "loop": true,
-   "bytes": 191944
+   "bytes": 191944,
+   "hide": [
+    "weaponR"
+   ]
   },
   {
    "name": "Ultra_NoTL",
@@ -295,7 +314,15 @@
    "face": true,
    "duration": 5.65,
    "loop": false,
-   "bytes": 270084
+   "bytes": 270084,
+   "show": [
+    "face_06sp",
+    "face_10sp",
+    "face_16sp"
+   ],
+   "hide": [
+    "face_05sp"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -319,7 +346,13 @@
    "face": true,
    "duration": 5.2667,
    "loop": false,
-   "bytes": 309784
+   "bytes": 309784,
+   "show": [
+    "face_05sp",
+    "face_06sp",
+    "face_10sp",
+    "face_16sp"
+   ]
   }
  ]
 }

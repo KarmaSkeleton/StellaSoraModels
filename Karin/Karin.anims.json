@@ -7,7 +7,11 @@
    "face": false,
    "duration": 0.8333,
    "loop": false,
-   "bytes": 764
+   "bytes": 764,
+   "hide": [
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Aim",
@@ -15,7 +19,12 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 90300
+   "bytes": 90300,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Dazed",
@@ -23,7 +32,12 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 66768
+   "bytes": 66768,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Die",
@@ -31,7 +45,12 @@
    "face": false,
    "duration": 2.5333,
    "loop": false,
-   "bytes": 533940
+   "bytes": 533940,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Dodge",
@@ -39,7 +58,12 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 109132
+   "bytes": 109132,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "HurtA1",
@@ -47,7 +71,12 @@
    "face": false,
    "duration": 0.6333,
    "loop": false,
-   "bytes": 94648
+   "bytes": 94648,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "HurtA2",
@@ -55,7 +84,12 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 86952
+   "bytes": 86952,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "HurtB",
@@ -63,7 +97,12 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 124604
+   "bytes": 124604,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Idle",
@@ -71,7 +110,12 @@
    "face": false,
    "duration": 4.0,
    "loop": true,
-   "bytes": 91208
+   "bytes": 91208,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "NrmAtk",
@@ -79,7 +123,12 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 127660
+   "bytes": 127660,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "NrmAtk_2",
@@ -87,7 +136,12 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 124048
+   "bytes": 124048,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "NrmAtk_P3",
@@ -95,7 +149,12 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 115692
+   "bytes": 115692,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "NrmAtk_SuoLian",
@@ -103,7 +162,12 @@
    "face": false,
    "duration": 0.5,
    "loop": false,
-   "bytes": 107352
+   "bytes": 107352,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Out01",
@@ -111,7 +175,12 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 107500
+   "bytes": 107500,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Ready",
@@ -119,7 +188,12 @@
    "face": true,
    "duration": 5.55,
    "loop": false,
-   "bytes": 207936
+   "bytes": 207936,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Ready_Loop",
@@ -127,7 +201,12 @@
    "face": true,
    "duration": 3.1167,
    "loop": true,
-   "bytes": 71816
+   "bytes": 71816,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Run",
@@ -135,7 +214,11 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 87180
+   "bytes": 87180,
+   "hide": [
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Rush",
@@ -143,7 +226,11 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 69528
+   "bytes": 69528,
+   "hide": [
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "RushStop",
@@ -151,7 +238,12 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 106040
+   "bytes": 106040,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Skill_Main_Base",
@@ -159,7 +251,12 @@
    "face": false,
    "duration": 2.1333,
    "loop": false,
-   "bytes": 211996
+   "bytes": 211996,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Skill_Sup_Base",
@@ -167,7 +264,12 @@
    "face": false,
    "duration": 6.0,
    "loop": false,
-   "bytes": 651568
+   "bytes": 651568,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Timeline",
@@ -175,7 +277,13 @@
    "face": true,
    "duration": 5.5,
    "loop": false,
-   "bytes": 385356
+   "bytes": 385356,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark",
+    "weapon"
+   ]
   },
   {
    "name": "Timeline_Yubawang",
@@ -183,7 +291,11 @@
    "face": false,
    "duration": 5.5,
    "loop": false,
-   "bytes": 26696
+   "bytes": 26696,
+   "hide": [
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Ultra_NoTL",
@@ -191,7 +303,12 @@
    "face": false,
    "duration": 6.8,
    "loop": false,
-   "bytes": 354588
+   "bytes": 354588,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Ultra_TL",
@@ -199,7 +316,12 @@
    "face": false,
    "duration": 5.3,
    "loop": false,
-   "bytes": 317744
+   "bytes": 317744,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Victory",
@@ -207,7 +329,13 @@
    "face": true,
    "duration": 3.9667,
    "loop": false,
-   "bytes": 140208
+   "bytes": 140208,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark",
+    "weapon"
+   ]
   },
   {
    "name": "Victory_Loop",
@@ -215,7 +343,13 @@
    "face": true,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 55204
+   "bytes": 55204,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark",
+    "weapon"
+   ]
   },
   {
    "name": "Walk",
@@ -223,7 +357,11 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 72956
+   "bytes": 72956,
+   "hide": [
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Walk_Backward",
@@ -231,7 +369,12 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 68292
+   "bytes": 68292,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Walk_Forward",
@@ -239,7 +382,12 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 68536
+   "bytes": 68536,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Walk_Left",
@@ -247,7 +395,12 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 68268
+   "bytes": 68268,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   },
   {
    "name": "Walk_Right",
@@ -255,7 +408,12 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 68516
+   "bytes": 68516,
+   "hide": [
+    "blowfish",
+    "cuttlefish",
+    "shark"
+   ]
   }
  ]
 }

@@ -351,7 +351,10 @@
    "face": true,
    "duration": 4.6667,
    "loop": false,
-   "bytes": 222316
+   "bytes": 222316,
+   "hide": [
+    "surfboard"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -359,7 +362,10 @@
    "face": true,
    "duration": 3.3333,
    "loop": true,
-   "bytes": 110340
+   "bytes": 110340,
+   "hide": [
+    "surfboard"
+   ]
   },
   {
    "name": "Walk",

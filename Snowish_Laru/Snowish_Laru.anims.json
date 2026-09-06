@@ -7,7 +7,10 @@
    "face": false,
    "duration": 4.3333,
    "loop": false,
-   "bytes": 155292
+   "bytes": 155292,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Attack_1",
@@ -15,7 +18,10 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 160284
+   "bytes": 160284,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Attack_2",
@@ -23,7 +29,10 @@
    "face": false,
    "duration": 1.2667,
    "loop": false,
-   "bytes": 176176
+   "bytes": 176176,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Attack_3",
@@ -31,7 +40,10 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 183036
+   "bytes": 183036,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Attack_4",
@@ -39,7 +51,10 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 156012
+   "bytes": 156012,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Attack_5",
@@ -47,7 +62,10 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 186500
+   "bytes": 186500,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Dazed",
@@ -55,7 +73,10 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 93512
+   "bytes": 93512,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Die",
@@ -63,7 +84,10 @@
    "face": false,
    "duration": 1.6333,
    "loop": false,
-   "bytes": 160788
+   "bytes": 160788,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Dodge",
@@ -71,7 +95,10 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 100036
+   "bytes": 100036,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "HurtA1",
@@ -79,7 +106,10 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 126644
+   "bytes": 126644,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "HurtA2",
@@ -87,7 +117,10 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 99760
+   "bytes": 99760,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "HurtB",
@@ -95,7 +128,10 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 116000
+   "bytes": 116000,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Idle",
@@ -103,7 +139,10 @@
    "face": false,
    "duration": 4.0,
    "loop": true,
-   "bytes": 125016
+   "bytes": 125016,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Main_Skill_Lash",
@@ -111,7 +150,10 @@
    "face": false,
    "duration": 3.4,
    "loop": false,
-   "bytes": 263232
+   "bytes": 263232,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Main_Skill_Lash_P03",
@@ -119,7 +161,10 @@
    "face": false,
    "duration": 3.25,
    "loop": false,
-   "bytes": 381888
+   "bytes": 381888,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Out01",
@@ -127,7 +172,10 @@
    "face": false,
    "duration": 1.6,
    "loop": false,
-   "bytes": 134684
+   "bytes": 134684,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Ready",
@@ -135,7 +183,17 @@
    "face": true,
    "duration": 4.0333,
    "loop": false,
-   "bytes": 195048
+   "bytes": 195048,
+   "show": [
+    "item"
+   ],
+   "hide": [
+    "gun",
+    "toylaru",
+    "toylaruweapon",
+    "weapon",
+    "weapon02"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -143,7 +201,17 @@
    "face": true,
    "duration": 2.2,
    "loop": true,
-   "bytes": 67164
+   "bytes": 67164,
+   "show": [
+    "item"
+   ],
+   "hide": [
+    "gun",
+    "toylaru",
+    "toylaruweapon",
+    "weapon",
+    "weapon02"
+   ]
   },
   {
    "name": "ReadyLoop_Weapon",
@@ -167,7 +235,10 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 105124
+   "bytes": 105124,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Rush",
@@ -175,7 +246,10 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 113956
+   "bytes": 113956,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "RushStop",
@@ -183,7 +257,10 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 136656
+   "bytes": 136656,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Summon_Cannon_Main",
@@ -295,7 +372,10 @@
    "face": false,
    "duration": 1.2,
    "loop": false,
-   "bytes": 71576
+   "bytes": 71576,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Summon_Laru_Attack",
@@ -303,7 +383,10 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 82604
+   "bytes": 82604,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Summon_Laru_Run",
@@ -311,7 +394,10 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 83248
+   "bytes": 83248,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Summon_Laru_Skill",
@@ -319,7 +405,10 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 89328
+   "bytes": 89328,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Summon_Laru_WalkBackward",
@@ -327,7 +416,10 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 63344
+   "bytes": 63344,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Summon_Laru_WalkForward",
@@ -335,7 +427,10 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 63392
+   "bytes": 63392,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Summon_Laru_WalkLeft",
@@ -343,7 +438,10 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 63076
+   "bytes": 63076,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Summon_Laru_WalkRight",
@@ -351,7 +449,10 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 63112
+   "bytes": 63112,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Summon_Queen_Attack_Cut",
@@ -527,7 +628,10 @@
    "face": false,
    "duration": 1.7333,
    "loop": false,
-   "bytes": 155344
+   "bytes": 155344,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Support_Skill_Cannon_Enter",
@@ -535,7 +639,11 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 127812
+   "bytes": 127812,
+   "hide": [
+    "weapon",
+    "weapon02"
+   ]
   },
   {
    "name": "Support_Skill_Cannon_Shoot",
@@ -543,7 +651,11 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 148076
+   "bytes": 148076,
+   "hide": [
+    "weapon",
+    "weapon02"
+   ]
   },
   {
    "name": "Timeline",
@@ -551,7 +663,11 @@
    "face": true,
    "duration": 5.4333,
    "loop": false,
-   "bytes": 392624
+   "bytes": 392624,
+   "hide": [
+    "gun",
+    "item"
+   ]
   },
   {
    "name": "Timeline_toylaru",
@@ -567,7 +683,10 @@
    "face": false,
    "duration": 1.1,
    "loop": false,
-   "bytes": 124312
+   "bytes": 124312,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Ultra_NoTL",
@@ -575,7 +694,10 @@
    "face": false,
    "duration": 2.8,
    "loop": false,
-   "bytes": 187088
+   "bytes": 187088,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Ultra_TL",
@@ -583,7 +705,10 @@
    "face": false,
    "duration": 1.0333,
    "loop": false,
-   "bytes": 97020
+   "bytes": 97020,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Victory",
@@ -591,7 +716,15 @@
    "face": true,
    "duration": 5.5833,
    "loop": false,
-   "bytes": 234780
+   "bytes": 234780,
+   "show": [
+    "item"
+   ],
+   "hide": [
+    "gun",
+    "weapon",
+    "weapon02"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -599,7 +732,12 @@
    "face": true,
    "duration": 3.2,
    "loop": true,
-   "bytes": 65796
+   "bytes": 65796,
+   "hide": [
+    "gun",
+    "weapon",
+    "weapon02"
+   ]
   },
   {
    "name": "Walk",
@@ -607,7 +745,10 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 89820
+   "bytes": 89820,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Take 001",
@@ -615,7 +756,10 @@
    "face": false,
    "duration": 0.4667,
    "loop": false,
-   "bytes": 56560
+   "bytes": 56560,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Take 001",
@@ -631,7 +775,10 @@
    "face": false,
    "duration": 0.6333,
    "loop": false,
-   "bytes": 60564
+   "bytes": 60564,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Take 001 (3)",
@@ -639,7 +786,10 @@
    "face": false,
    "duration": 0.6333,
    "loop": false,
-   "bytes": 58812
+   "bytes": 58812,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Take 001 (4)",
@@ -647,7 +797,10 @@
    "face": false,
    "duration": 0.8667,
    "loop": false,
-   "bytes": 62764
+   "bytes": 62764,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Take 001 (5)",
@@ -655,7 +808,10 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 94904
+   "bytes": 94904,
+   "hide": [
+    "gun"
+   ]
   },
   {
    "name": "Take 001158_Timeline_ToyLaru",

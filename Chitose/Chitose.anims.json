@@ -263,7 +263,17 @@
    "face": true,
    "duration": 3.6667,
    "loop": false,
-   "bytes": 187432
+   "bytes": 187432,
+   "show": [
+    "face_07sp"
+   ],
+   "hide": [
+    "cup",
+    "daojia",
+    "leg",
+    "quilt",
+    "weapon bag"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -271,7 +281,17 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 127104
+   "bytes": 127104,
+   "show": [
+    "face_07sp"
+   ],
+   "hide": [
+    "cup",
+    "daojia",
+    "leg",
+    "quilt",
+    "weapon bag"
+   ]
   },
   {
    "name": "Run",
@@ -319,7 +339,17 @@
    "face": true,
    "duration": 4.4167,
    "loop": false,
-   "bytes": 423844
+   "bytes": 423844,
+   "show": [
+    "face_07sp"
+   ],
+   "hide": [
+    "cup",
+    "daojia",
+    "leg",
+    "quilt",
+    "weapon bag"
+   ]
   },
   {
    "name": "Ultra_01",
@@ -375,7 +405,10 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 134000
+   "bytes": 134000,
+   "hide": [
+    "weapon1"
+   ]
   },
   {
    "name": "Ultra_End",
@@ -391,7 +424,17 @@
    "face": false,
    "duration": 7.2333,
    "loop": false,
-   "bytes": 193068
+   "bytes": 193068,
+   "show": [
+    "face_07sp",
+    "weapon bag"
+   ],
+   "hide": [
+    "cup",
+    "daojia",
+    "leg",
+    "quilt"
+   ]
   },
   {
    "name": "Ultra_Start",
@@ -407,7 +450,17 @@
    "face": false,
    "duration": 5.3333,
    "loop": false,
-   "bytes": 182720
+   "bytes": 182720,
+   "show": [
+    "face_07sp",
+    "weapon bag"
+   ],
+   "hide": [
+    "cup",
+    "daojia",
+    "leg",
+    "quilt"
+   ]
   },
   {
    "name": "Victory",
@@ -415,7 +468,18 @@
    "face": true,
    "duration": 4.0,
    "loop": false,
-   "bytes": 124772
+   "bytes": 124772,
+   "show": [
+    "cup",
+    "daojia",
+    "face_07sp",
+    "leg",
+    "quilt"
+   ],
+   "hide": [
+    "weapon bag",
+    "weapon1"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -423,7 +487,10 @@
    "face": true,
    "duration": 2.0,
    "loop": true,
-   "bytes": 80572
+   "bytes": 80572,
+   "hide": [
+    "weapon1"
+   ]
   },
   {
    "name": "Walk",

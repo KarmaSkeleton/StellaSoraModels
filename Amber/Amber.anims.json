@@ -311,7 +311,10 @@
    "face": true,
    "duration": 3.0667,
    "loop": false,
-   "bytes": 158600
+   "bytes": 158600,
+   "show": [
+    "Cat"
+   ]
   },
   {
    "name": "Ultra_NoTL",
@@ -335,7 +338,14 @@
    "face": true,
    "duration": 5.6667,
    "loop": false,
-   "bytes": 195468
+   "bytes": 195468,
+   "show": [
+    "Cat"
+   ],
+   "hide": [
+    "weapon_L",
+    "weapon_R"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -343,7 +353,11 @@
    "face": true,
    "duration": 2.6667,
    "loop": true,
-   "bytes": 84592
+   "bytes": 84592,
+   "hide": [
+    "weapon_L",
+    "weapon_R"
+   ]
   },
   {
    "name": "Walk",
@@ -591,7 +605,11 @@
    "face": false,
    "duration": 3.0,
    "loop": false,
-   "bytes": 99392
+   "bytes": 99392,
+   "hide": [
+    "weapon_L",
+    "weapon_R"
+   ]
   },
   {
    "name": "Episode0Act_SpRun4-1-End",
@@ -679,7 +697,10 @@
    "face": false,
    "duration": 3.1667,
    "loop": false,
-   "bytes": 118480
+   "bytes": 118480,
+   "hide": [
+    "weapon_R"
+   ]
   },
   {
    "name": "PrologueAct_Status1_LookDown",
@@ -735,7 +756,11 @@
    "face": false,
    "duration": 3.1667,
    "loop": false,
-   "bytes": 117280
+   "bytes": 117280,
+   "hide": [
+    "weapon_L",
+    "weapon_R"
+   ]
   },
   {
    "name": "PrologueAct_Status2_LookDown",
@@ -743,7 +768,11 @@
    "face": false,
    "duration": 5.3333,
    "loop": false,
-   "bytes": 158680
+   "bytes": 158680,
+   "hide": [
+    "weapon_L",
+    "weapon_R"
+   ]
   },
   {
    "name": "PrologueAct_Status2_Move",
@@ -759,7 +788,11 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 92264
+   "bytes": 92264,
+   "hide": [
+    "weapon_L",
+    "weapon_R"
+   ]
   },
   {
    "name": "PrologueAct_Status3_BattleEnd",

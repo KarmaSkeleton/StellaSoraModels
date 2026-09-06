@@ -95,7 +95,10 @@
    "face": true,
    "duration": 3.8333,
    "loop": false,
-   "bytes": 239396
+   "bytes": 239396,
+   "show": [
+    "face06_sp"
+   ]
   },
   {
    "name": "Aim",
@@ -191,7 +194,10 @@
    "face": true,
    "duration": 5.9333,
    "loop": false,
-   "bytes": 223596
+   "bytes": 223596,
+   "show": [
+    "face06_sp"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -199,7 +205,10 @@
    "face": true,
    "duration": 2.0,
    "loop": true,
-   "bytes": 71860
+   "bytes": 71860,
+   "show": [
+    "face06_sp"
+   ]
   },
   {
    "name": "Reload",
@@ -335,7 +344,10 @@
    "face": true,
    "duration": 6.1667,
    "loop": false,
-   "bytes": 132252
+   "bytes": 132252,
+   "show": [
+    "face06_sp"
+   ]
   },
   {
    "name": "VictoryLoop",

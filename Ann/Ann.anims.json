@@ -7,7 +7,15 @@
    "face": false,
    "duration": 2.8333,
    "loop": false,
-   "bytes": 218568
+   "bytes": 218568,
+   "show": [
+    "face03_sp",
+    "pet",
+    "weapon"
+   ],
+   "hide": [
+    "star"
+   ]
   },
   {
    "name": "Attack",
@@ -151,7 +159,15 @@
    "face": true,
    "duration": 5.1333,
    "loop": false,
-   "bytes": 230480
+   "bytes": 230480,
+   "show": [
+    "face03_sp",
+    "pet"
+   ],
+   "hide": [
+    "dog",
+    "weapon"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -159,7 +175,15 @@
    "face": true,
    "duration": 3.8667,
    "loop": true,
-   "bytes": 46116
+   "bytes": 46116,
+   "show": [
+    "face03_sp",
+    "pet"
+   ],
+   "hide": [
+    "dog",
+    "weapon"
+   ]
   },
   {
    "name": "Run",
@@ -207,7 +231,15 @@
    "face": true,
    "duration": 4.3333,
    "loop": false,
-   "bytes": 180836
+   "bytes": 180836,
+   "show": [
+    "face03_sp",
+    "pet"
+   ],
+   "hide": [
+    "dog",
+    "weapon"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -215,7 +247,10 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 49368
+   "bytes": 49368,
+   "hide": [
+    "dog"
+   ]
   },
   {
    "name": "Walk",

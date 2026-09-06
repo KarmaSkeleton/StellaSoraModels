@@ -31,7 +31,10 @@
    "face": true,
    "duration": 4.5,
    "loop": false,
-   "bytes": 221176
+   "bytes": 221176,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -39,7 +42,10 @@
    "face": true,
    "duration": 4.3333,
    "loop": true,
-   "bytes": 147744
+   "bytes": 147744,
+   "hide": [
+    "weapon"
+   ]
   }
  ]
 }

@@ -7,7 +7,14 @@
    "face": true,
    "duration": 8.6667,
    "loop": false,
-   "bytes": 271332
+   "bytes": 271332,
+   "show": [
+    "weapon3"
+   ],
+   "hide": [
+    "weapon2",
+    "weapon4"
+   ]
   },
   {
    "name": "Attack_01",
@@ -15,7 +22,10 @@
    "face": false,
    "duration": 1.8667,
    "loop": false,
-   "bytes": 139928
+   "bytes": 139928,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Attack_02",
@@ -23,7 +33,10 @@
    "face": false,
    "duration": 1.3667,
    "loop": false,
-   "bytes": 133464
+   "bytes": 133464,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Attack_3",
@@ -47,7 +60,10 @@
    "face": false,
    "duration": 2.8667,
    "loop": false,
-   "bytes": 164200
+   "bytes": 164200,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "B0_Skill_Thump",
@@ -55,7 +71,10 @@
    "face": false,
    "duration": 2.4,
    "loop": false,
-   "bytes": 187716
+   "bytes": 187716,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "B0_Skill_Thump_02",
@@ -63,7 +82,10 @@
    "face": false,
    "duration": 2.0667,
    "loop": false,
-   "bytes": 158932
+   "bytes": 158932,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Branch2Skill_Thump",
@@ -71,7 +93,10 @@
    "face": false,
    "duration": 3.0,
    "loop": false,
-   "bytes": 172880
+   "bytes": 172880,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Dazed",
@@ -79,7 +104,10 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 68044
+   "bytes": 68044,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Die",
@@ -87,7 +115,10 @@
    "face": false,
    "duration": 2.7333,
    "loop": false,
-   "bytes": 164812
+   "bytes": 164812,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Dodge_end",
@@ -95,7 +126,10 @@
    "face": false,
    "duration": 0.7667,
    "loop": false,
-   "bytes": 82104
+   "bytes": 82104,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Dodge_start",
@@ -103,7 +137,10 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 106636
+   "bytes": 106636,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "HurtA1",
@@ -111,7 +148,10 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 101472
+   "bytes": 101472,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "HurtA2",
@@ -119,7 +159,10 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 85572
+   "bytes": 85572,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "HurtB",
@@ -127,7 +170,10 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 114252
+   "bytes": 114252,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Idle",
@@ -135,7 +181,10 @@
    "face": false,
    "duration": 1.5333,
    "loop": true,
-   "bytes": 62488
+   "bytes": 62488,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Main_Skill_QuickStrike_1_Start",
@@ -143,7 +192,10 @@
    "face": false,
    "duration": 0.2667,
    "loop": false,
-   "bytes": 87116
+   "bytes": 87116,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Main_Skill_QuickStrike_2_Loop",
@@ -151,7 +203,10 @@
    "face": false,
    "duration": 0.5667,
    "loop": true,
-   "bytes": 100364
+   "bytes": 100364,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Main_Skill_QuickStrike_3_End",
@@ -167,7 +222,10 @@
    "face": false,
    "duration": 4.4,
    "loop": false,
-   "bytes": 255404
+   "bytes": 255404,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Main_Skill_QuickStrike_P02_1_Start_Strengthen",
@@ -175,7 +233,10 @@
    "face": false,
    "duration": 0.3,
    "loop": false,
-   "bytes": 90996
+   "bytes": 90996,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Main_Skill_QuickStrike_P02_2_Loop_Strengthen",
@@ -183,7 +244,10 @@
    "face": false,
    "duration": 0.4333,
    "loop": true,
-   "bytes": 102836
+   "bytes": 102836,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Main_Skill_QuickStrike_P02_2_Loop_Strengthen_02",
@@ -191,7 +255,10 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 104992
+   "bytes": 104992,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Main_Skill_QuickStrike_P02_3_End_Strengthen",
@@ -199,7 +266,10 @@
    "face": false,
    "duration": 2.8333,
    "loop": false,
-   "bytes": 238548
+   "bytes": 238548,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Main_Skill_Thump_P03_Strengthen",
@@ -215,7 +285,10 @@
    "face": false,
    "duration": 1.3,
    "loop": false,
-   "bytes": 112496
+   "bytes": 112496,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Ready",
@@ -223,7 +296,14 @@
    "face": true,
    "duration": 4.7333,
    "loop": false,
-   "bytes": 167612
+   "bytes": 167612,
+   "show": [
+    "weapon3"
+   ],
+   "hide": [
+    "weapon2",
+    "weapon4"
+   ]
   },
   {
    "name": "Readyloop",
@@ -231,7 +311,14 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 67152
+   "bytes": 67152,
+   "show": [
+    "weapon3"
+   ],
+   "hide": [
+    "weapon2",
+    "weapon4"
+   ]
   },
   {
    "name": "Run",
@@ -239,7 +326,10 @@
    "face": false,
    "duration": 0.8667,
    "loop": true,
-   "bytes": 85240
+   "bytes": 85240,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Rush_1_Start",
@@ -279,7 +369,10 @@
    "face": false,
    "duration": 4.4833,
    "loop": false,
-   "bytes": 172064
+   "bytes": 172064,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Ultra_TL",
@@ -287,7 +380,10 @@
    "face": false,
    "duration": 3.7667,
    "loop": false,
-   "bytes": 126496
+   "bytes": 126496,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Victory",
@@ -295,7 +391,14 @@
    "face": true,
    "duration": 4.3333,
    "loop": false,
-   "bytes": 125752
+   "bytes": 125752,
+   "show": [
+    "weapon3"
+   ],
+   "hide": [
+    "weapon2",
+    "weapon4"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -303,7 +406,10 @@
    "face": true,
    "duration": 2.6667,
    "loop": true,
-   "bytes": 58496
+   "bytes": 58496,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "Walk",
@@ -311,7 +417,10 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 81032
+   "bytes": 81032,
+   "hide": [
+    "weapon2"
+   ]
   },
   {
    "name": "timeline",
@@ -319,7 +428,14 @@
    "face": true,
    "duration": 5.1667,
    "loop": false,
-   "bytes": 225736
+   "bytes": 225736,
+   "show": [
+    "weapon3"
+   ],
+   "hide": [
+    "weapon2",
+    "weapon4"
+   ]
   },
   {
    "name": "jinzhan01_timeline",

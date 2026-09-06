@@ -135,7 +135,10 @@
    "face": true,
    "duration": 5.7333,
    "loop": false,
-   "bytes": 247700
+   "bytes": 247700,
+   "show": [
+    "face11_sp01"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -143,7 +146,10 @@
    "face": true,
    "duration": 3.6,
    "loop": true,
-   "bytes": 86180
+   "bytes": 86180,
+   "show": [
+    "face11_sp01"
+   ]
   },
   {
    "name": "Run",
@@ -175,7 +181,10 @@
    "face": true,
    "duration": 3.3333,
    "loop": false,
-   "bytes": 250676
+   "bytes": 250676,
+   "show": [
+    "face11_sp01"
+   ]
   },
   {
    "name": "Ultra_NoTL",
@@ -199,7 +208,10 @@
    "face": true,
    "duration": 5.7333,
    "loop": false,
-   "bytes": 207788
+   "bytes": 207788,
+   "show": [
+    "face11_sp01"
+   ]
   },
   {
    "name": "VictoryLoop",

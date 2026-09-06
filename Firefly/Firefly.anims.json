@@ -7,7 +7,15 @@
    "face": true,
    "duration": 7.0,
    "loop": false,
-   "bytes": 225428
+   "bytes": 225428,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5"
+   ]
   },
   {
    "name": "timeline2",
@@ -15,7 +23,17 @@
    "face": true,
    "duration": 6.6667,
    "loop": false,
-   "bytes": 193172
+   "bytes": 193172,
+   "hide": [
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Attack_1",
@@ -23,7 +41,22 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 139268
+   "bytes": 139268,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Attack_2",
@@ -31,7 +64,22 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 127248
+   "bytes": 127248,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Attack_3_1",
@@ -39,7 +87,22 @@
    "face": false,
    "duration": 1.9333,
    "loop": false,
-   "bytes": 165132
+   "bytes": 165132,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B1T4_Skill_Blade_3_Hurt",
@@ -47,7 +110,18 @@
    "face": false,
    "duration": 1.8333,
    "loop": false,
-   "bytes": 167868
+   "bytes": 167868,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5"
+   ]
   },
   {
    "name": "B2T12_Skill_Cannon_Sustain_1_Start",
@@ -55,7 +129,19 @@
    "face": false,
    "duration": 0.7667,
    "loop": false,
-   "bytes": 89032
+   "bytes": 89032,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2T12_Skill_Cannon_Sustain_2_Loop",
@@ -63,7 +149,19 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 81628
+   "bytes": 81628,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2T12_Skill_Cannon_Sustain_3_End",
@@ -71,7 +169,19 @@
    "face": false,
    "duration": 0.1,
    "loop": false,
-   "bytes": 53040
+   "bytes": 53040,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2T4_Skill_Cannon_3_Hurt",
@@ -79,7 +189,19 @@
    "face": false,
    "duration": 2.7333,
    "loop": false,
-   "bytes": 177176
+   "bytes": 177176,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2_Skill_Cannon_1_Start",
@@ -87,7 +209,19 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 124284
+   "bytes": 124284,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2_Skill_Cannon_2_End",
@@ -95,7 +229,19 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 116096
+   "bytes": 116096,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2_Skill_Cannon_3_IdleEnd",
@@ -103,7 +249,19 @@
    "face": false,
    "duration": 1.7333,
    "loop": false,
-   "bytes": 138804
+   "bytes": 138804,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2_Skill_Cannon_Aim",
@@ -111,7 +269,19 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 92496
+   "bytes": 92496,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2_Skill_Cannon_Shoot_1",
@@ -119,7 +289,19 @@
    "face": false,
    "duration": 0.4667,
    "loop": false,
-   "bytes": 72672
+   "bytes": 72672,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2_Skill_Cannon_Shoot_2",
@@ -127,7 +309,19 @@
    "face": false,
    "duration": 0.4667,
    "loop": false,
-   "bytes": 70168
+   "bytes": 70168,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2_Skill_Cannon_Shoot_3",
@@ -135,7 +329,19 @@
    "face": false,
    "duration": 0.5,
    "loop": false,
-   "bytes": 74776
+   "bytes": 74776,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2_Skill_Cannon_Shoot_4",
@@ -143,7 +349,19 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 76840
+   "bytes": 76840,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2_Skill_Cannon_Shoot_5",
@@ -151,7 +369,19 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 104580
+   "bytes": 104580,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2_Skill_Cannon_Sustain_1_Start",
@@ -159,7 +389,19 @@
    "face": false,
    "duration": 2.6333,
    "loop": false,
-   "bytes": 148940
+   "bytes": 148940,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2_Skill_Cannon_Sustain_2_Loop",
@@ -167,7 +409,19 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 81364
+   "bytes": 81364,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "B2_Skill_Cannon_Sustain_3_End",
@@ -175,7 +429,19 @@
    "face": false,
    "duration": 0.1,
    "loop": false,
-   "bytes": 53400
+   "bytes": 53400,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Cannon_Dazed",
@@ -183,7 +449,19 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 87640
+   "bytes": 87640,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Cannon_Death",
@@ -191,7 +469,19 @@
    "face": false,
    "duration": 2.4,
    "loop": false,
-   "bytes": 179372
+   "bytes": 179372,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Cannon_Dodge",
@@ -199,7 +489,19 @@
    "face": false,
    "duration": 0.5,
    "loop": false,
-   "bytes": 113700
+   "bytes": 113700,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Cannon_Hurt",
@@ -207,7 +509,19 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 120560
+   "bytes": 120560,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Cannon_Hurt1",
@@ -215,7 +529,19 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 116712
+   "bytes": 116712,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Cannon_Hurt2",
@@ -223,7 +549,19 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 105316
+   "bytes": 105316,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Cannon_Idle",
@@ -231,7 +569,19 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 91272
+   "bytes": 91272,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Cannon_Run",
@@ -239,7 +589,19 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 86552
+   "bytes": 86552,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Cannon_Rush",
@@ -247,7 +609,19 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 91360
+   "bytes": 91360,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Cannon_RushStart",
@@ -255,7 +629,19 @@
    "face": false,
    "duration": 0.4,
    "loop": false,
-   "bytes": 66352
+   "bytes": 66352,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Cannon_RushStop",
@@ -263,7 +649,19 @@
    "face": false,
    "duration": 0.9,
    "loop": true,
-   "bytes": 107524
+   "bytes": 107524,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Cannon_Walk",
@@ -271,7 +669,19 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 87388
+   "bytes": 87388,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Dazed",
@@ -279,7 +689,22 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 77864
+   "bytes": 77864,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Death",
@@ -287,7 +712,22 @@
    "face": false,
    "duration": 2.4,
    "loop": false,
-   "bytes": 168364
+   "bytes": 168364,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Dodge",
@@ -295,7 +735,22 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 117484
+   "bytes": 117484,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Dodge_Hurt",
@@ -303,7 +758,18 @@
    "face": false,
    "duration": 2.3,
    "loop": false,
-   "bytes": 209848
+   "bytes": 209848,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5"
+   ]
   },
   {
    "name": "Dodge_Hurt1",
@@ -311,7 +777,18 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 143472
+   "bytes": 143472,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5"
+   ]
   },
   {
    "name": "Hurt",
@@ -319,7 +796,22 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 93256
+   "bytes": 93256,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Hurt1",
@@ -327,7 +819,22 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 111848
+   "bytes": 111848,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Hurt2",
@@ -335,7 +842,22 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 96520
+   "bytes": 96520,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Idle",
@@ -343,7 +865,22 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 81448
+   "bytes": 81448,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Out01",
@@ -351,7 +888,23 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 125628
+   "bytes": 125628,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Ready",
@@ -359,7 +912,24 @@
    "face": true,
    "duration": 4.4333,
    "loop": false,
-   "bytes": 168564
+   "bytes": 168564,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_sword",
+    "weapon_sword_light",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Readyloop",
@@ -367,7 +937,24 @@
    "face": true,
    "duration": 3.3333,
    "loop": true,
-   "bytes": 85384
+   "bytes": 85384,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_sword",
+    "weapon_sword_light",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Run",
@@ -375,7 +962,22 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 81520
+   "bytes": 81520,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Rush",
@@ -383,7 +985,22 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 81880
+   "bytes": 81880,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "RushStop",
@@ -391,7 +1008,22 @@
    "face": false,
    "duration": 0.9,
    "loop": true,
-   "bytes": 100796
+   "bytes": 100796,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Support_Skill_Blade_1_Start",
@@ -399,7 +1031,12 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 162904
+   "bytes": 162904,
+   "hide": [
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4"
+   ]
   },
   {
    "name": "Support_Skill_Blade_2_End",
@@ -407,7 +1044,14 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 82752
+   "bytes": 82752,
+   "hide": [
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Support_Skill_Blade_Attack",
@@ -415,7 +1059,33 @@
    "face": false,
    "duration": 5.3333,
    "loop": false,
-   "bytes": 317260
+   "bytes": 317260,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL",
+    "weapon_downL_light",
+    "weapon_downR",
+    "weapon_downR_light",
+    "weapon_item01_light_1",
+    "weapon_item01_light_2",
+    "weapon_item02_light_1",
+    "weapon_item02_light_2",
+    "weapon_item03_light_1",
+    "weapon_item03_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL",
+    "weapon_upL_light",
+    "weapon_upR",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Support_Skill_Blade_Attack_1",
@@ -423,7 +1093,33 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 119448
+   "bytes": 119448,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL",
+    "weapon_downL_light",
+    "weapon_downR",
+    "weapon_downR_light",
+    "weapon_item01_light_1",
+    "weapon_item01_light_2",
+    "weapon_item02_light_1",
+    "weapon_item02_light_2",
+    "weapon_item03_light_1",
+    "weapon_item03_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL",
+    "weapon_upL_light",
+    "weapon_upR",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Support_Skill_Blade_Attack_2",
@@ -431,7 +1127,33 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 155104
+   "bytes": 155104,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL",
+    "weapon_downL_light",
+    "weapon_downR",
+    "weapon_downR_light",
+    "weapon_item01_light_1",
+    "weapon_item01_light_2",
+    "weapon_item02_light_1",
+    "weapon_item02_light_2",
+    "weapon_item03_light_1",
+    "weapon_item03_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL",
+    "weapon_upL_light",
+    "weapon_upR",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Support_Skill_Blade_Attack_3",
@@ -439,7 +1161,33 @@
    "face": false,
    "duration": 1.4333,
    "loop": false,
-   "bytes": 159720
+   "bytes": 159720,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL",
+    "weapon_downL_light",
+    "weapon_downR",
+    "weapon_downR_light",
+    "weapon_item01_light_1",
+    "weapon_item01_light_2",
+    "weapon_item02_light_1",
+    "weapon_item02_light_2",
+    "weapon_item03_light_1",
+    "weapon_item03_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL",
+    "weapon_upL_light",
+    "weapon_upR",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Support_Skill_Blade_Attack_4",
@@ -447,7 +1195,33 @@
    "face": false,
    "duration": 3.6,
    "loop": false,
-   "bytes": 204888
+   "bytes": 204888,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL",
+    "weapon_downL_light",
+    "weapon_downR",
+    "weapon_downR_light",
+    "weapon_item01_light_1",
+    "weapon_item01_light_2",
+    "weapon_item02_light_1",
+    "weapon_item02_light_2",
+    "weapon_item03_light_1",
+    "weapon_item03_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL",
+    "weapon_upL_light",
+    "weapon_upR",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Support_Skill_Blade_Attack_Weapon",
@@ -463,7 +1237,33 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 82584
+   "bytes": 82584,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL",
+    "weapon_downL_light",
+    "weapon_downR",
+    "weapon_downR_light",
+    "weapon_item01_light_1",
+    "weapon_item01_light_2",
+    "weapon_item02_light_1",
+    "weapon_item02_light_2",
+    "weapon_item03_light_1",
+    "weapon_item03_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL",
+    "weapon_upL_light",
+    "weapon_upR",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Support_Skill_Blade_P24_Cut",
@@ -471,7 +1271,21 @@
    "face": false,
    "duration": 4.1667,
    "loop": false,
-   "bytes": 239672
+   "bytes": 239672,
+   "hide": [
+    "weapon_downL",
+    "weapon_downL_light",
+    "weapon_downR",
+    "weapon_downR_light",
+    "weapon_item01_light_1",
+    "weapon_item01_light_2",
+    "weapon_item03_light_1",
+    "weapon_item03_light_2",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4"
+   ]
   },
   {
    "name": "Support_Skill_Blade_Run",
@@ -479,7 +1293,33 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 87060
+   "bytes": 87060,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL",
+    "weapon_downL_light",
+    "weapon_downR",
+    "weapon_downR_light",
+    "weapon_item01_light_1",
+    "weapon_item01_light_2",
+    "weapon_item02_light_1",
+    "weapon_item02_light_2",
+    "weapon_item03_light_1",
+    "weapon_item03_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL",
+    "weapon_upL_light",
+    "weapon_upR",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Ultra_NoTL_1_Start",
@@ -487,7 +1327,20 @@
    "face": false,
    "duration": 0.75,
    "loop": false,
-   "bytes": 197660
+   "bytes": 197660,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Ultra_NoTL_2_Loop",
@@ -495,7 +1348,21 @@
    "face": false,
    "duration": 1.25,
    "loop": true,
-   "bytes": 131924
+   "bytes": 131924,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Ultra_NoTL_3_End",
@@ -503,7 +1370,21 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 200884
+   "bytes": 200884,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Ultra_NoTL_4",
@@ -511,7 +1392,16 @@
    "face": false,
    "duration": 4.0167,
    "loop": false,
-   "bytes": 284184
+   "bytes": 284184,
+   "hide": [
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Ultra_TL_2",
@@ -519,7 +1409,18 @@
    "face": false,
    "duration": 2.7333,
    "loop": false,
-   "bytes": 192996
+   "bytes": 192996,
+   "hide": [
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Ultra_TL_2",
@@ -527,7 +1428,18 @@
    "face": false,
    "duration": 2.55,
    "loop": false,
-   "bytes": 182836
+   "bytes": 182836,
+   "hide": [
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Victory",
@@ -535,7 +1447,35 @@
    "face": true,
    "duration": 3.7333,
    "loop": false,
-   "bytes": 221172
+   "bytes": 221172,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL",
+    "weapon_downL_light",
+    "weapon_downR",
+    "weapon_downR_light",
+    "weapon_item01_light_1",
+    "weapon_item01_light_2",
+    "weapon_item02_light_1",
+    "weapon_item02_light_2",
+    "weapon_item03_light_1",
+    "weapon_item03_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_sword",
+    "weapon_sword_light",
+    "weapon_upL",
+    "weapon_upL_light",
+    "weapon_upR",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -543,7 +1483,33 @@
    "face": true,
    "duration": 3.3333,
    "loop": true,
-   "bytes": 83036
+   "bytes": 83036,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL",
+    "weapon_downL_light",
+    "weapon_downR",
+    "weapon_downR_light",
+    "weapon_item01_light_1",
+    "weapon_item01_light_2",
+    "weapon_item02_light_1",
+    "weapon_item02_light_2",
+    "weapon_item03_light_1",
+    "weapon_item03_light_2",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_1",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL",
+    "weapon_upL_light",
+    "weapon_upR",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Walk",
@@ -551,7 +1517,22 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 81652
+   "bytes": 81652,
+   "hide": [
+    "weapon_centre",
+    "weapon_centre_light_1",
+    "weapon_centre_light_2",
+    "weapon_downL_light",
+    "weapon_downR_light",
+    "weapon_key",
+    "weapon_key_light",
+    "weapon_light_circle_2",
+    "weapon_light_circle_3",
+    "weapon_light_circle_4",
+    "weapon_light_circle_5",
+    "weapon_upL_light",
+    "weapon_upR_light"
+   ]
   },
   {
    "name": "Weapon_sword_Support_Skill_Blade_Attack",

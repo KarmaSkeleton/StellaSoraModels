@@ -7,7 +7,15 @@
    "face": true,
    "duration": 7.1667,
    "loop": false,
-   "bytes": 558072
+   "bytes": 558072,
+   "hide": [
+    "penguin_face1",
+    "penguin_face2",
+    "penguin_face3",
+    "penguin_face4",
+    "penguin_face5",
+    "weapon004"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -15,7 +23,15 @@
    "face": true,
    "duration": 2.0,
    "loop": true,
-   "bytes": 142592
+   "bytes": 142592,
+   "hide": [
+    "penguin_face1",
+    "penguin_face2",
+    "penguin_face3",
+    "penguin_face4",
+    "penguin_face5",
+    "weapon004"
+   ]
   },
   {
    "name": "Timeline",
@@ -23,7 +39,17 @@
    "face": true,
    "duration": 4.0333,
    "loop": false,
-   "bytes": 678776
+   "bytes": 678776,
+   "show": [
+    "penguin_face1",
+    "penguin_face2",
+    "penguin_face3",
+    "penguin_face4",
+    "penguin_face5"
+   ],
+   "hide": [
+    "weapon1"
+   ]
   },
   {
    "name": "Victory",
@@ -31,7 +57,17 @@
    "face": true,
    "duration": 3.3333,
    "loop": false,
-   "bytes": 436776
+   "bytes": 436776,
+   "show": [
+    "penguin_face1",
+    "penguin_face2",
+    "penguin_face3",
+    "penguin_face4",
+    "penguin_face5"
+   ],
+   "hide": [
+    "weapon1"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -39,7 +75,10 @@
    "face": true,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 176760
+   "bytes": 176760,
+   "hide": [
+    "weapon1"
+   ]
   }
  ]
 }

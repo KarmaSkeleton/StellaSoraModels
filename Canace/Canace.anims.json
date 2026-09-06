@@ -183,7 +183,10 @@
    "face": false,
    "duration": 5.8333,
    "loop": false,
-   "bytes": 272880
+   "bytes": 272880,
+   "show": [
+    "Star"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -191,7 +194,10 @@
    "face": false,
    "duration": 4.0,
    "loop": true,
-   "bytes": 100612
+   "bytes": 100612,
+   "show": [
+    "Star"
+   ]
   },
   {
    "name": "Run",
@@ -279,7 +285,10 @@
    "face": false,
    "duration": 4.1667,
    "loop": false,
-   "bytes": 201708
+   "bytes": 201708,
+   "show": [
+    "Star"
+   ]
   },
   {
    "name": "VictoryLoop",

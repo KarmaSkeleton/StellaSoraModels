@@ -7,7 +7,10 @@
    "face": true,
    "duration": 4.1833,
    "loop": false,
-   "bytes": 166564
+   "bytes": 166564,
+   "hide": [
+    "star"
+   ]
   },
   {
    "name": "Attack",
@@ -311,7 +314,10 @@
    "face": false,
    "duration": 1.85,
    "loop": false,
-   "bytes": 59056
+   "bytes": 59056,
+   "hide": [
+    "star"
+   ]
   },
   {
    "name": "Ultra_TimeLine",
@@ -319,7 +325,10 @@
    "face": false,
    "duration": 1.7,
    "loop": false,
-   "bytes": 60404
+   "bytes": 60404,
+   "hide": [
+    "star"
+   ]
   },
   {
    "name": "Victory",

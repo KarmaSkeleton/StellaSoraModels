@@ -151,7 +151,10 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 75464
+   "bytes": 75464,
+   "hide": [
+    "star"
+   ]
   },
   {
    "name": "Idle_FenShen_2",
@@ -159,7 +162,10 @@
    "face": false,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 74428
+   "bytes": 74428,
+   "hide": [
+    "star"
+   ]
   },
   {
    "name": "Idle_FenShen_3",
@@ -167,7 +173,10 @@
    "face": false,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 74776
+   "bytes": 74776,
+   "hide": [
+    "star"
+   ]
   },
   {
    "name": "Idle_FenShen_4",
@@ -175,7 +184,10 @@
    "face": false,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 74240
+   "bytes": 74240,
+   "hide": [
+    "star"
+   ]
   },
   {
    "name": "Main_Skill_Base_SanLianZhan",
@@ -207,7 +219,11 @@
    "face": true,
    "duration": 8.4333,
    "loop": false,
-   "bytes": 167584
+   "bytes": 167584,
+   "hide": [
+    "sword",
+    "sword_l"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -215,7 +231,11 @@
    "face": true,
    "duration": 2.1667,
    "loop": true,
-   "bytes": 71632
+   "bytes": 71632,
+   "hide": [
+    "sword",
+    "sword_l"
+   ]
   },
   {
    "name": "Ready_Shadow01",
@@ -319,7 +339,10 @@
    "face": true,
    "duration": 2.4,
    "loop": false,
-   "bytes": 126216
+   "bytes": 126216,
+   "show": [
+    "sword_l"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -327,7 +350,10 @@
    "face": true,
    "duration": 3.2,
    "loop": true,
-   "bytes": 77840
+   "bytes": 77840,
+   "hide": [
+    "sword"
+   ]
   },
   {
    "name": "Walk",

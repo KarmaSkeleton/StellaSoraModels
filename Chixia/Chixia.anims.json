@@ -135,7 +135,10 @@
    "face": false,
    "duration": 3.0,
    "loop": true,
-   "bytes": 215932
+   "bytes": 215932,
+   "hide": [
+    "weapon"
+   ]
   },
   {
    "name": "Main_Skill_SpurtFire_3_End",

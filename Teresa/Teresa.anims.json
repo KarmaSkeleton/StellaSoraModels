@@ -207,7 +207,10 @@
    "face": true,
    "duration": 5.3667,
    "loop": false,
-   "bytes": 263524
+   "bytes": 263524,
+   "hide": [
+    "bag"
+   ]
   },
   {
    "name": "Ultra_NoTL",

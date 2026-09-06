@@ -7,7 +7,16 @@
    "face": true,
    "duration": 3.6667,
    "loop": false,
-   "bytes": 181988
+   "bytes": 181988,
+   "show": [
+    "face_07sp"
+   ],
+   "hide": [
+    "cup",
+    "daojia",
+    "leg",
+    "quilt"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -15,7 +24,16 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 119700
+   "bytes": 119700,
+   "show": [
+    "face_07sp"
+   ],
+   "hide": [
+    "cup",
+    "daojia",
+    "leg",
+    "quilt"
+   ]
   },
   {
    "name": "Timeline",
@@ -23,7 +41,16 @@
    "face": true,
    "duration": 4.55,
    "loop": false,
-   "bytes": 387464
+   "bytes": 387464,
+   "show": [
+    "face_07sp"
+   ],
+   "hide": [
+    "cup",
+    "daojia",
+    "leg",
+    "quilt"
+   ]
   },
   {
    "name": "Victory",
@@ -31,7 +58,17 @@
    "face": true,
    "duration": 4.0,
    "loop": false,
-   "bytes": 135820
+   "bytes": 135820,
+   "show": [
+    "cup",
+    "daojia",
+    "face_07sp",
+    "leg",
+    "quilt"
+   ],
+   "hide": [
+    "weapon1"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -39,7 +76,10 @@
    "face": true,
    "duration": 2.0,
    "loop": true,
-   "bytes": 91220
+   "bytes": 91220,
+   "hide": [
+    "weapon1"
+   ]
   }
  ]
 }

@@ -175,7 +175,11 @@
    "face": true,
    "duration": 3.0,
    "loop": true,
-   "bytes": 62116
+   "bytes": 62116,
+   "hide": [
+    "bullet",
+    "bullet_1"
+   ]
   },
   {
    "name": "Reload",
@@ -359,7 +363,11 @@
    "face": true,
    "duration": 2.3333,
    "loop": false,
-   "bytes": 89724
+   "bytes": 89724,
+   "hide": [
+    "bullet",
+    "bullet_1"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -367,7 +375,11 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 75540
+   "bytes": 75540,
+   "hide": [
+    "bullet",
+    "bullet_1"
+   ]
   },
   {
    "name": "Walk",
