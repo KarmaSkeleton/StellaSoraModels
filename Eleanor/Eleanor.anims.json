@@ -1,0 +1,245 @@
+{
+ "id": "13701",
+ "clips": [
+  {
+   "name": "137_Atk_Sp",
+   "file": "anim/char_13701/137_Atk_Sp.glb",
+   "face": false,
+   "duration": 2.2333,
+   "loop": false,
+   "bytes": 166652
+  },
+  {
+   "name": "137_Atk_Sp_P1",
+   "file": "anim/char_13701/137_Atk_Sp_P1.glb",
+   "face": false,
+   "duration": 2.6,
+   "loop": false,
+   "bytes": 214748
+  },
+  {
+   "name": "137_Attack_1",
+   "file": "anim/char_13701/137_Attack_1.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 186428
+  },
+  {
+   "name": "137_Attack_2",
+   "file": "anim/char_13701/137_Attack_2.glb",
+   "face": false,
+   "duration": 1.8,
+   "loop": false,
+   "bytes": 269812
+  },
+  {
+   "name": "137_Attack_3",
+   "file": "anim/char_13701/137_Attack_3.glb",
+   "face": false,
+   "duration": 2.4333,
+   "loop": false,
+   "bytes": 343092
+  },
+  {
+   "name": "137_Attack_4",
+   "file": "anim/char_13701/137_Attack_4.glb",
+   "face": false,
+   "duration": 2.1667,
+   "loop": false,
+   "bytes": 426384
+  },
+  {
+   "name": "137_Attack_5",
+   "file": "anim/char_13701/137_Attack_5.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 258284
+  },
+  {
+   "name": "137_Dazed",
+   "file": "anim/char_13701/137_Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 80856
+  },
+  {
+   "name": "137_Die",
+   "file": "anim/char_13701/137_Die.glb",
+   "face": false,
+   "duration": 3.3,
+   "loop": false,
+   "bytes": 188616
+  },
+  {
+   "name": "137_Dodge",
+   "file": "anim/char_13701/137_Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 99208
+  },
+  {
+   "name": "137_HurtA1",
+   "file": "anim/char_13701/137_HurtA1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 100848
+  },
+  {
+   "name": "137_HurtA2",
+   "file": "anim/char_13701/137_HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 98868
+  },
+  {
+   "name": "137_HurtB",
+   "file": "anim/char_13701/137_HurtB.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 126220
+  },
+  {
+   "name": "137_Idle",
+   "file": "anim/char_13701/137_Idle.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 76340
+  },
+  {
+   "name": "137_Out01",
+   "file": "anim/char_13701/137_Out01.glb",
+   "face": false,
+   "duration": 1.7667,
+   "loop": false,
+   "bytes": 117980
+  },
+  {
+   "name": "137_Ready",
+   "file": "anim/char_13701/137_Ready.glb",
+   "face": true,
+   "duration": 4.1667,
+   "loop": false,
+   "bytes": 273156
+  },
+  {
+   "name": "137_ReadyLoop",
+   "file": "anim/char_13701/137_ReadyLoop.glb",
+   "face": true,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 92964
+  },
+  {
+   "name": "137_Run",
+   "file": "anim/char_13701/137_Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 106220
+  },
+  {
+   "name": "137_Rush",
+   "file": "anim/char_13701/137_Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 105748
+  },
+  {
+   "name": "137_RushStop",
+   "file": "anim/char_13701/137_RushStop.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 128748
+  },
+  {
+   "name": "137_Skill_Main",
+   "file": "anim/char_13701/137_Skill_Main.glb",
+   "face": false,
+   "duration": 3.1667,
+   "loop": false,
+   "bytes": 264188
+  },
+  {
+   "name": "137_Skill_Sup",
+   "file": "anim/char_13701/137_Skill_Sup.glb",
+   "face": false,
+   "duration": 9.1667,
+   "loop": false,
+   "bytes": 1028580
+  },
+  {
+   "name": "137_Timeline",
+   "file": "anim/char_13701/137_Timeline.glb",
+   "face": true,
+   "duration": 4.5,
+   "loop": false,
+   "bytes": 335620
+  },
+  {
+   "name": "137_Ultra_NoTL",
+   "file": "anim/char_13701/137_Ultra_NoTL.glb",
+   "face": false,
+   "duration": 4.5333,
+   "loop": false,
+   "bytes": 424460
+  },
+  {
+   "name": "137_Ultra_TL",
+   "file": "anim/char_13701/137_Ultra_TL.glb",
+   "face": false,
+   "duration": 3.4667,
+   "loop": false,
+   "bytes": 290972
+  },
+  {
+   "name": "137_Victory",
+   "file": "anim/char_13701/137_Victory.glb",
+   "face": true,
+   "duration": 7.0,
+   "loop": false,
+   "bytes": 234388
+  },
+  {
+   "name": "137_VictoryLoop",
+   "file": "anim/char_13701/137_VictoryLoop.glb",
+   "face": true,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 70524
+  },
+  {
+   "name": "137_VictoryLoop_UAV02",
+   "file": "anim/char_13701/137_VictoryLoop_UAV02.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 756
+  },
+  {
+   "name": "137_Victory_UAV02",
+   "file": "anim/char_13701/137_Victory_UAV02.glb",
+   "face": false,
+   "duration": 7.0,
+   "loop": false,
+   "bytes": 736
+  },
+  {
+   "name": "137_Walk",
+   "file": "anim/char_13701/137_Walk.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": true,
+   "bytes": 90436
+  }
+ ]
+}
