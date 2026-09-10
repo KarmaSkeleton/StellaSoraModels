@@ -1,0 +1,45 @@
+{
+ "id": "10704",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Tilia/Tilia_Shining_Bright_Spirits_High_anims/Ready.glb",
+   "face": true,
+   "duration": 6.0,
+   "loop": true,
+   "bytes": 248504
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Tilia/Tilia_Shining_Bright_Spirits_High_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.0,
+   "loop": false,
+   "bytes": 66900
+  },
+  {
+   "name": "Timeline",
+   "file": "Tilia/Tilia_Shining_Bright_Spirits_High_anims/Timeline.glb",
+   "face": true,
+   "duration": 4.1833,
+   "loop": false,
+   "bytes": 197428
+  },
+  {
+   "name": "Victory",
+   "file": "Tilia/Tilia_Shining_Bright_Spirits_High_anims/Victory.glb",
+   "face": true,
+   "duration": 4.6667,
+   "loop": false,
+   "bytes": 128120
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Tilia/Tilia_Shining_Bright_Spirits_High_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 74936
+  }
+ ]
+}

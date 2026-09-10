@@ -65,6 +65,11 @@
   "label": "Donna"
  },
  {
+  "id": "13701",
+  "file": "Eleanor/Eleanor.glb",
+  "label": "Eleanor"
+ },
+ {
   "id": "11501",
   "file": "Firefly/Firefly.glb",
   "label": "Firefly"
@@ -255,13 +260,13 @@
   "label": "Tilia"
  },
  {
+  "id": "10704",
+  "file": "Tilia/Tilia_Shining_Bright_Spirits_High.glb",
+  "label": "Tilia: Shining Bright, Spirits High"
+ },
+ {
   "id": "14301",
   "file": "Wraith/Wraith.glb",
   "label": "Wraith"
- },
-  {
-  "id": "13701",
-  "file": "Eleanor/Eleanor.glb",
-  "label": "Eleanor"
  }
 ]
