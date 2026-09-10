@@ -1,0 +1,245 @@
+{
+ "id": "13701",
+ "clips": [
+  {
+   "name": "Atk_Sp",
+   "file": "Eleanor/Eleanor_anims/Atk_Sp.glb",
+   "face": false,
+   "duration": 2.2333,
+   "loop": false,
+   "bytes": 166652
+  },
+  {
+   "name": "Atk_Sp_P1",
+   "file": "Eleanor/Eleanor_anims/Atk_Sp_P1.glb",
+   "face": false,
+   "duration": 2.6,
+   "loop": false,
+   "bytes": 214748
+  },
+  {
+   "name": "Attack_1",
+   "file": "Eleanor/Eleanor_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.3667,
+   "loop": false,
+   "bytes": 186428
+  },
+  {
+   "name": "Attack_2",
+   "file": "Eleanor/Eleanor_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.8,
+   "loop": false,
+   "bytes": 269812
+  },
+  {
+   "name": "Attack_3",
+   "file": "Eleanor/Eleanor_anims/Attack_3.glb",
+   "face": false,
+   "duration": 2.4333,
+   "loop": false,
+   "bytes": 343092
+  },
+  {
+   "name": "Attack_4",
+   "file": "Eleanor/Eleanor_anims/Attack_4.glb",
+   "face": false,
+   "duration": 2.1667,
+   "loop": false,
+   "bytes": 426384
+  },
+  {
+   "name": "Attack_5",
+   "file": "Eleanor/Eleanor_anims/Attack_5.glb",
+   "face": false,
+   "duration": 1.4667,
+   "loop": false,
+   "bytes": 258284
+  },
+  {
+   "name": "Dazed",
+   "file": "Eleanor/Eleanor_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 80856
+  },
+  {
+   "name": "Die",
+   "file": "Eleanor/Eleanor_anims/Die.glb",
+   "face": false,
+   "duration": 3.3,
+   "loop": false,
+   "bytes": 188616
+  },
+  {
+   "name": "Dodge",
+   "file": "Eleanor/Eleanor_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 99208
+  },
+  {
+   "name": "HurtA1",
+   "file": "Eleanor/Eleanor_anims/HurtA1.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 100848
+  },
+  {
+   "name": "HurtA2",
+   "file": "Eleanor/Eleanor_anims/HurtA2.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 98868
+  },
+  {
+   "name": "HurtB",
+   "file": "Eleanor/Eleanor_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 126220
+  },
+  {
+   "name": "Idle",
+   "file": "Eleanor/Eleanor_anims/Idle.glb",
+   "face": false,
+   "duration": 2.3333,
+   "loop": true,
+   "bytes": 76340
+  },
+  {
+   "name": "Out01",
+   "file": "Eleanor/Eleanor_anims/Out01.glb",
+   "face": false,
+   "duration": 1.7667,
+   "loop": false,
+   "bytes": 117980
+  },
+  {
+   "name": "Ready",
+   "file": "Eleanor/Eleanor_anims/Ready.glb",
+   "face": true,
+   "duration": 4.1667,
+   "loop": false,
+   "bytes": 273156
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Eleanor/Eleanor_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 92964
+  },
+  {
+   "name": "Run",
+   "file": "Eleanor/Eleanor_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 106220
+  },
+  {
+   "name": "Rush",
+   "file": "Eleanor/Eleanor_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 105748
+  },
+  {
+   "name": "RushStop",
+   "file": "Eleanor/Eleanor_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.4,
+   "loop": false,
+   "bytes": 128748
+  },
+  {
+   "name": "Skill_Main",
+   "file": "Eleanor/Eleanor_anims/Skill_Main.glb",
+   "face": false,
+   "duration": 3.1667,
+   "loop": false,
+   "bytes": 264188
+  },
+  {
+   "name": "Skill_Sup",
+   "file": "Eleanor/Eleanor_anims/Skill_Sup.glb",
+   "face": false,
+   "duration": 9.1667,
+   "loop": false,
+   "bytes": 1028580
+  },
+  {
+   "name": "Timeline",
+   "file": "Eleanor/Eleanor_anims/Timeline.glb",
+   "face": true,
+   "duration": 4.5,
+   "loop": false,
+   "bytes": 335620
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Eleanor/Eleanor_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 4.5333,
+   "loop": false,
+   "bytes": 424460
+  },
+  {
+   "name": "Ultra_TL",
+   "file": "Eleanor/Eleanor_anims/Ultra_TL.glb",
+   "face": false,
+   "duration": 3.4667,
+   "loop": false,
+   "bytes": 290972
+  },
+  {
+   "name": "Victory",
+   "file": "Eleanor/Eleanor_anims/Victory.glb",
+   "face": true,
+   "duration": 7.0,
+   "loop": false,
+   "bytes": 234388
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Eleanor/Eleanor_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 70524
+  },
+  {
+   "name": "VictoryLoop_UAV02",
+   "file": "Eleanor/Eleanor_anims/VictoryLoop_UAV02.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": true,
+   "bytes": 756
+  },
+  {
+   "name": "Victory_UAV02",
+   "file": "Eleanor/Eleanor_anims/Victory_UAV02.glb",
+   "face": false,
+   "duration": 7.0,
+   "loop": false,
+   "bytes": 736
+  },
+  {
+   "name": "Walk",
+   "file": "Eleanor/Eleanor_anims/Walk.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": true,
+   "bytes": 90436
+  }
+ ]
+}
