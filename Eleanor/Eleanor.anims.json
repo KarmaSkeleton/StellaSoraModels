@@ -7,7 +7,15 @@
    "face": false,
    "duration": 2.2333,
    "loop": false,
-   "bytes": 166652
+   "bytes": 166648,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Atk_Sp_P1",
@@ -15,7 +23,15 @@
    "face": false,
    "duration": 2.6,
    "loop": false,
-   "bytes": 214748
+   "bytes": 214744,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Attack_1",
@@ -23,7 +39,17 @@
    "face": false,
    "duration": 1.3667,
    "loop": false,
-   "bytes": 186428
+   "bytes": 186424,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Attack_2",
@@ -31,7 +57,15 @@
    "face": false,
    "duration": 1.8,
    "loop": false,
-   "bytes": 269812
+   "bytes": 269808,
+   "hide": [
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Attack_3",
@@ -39,7 +73,15 @@
    "face": false,
    "duration": 2.4333,
    "loop": false,
-   "bytes": 343092
+   "bytes": 343088,
+   "hide": [
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Attack_4",
@@ -47,7 +89,15 @@
    "face": false,
    "duration": 2.1667,
    "loop": false,
-   "bytes": 426384
+   "bytes": 426380,
+   "hide": [
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Attack_5",
@@ -55,7 +105,15 @@
    "face": false,
    "duration": 1.4667,
    "loop": false,
-   "bytes": 258284
+   "bytes": 258280,
+   "hide": [
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Dazed",
@@ -63,7 +121,17 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 80856
+   "bytes": 80852,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Die",
@@ -71,7 +139,17 @@
    "face": false,
    "duration": 3.3,
    "loop": false,
-   "bytes": 188616
+   "bytes": 188612,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Dodge",
@@ -79,7 +157,17 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 99208
+   "bytes": 99204,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "HurtA1",
@@ -87,7 +175,17 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 100848
+   "bytes": 100844,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "HurtA2",
@@ -95,7 +193,17 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 98868
+   "bytes": 98864,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "HurtB",
@@ -103,7 +211,17 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 126220
+   "bytes": 126216,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Idle",
@@ -111,7 +229,17 @@
    "face": false,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 76340
+   "bytes": 76336,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Out01",
@@ -119,7 +247,17 @@
    "face": false,
    "duration": 1.7667,
    "loop": false,
-   "bytes": 117980
+   "bytes": 117976,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Ready",
@@ -127,7 +265,14 @@
    "face": true,
    "duration": 4.1667,
    "loop": false,
-   "bytes": 273156
+   "bytes": 273152,
+   "hide": [
+    "weapon1",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01"
+   ]
   },
   {
    "name": "ReadyLoop",
@@ -135,7 +280,14 @@
    "face": true,
    "duration": 3.0,
    "loop": true,
-   "bytes": 92964
+   "bytes": 92960,
+   "hide": [
+    "weapon1",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01"
+   ]
   },
   {
    "name": "Run",
@@ -143,7 +295,17 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 106220
+   "bytes": 106216,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Rush",
@@ -151,7 +313,17 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 105748
+   "bytes": 105744,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "RushStop",
@@ -159,7 +331,17 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 128748
+   "bytes": 128744,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Skill_Main",
@@ -167,7 +349,17 @@
    "face": false,
    "duration": 3.1667,
    "loop": false,
-   "bytes": 264188
+   "bytes": 264184,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Skill_Sup",
@@ -175,7 +367,17 @@
    "face": false,
    "duration": 9.1667,
    "loop": false,
-   "bytes": 1028580
+   "bytes": 1028576,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Timeline",
@@ -183,7 +385,15 @@
    "face": true,
    "duration": 4.5,
    "loop": false,
-   "bytes": 335620
+   "bytes": 335616,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Ultra_NoTL",
@@ -191,7 +401,12 @@
    "face": false,
    "duration": 4.5333,
    "loop": false,
-   "bytes": 424460
+   "bytes": 424456,
+   "hide": [
+    "weapon3",
+    "weapon3_01",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Ultra_TL",
@@ -199,7 +414,12 @@
    "face": false,
    "duration": 3.4667,
    "loop": false,
-   "bytes": 290972
+   "bytes": 290968,
+   "hide": [
+    "weapon3",
+    "weapon3_01",
+    "weapon5_01"
+   ]
   },
   {
    "name": "Victory",
@@ -207,7 +427,17 @@
    "face": true,
    "duration": 7.0,
    "loop": false,
-   "bytes": 234388
+   "bytes": 234384,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "VictoryLoop",
@@ -215,7 +445,17 @@
    "face": true,
    "duration": 3.0,
    "loop": true,
-   "bytes": 70524
+   "bytes": 70520,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   },
   {
    "name": "VictoryLoop_UAV02",
@@ -223,7 +463,10 @@
    "face": false,
    "duration": 3.0,
    "loop": true,
-   "bytes": 756
+   "bytes": 752,
+   "hide": [
+    "weapon5_01"
+   ]
   },
   {
    "name": "Victory_UAV02",
@@ -231,7 +474,10 @@
    "face": false,
    "duration": 7.0,
    "loop": false,
-   "bytes": 736
+   "bytes": 732,
+   "hide": [
+    "weapon5_01"
+   ]
   },
   {
    "name": "Walk",
@@ -239,7 +485,17 @@
    "face": false,
    "duration": 1.2,
    "loop": true,
-   "bytes": 90436
+   "bytes": 90432,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
   }
  ]
 }

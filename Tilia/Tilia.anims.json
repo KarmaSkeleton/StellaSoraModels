@@ -13,20 +13,12 @@
    ]
   },
   {
-   "name": "Attack",
-   "file": "Tilia/Tilia_anims/Attack.glb",
-   "face": false,
-   "duration": 3.0,
-   "loop": false,
-   "bytes": 135592
-  },
-  {
    "name": "Attack_1",
    "file": "Tilia/Tilia_anims/Attack_1.glb",
    "face": false,
    "duration": 1.2667,
    "loop": false,
-   "bytes": 73960
+   "bytes": 82576
   },
   {
    "name": "Attack_2",
@@ -34,7 +26,7 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 53688
+   "bytes": 60592
   },
   {
    "name": "Attack_3",
@@ -42,7 +34,7 @@
    "face": false,
    "duration": 1.6,
    "loop": false,
-   "bytes": 76144
+   "bytes": 82740
   },
   {
    "name": "Attack_4",
@@ -50,47 +42,7 @@
    "face": false,
    "duration": 1.2,
    "loop": false,
-   "bytes": 65988
-  },
-  {
-   "name": "B0_Skill_ShieldCounter_4_Second_End",
-   "file": "Tilia/Tilia_anims/B0_Skill_ShieldCounter_4_Second_End.glb",
-   "face": false,
-   "duration": 0.2333,
-   "loop": false,
-   "bytes": 28980
-  },
-  {
-   "name": "B2_Skill_Charge_1_Start",
-   "file": "Tilia/Tilia_anims/B2_Skill_Charge_1_Start.glb",
-   "face": false,
-   "duration": 0.3667,
-   "loop": false,
-   "bytes": 48544
-  },
-  {
-   "name": "B2_Skill_Charge_2_Loop",
-   "file": "Tilia/Tilia_anims/B2_Skill_Charge_2_Loop.glb",
-   "face": false,
-   "duration": 0.5333,
-   "loop": true,
-   "bytes": 60216
-  },
-  {
-   "name": "B2_Skill_Charge_3_End",
-   "file": "Tilia/Tilia_anims/B2_Skill_Charge_3_End.glb",
-   "face": false,
-   "duration": 2.1333,
-   "loop": false,
-   "bytes": 83980
-  },
-  {
-   "name": "B2_Skill_ShieldCounter_5_CounterAttack",
-   "file": "Tilia/Tilia_anims/B2_Skill_ShieldCounter_5_CounterAttack.glb",
-   "face": false,
-   "duration": 0.8333,
-   "loop": false,
-   "bytes": 63732
+   "bytes": 71440
   },
   {
    "name": "Dazed",
@@ -98,7 +50,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 36532
+   "bytes": 40824
   },
   {
    "name": "Die",
@@ -106,7 +58,7 @@
    "face": false,
    "duration": 1.9667,
    "loop": false,
-   "bytes": 87908
+   "bytes": 92992
   },
   {
    "name": "Dodge",
@@ -114,7 +66,7 @@
    "face": false,
    "duration": 0.9667,
    "loop": false,
-   "bytes": 62348
+   "bytes": 68572
   },
   {
    "name": "HurtA1",
@@ -122,7 +74,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 40740
+   "bytes": 46776
   },
   {
    "name": "HurtA2",
@@ -130,7 +82,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 45216
+   "bytes": 51480
   },
   {
    "name": "HurtB",
@@ -138,7 +90,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 48792
+   "bytes": 54388
   },
   {
    "name": "Idle",
@@ -146,7 +98,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 37072
+   "bytes": 41568
   },
   {
    "name": "Main_Skill_CounterAttack",
@@ -154,7 +106,7 @@
    "face": false,
    "duration": 1.5667,
    "loop": false,
-   "bytes": 92212
+   "bytes": 97440
   },
   {
    "name": "Main_Skill_P01_CounterAttack_Strengthen",
@@ -162,7 +114,7 @@
    "face": false,
    "duration": 1.9,
    "loop": false,
-   "bytes": 117804
+   "bytes": 127944
   },
   {
    "name": "Main_Skill_P02_CounterAttack_1_Loop_Strengthen",
@@ -170,7 +122,7 @@
    "face": false,
    "duration": 0.4667,
    "loop": true,
-   "bytes": 38088
+   "bytes": 41668
   },
   {
    "name": "Main_Skill_ShieldCounter_1_Loop",
@@ -178,7 +130,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 35272
+   "bytes": 39296
   },
   {
    "name": "Main_Skill_ShieldCounter_1_Start",
@@ -186,15 +138,7 @@
    "face": false,
    "duration": 0.2333,
    "loop": false,
-   "bytes": 36020
-  },
-  {
-   "name": "Open",
-   "file": "Tilia/Tilia_anims/Open.glb",
-   "face": false,
-   "duration": 1.6,
-   "loop": false,
-   "bytes": 50008
+   "bytes": 38716
   },
   {
    "name": "Out01",
@@ -202,7 +146,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 63168
+   "bytes": 69740
   },
   {
    "name": "Ready",
@@ -226,7 +170,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 57632
+   "bytes": 65908
   },
   {
    "name": "Rush",
@@ -234,7 +178,7 @@
    "face": false,
    "duration": 0.5333,
    "loop": true,
-   "bytes": 62256
+   "bytes": 67420
   },
   {
    "name": "RushStop",
@@ -242,55 +186,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 55280
-  },
-  {
-   "name": "Skill0",
-   "file": "Tilia/Tilia_anims/Skill0.glb",
-   "face": false,
-   "duration": 5.5333,
-   "loop": false,
-   "bytes": 113340
-  },
-  {
-   "name": "Skill1_4",
-   "file": "Tilia/Tilia_anims/Skill1_4.glb",
-   "face": false,
-   "duration": 0.6667,
-   "loop": false,
-   "bytes": 57696
-  },
-  {
-   "name": "Skill2_1",
-   "file": "Tilia/Tilia_anims/Skill2_1.glb",
-   "face": false,
-   "duration": 0.8333,
-   "loop": false,
-   "bytes": 56332
-  },
-  {
-   "name": "Skill2_2",
-   "file": "Tilia/Tilia_anims/Skill2_2.glb",
-   "face": false,
-   "duration": 2.7333,
-   "loop": false,
-   "bytes": 154108
-  },
-  {
-   "name": "Skill2_3",
-   "file": "Tilia/Tilia_anims/Skill2_3.glb",
-   "face": false,
-   "duration": 1.0333,
-   "loop": false,
-   "bytes": 48264
-  },
-  {
-   "name": "Standby",
-   "file": "Tilia/Tilia_anims/Standby.glb",
-   "face": false,
-   "duration": 1.7333,
-   "loop": true,
-   "bytes": 37112
+   "bytes": 60672
   },
   {
    "name": "Support_Skill_ThrowShield",
@@ -298,7 +194,7 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 77624
+   "bytes": 86240
   },
   {
    "name": "Ultra_NoTL",
@@ -306,7 +202,7 @@
    "face": false,
    "duration": 3.4333,
    "loop": false,
-   "bytes": 100632
+   "bytes": 114112
   },
   {
    "name": "Ultra_TL",
@@ -314,18 +210,7 @@
    "face": false,
    "duration": 1.85,
    "loop": false,
-   "bytes": 59056,
-   "hide": [
-    "star"
-   ]
-  },
-  {
-   "name": "Ultra_TimeLine",
-   "file": "Tilia/Tilia_anims/Ultra_TimeLine.glb",
-   "face": false,
-   "duration": 1.7,
-   "loop": false,
-   "bytes": 60404,
+   "bytes": 67932,
    "hide": [
     "star"
    ]
@@ -352,7 +237,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 46848
+   "bytes": 52152
   },
   {
    "name": "WalkBackward",
@@ -360,7 +245,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 42240
+   "bytes": 47240
   },
   {
    "name": "WalkForward",
@@ -368,7 +253,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 42280
+   "bytes": 47328
   },
   {
    "name": "WalkLeft",
@@ -376,7 +261,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 42384
+   "bytes": 47288
   },
   {
    "name": "WalkRight",
@@ -384,7 +269,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 41796
+   "bytes": 46908
   }
  ]
 }

@@ -10,14 +10,6 @@
    "bytes": 151444
   },
   {
-   "name": "Attack",
-   "file": "Firenze/Firenze_anims/Attack.glb",
-   "face": false,
-   "duration": 3.1667,
-   "loop": false,
-   "bytes": 265036
-  },
-  {
    "name": "Attack_1",
    "file": "Firenze/Firenze_anims/Attack_1.glb",
    "face": false,
@@ -56,14 +48,6 @@
    "duration": 1.1667,
    "loop": false,
    "bytes": 94988
-  },
-  {
-   "name": "Attack_test",
-   "file": "Firenze/Firenze_anims/Attack_test.glb",
-   "face": false,
-   "duration": 0.3,
-   "loop": false,
-   "bytes": 71940
   },
   {
    "name": "ChongCi",
@@ -144,50 +128,6 @@
    "duration": 2.3333,
    "loop": true,
    "bytes": 81652
-  },
-  {
-   "name": "Idle_FenShen_1",
-   "file": "Firenze/Firenze_anims/Idle_FenShen_1.glb",
-   "face": false,
-   "duration": 2.0,
-   "loop": true,
-   "bytes": 75464,
-   "hide": [
-    "star"
-   ]
-  },
-  {
-   "name": "Idle_FenShen_2",
-   "file": "Firenze/Firenze_anims/Idle_FenShen_2.glb",
-   "face": false,
-   "duration": 2.3333,
-   "loop": true,
-   "bytes": 74428,
-   "hide": [
-    "star"
-   ]
-  },
-  {
-   "name": "Idle_FenShen_3",
-   "file": "Firenze/Firenze_anims/Idle_FenShen_3.glb",
-   "face": false,
-   "duration": 2.3333,
-   "loop": true,
-   "bytes": 74776,
-   "hide": [
-    "star"
-   ]
-  },
-  {
-   "name": "Idle_FenShen_4",
-   "file": "Firenze/Firenze_anims/Idle_FenShen_4.glb",
-   "face": false,
-   "duration": 2.3333,
-   "loop": true,
-   "bytes": 74240,
-   "hide": [
-    "star"
-   ]
   },
   {
    "name": "Main_Skill_Base_SanLianZhan",
